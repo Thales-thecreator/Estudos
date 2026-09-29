@@ -8,13 +8,13 @@
 <!-- What problem does this solve, and for whom? 2–3 sentences. -->
 
 ## Demo
-<!-- Public link, GIF or screenshot. -->
+<!-- Required. Public link, GIF or screenshot. -->
 
 ## How it works
 <!-- Architecture in a few lines or a diagram. Key decisions and why. -->
 
 ## Results
-<!-- Metrics, what worked, what didn't. Be honest: recruiters value it. -->
+<!-- Real metrics compared with a simple baseline, where the model fails and why, what didn't work. Be honest: recruiters value it. -->
 
 ## How to run
 ```bash
@@ -26,3 +26,6 @@
 
 ## Next steps
 -
+
+## Post
+<!-- Link to the post about this project. -->

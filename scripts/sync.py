@@ -33,7 +33,7 @@ PHASES = [
     ("Tutorial", "Tutorial", "Git, GitHub e hábito de estudo", "Git, GitHub and study habits"),
     ("Python", "Python", "Python (CS50P)", "Python (CS50P)"),
     ("Dados & Matemática", "Data & Math", "pandas, SQL, estatística e álgebra linear", "pandas, SQL, statistics and linear algebra"),
-    ("ML Clássico", "Classical ML", "scikit-learn e Kaggle", "scikit-learn and Kaggle"),
+    ("ML Clássico", "Classical ML", "ferramentas de engenharia e scikit-learn", "engineering tools and scikit-learn"),
     ("Deep Learning", "Deep Learning", "PyTorch e fast.ai", "PyTorch and fast.ai"),
     ("MLOps", "MLOps", "Docker, FastAPI, MLflow e CI/CD", "Docker, FastAPI, MLflow and CI/CD"),
     ("LLMs & AI Engineering", "LLMs & AI Engineering", "LLMs, RAG, agentes e evals", "LLMs, RAG, agents and evals"),

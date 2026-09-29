@@ -14,7 +14,5 @@ labels: mission
 - [ ] <o que precisa existir no repo>
 
 ## Ao concluir
-- [ ] Marcar `[x]` no README da fase (`README.md` e `README.en.md`)
-- [ ] Registrar no `LOG.md`
-- [ ] Atualizar o XP no painel do `ROADMAP.md` e do `ROADMAP.en.md`
-- [ ] Ou simplesmente: `/mestre missão cumprida M?.?`
+- [ ] `/mestre missão cumprida M?.?` (o Mestre faz a prova oral de 2 perguntas, marca o `[x]` no README da fase, atualiza o `progress.yml` e roda o `scripts/sync.py`)
+- [ ] Registrar a sessão no `LOG.md`
