@@ -6,7 +6,7 @@
 
 **Início do jogo:** 2026-09-29
 
-**Meus horários fixos:** _(preencher na missão M0.5 — ex.: seg 20h, qua 20h, sáb 9h)_
+**Meus horários fixos:** _(seg 20h, qua 20h, sáb 15h)_
 
 ## 🔥 Streak
 
