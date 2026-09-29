@@ -20,10 +20,10 @@
 <!-- sync:panel -->
 | Level | Total XP | Current phase | Streak | Bosses defeated |
 |:---:|:---:|:---:|:---:|:---:|
-| **0 · Recruit** | **50** / 150 | 🟢 Phase 0 — Tutorial | 🔥 0 weeks | 0 / 9 |
+| **0 · Recruit** | **65** / 150 | 🟢 Phase 0 — Tutorial | 🔥 0 weeks | 0 / 9 |
 
 ```
-XP  [███████░░░░░░░░░░░░░]  33%   → next level: Apprentice (150 XP)
+XP  [█████████░░░░░░░░░░░]  43%   → next level: Apprentice (150 XP)
 ```
 
 > Generated from [`progress.yml`](./progress.yml) by `scripts/sync.py`. Do not edit by hand.

@@ -14,6 +14,7 @@
 - Juramentos gravados não se desfazem: podem ser corrigidos por outros, nunca apagados. Todo caminho pode se dividir num atalho paralelo e, provado seu valor, voltar a ser um só.
 - Por trezentos anos o Clero de Sangue **queimou os diários dos hereges**. Uma das mil vozes do Trono lê um diário antigo que se interrompe no meio de uma frase.
 - A língua dos feitiços não perdoa: palavras entre aspas são ditas como estão; palavras soltas são **nomes** que invocam algo, e um nome que não invoca nada vira erro.
+- Aos pés do Trono há um **labirinto entalhado** na pedra, com marcas de hóspedes anteriores que se perderam nele. Caminhos separados se reúnem num **nó de duas raízes** ou são entalhados de novo como se sempre tivessem vindo depois.
 - Algo "rasteja no vácuo entre as estrelas" e devora o tecido da realidade.
 - O mapa tem **nove círculos de conhecimento**, cada um governado por um **Suserano corrompido**. Cada vitória reconstrói uma fração da alma de Thales.
 - A criatura de obsidiana e gelo profetizou: Thales será **traído por quem jurar lealdade**; as histórias de deuses e demônios são **meias-verdades**.
@@ -33,6 +34,7 @@
 | 2026-09-29 | M0.1: o primeiro juramento quebra a Corrente I · Ignorância. | [Cena 1](./cenas/0001-o-primeiro-juramento.md) |
 | 2026-09-29 | M0.2: o diário gravado no ferro quebra a Corrente II · Silêncio. | [Cena 2](./cenas/0002-a-voz-no-ferro.md) |
 | 2026-09-29 | M0.3: o primeiro feitiço no grimório quebra a Corrente III · Página em Branco. | [Cena 3](./cenas/0003-o-grimorio.md) |
+| 2026-09-29 | M0.4: Thales atravessa o labirinto e a Corrente IV · Labirinto se desenrola. A Manopla pulsa pela primeira vez. | [Cena 4](./cenas/0004-o-labirinto.md) |
 
 ## Escolhas feitas
 

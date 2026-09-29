@@ -27,7 +27,7 @@ Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no
   Abra o [Google Colab](https://colab.research.google.com/), crie um notebook, rode `print("Olá, mundo!")` e algumas contas (`2 + 2`, `10 / 3`). Salve no repo com **Arquivo → Salvar uma cópia no GitHub** dentro de `tracks/00-tutorial/exercises/`.
   **Evidência:** `exercises/01-ola-mundo.ipynb`.
 
-- [ ] **M0.4 · Git visual** · ⛓️ *Corrente IV · Labirinto* — 15 XP
+- [x] **M0.4 · Git visual** · ⛓️ *Corrente IV · Labirinto* — 15 XP
   Complete a sequência **"Introdução"** (4 níveis) do [Learn Git Branching em PT](https://learngitbranching.js.org/?locale=pt_BR).
   **Evidência:** print da tela final em `notes/` ou uma linha no `LOG.md`.
 

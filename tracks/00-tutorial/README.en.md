@@ -27,7 +27,7 @@ Tick `[x]` when done, log it in `LOG.md`, and close the matching GitHub issue.
   Open [Google Colab](https://colab.research.google.com/), create a notebook, run `print("Hello, world!")` and a few sums (`2 + 2`, `10 / 3`). Save it into the repo with **File → Save a copy in GitHub**, under `tracks/00-tutorial/exercises/`.
   **Evidence:** `exercises/01-ola-mundo.ipynb`.
 
-- [ ] **M0.4 · Visual Git** · ⛓️ *Chain IV · Labyrinth* — 15 XP
+- [x] **M0.4 · Visual Git** · ⛓️ *Chain IV · Labyrinth* — 15 XP
   Complete the **"Introduction Sequence"** (4 levels) of [Learn Git Branching](https://learngitbranching.js.org/).
   **Evidence:** a screenshot of the final screen in `notes/` or one line in `LOG.md`.
 

@@ -7,9 +7,9 @@
 | **Name** | Thales the Heretic |
 | **Class** | Cursed Scholar (Seeker of the Primordial Truth) |
 | **Level** | 0 · *Chained Heretic* (Recruit) |
-| **XP** | 50 |
+| **XP** | 65 |
 | **Location** | Prologue — chained to the Throne of Broken Blades |
-| **Chains** | ⛓️⛓️⛓️ 3 / 6 |
+| **Chains** | ⛓️⛓️ 2 / 6 |
 
 ## Titles by level
 
