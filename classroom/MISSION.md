@@ -2,7 +2,7 @@
 
 ## Why
 Conseguir a primeira vaga como ML / MLOps / AI Engineer, partindo do zero em programação, em cerca de 18 meses.
-<!-- M0.5: reescreva com suas palavras. O que muda na sua vida quando conseguir? -->
+O maior objetivo é pegar ritmos nos estudos coisa que nunca tive e através disso ter a oportunidade de mudar minha realidade e aqueles ao seu redo.
 
 ## Success looks like
 - Escrever e testar programas em Python sem depender de tutorial.
@@ -15,7 +15,7 @@ Conseguir a primeira vaga como ML / MLOps / AI Engineer, partindo do zero em pro
 - Iniciante total em programação.
 - 8–10 h por semana; ainda sem hábito de estudo — meta semanal começa em 3 sessões.
 - Só materiais gratuitos; preferência por inglês, com apoio em português quando travar.
-<!-- M0.5: acrescente horários, rotina, o que atrapalha. -->
+- Desafios: Trabalho das 7:30 as 17:18h, rotina um tanto bagunçada e conciliar vida social.
 
 ## Out of scope
 - Pesquisa acadêmica / matemática avançada além do necessário para aplicar ML.
