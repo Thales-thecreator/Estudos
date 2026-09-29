@@ -21,7 +21,7 @@
 **Learning ML, MLOps and AI Engineering in public.** Every phase ends in a shipped project: its own repository, tests, real metrics and a public demo. The [projects](#-featured-projects) come first; the dark-fantasy RPG that keeps me studying is [further down](#-the-saga).
 
 <!-- quest:start -->
-> - ⚔️ **Current quest:** the game has not started yet — the first chain awaits.
+> - ⚔️ **Current quest:** M0.1 · Hello, GitHub — Chain I · Ignorance
 > - 📜 **Latest from the saga:** [Prologue: The Ashes of Aethelgard](./saga/capitulos/00-prologo.en.md)
 > - 🔥 **Streak:** 0 weeks · **Next level:** Apprentice (150 XP to go)
 <!-- quest:end -->

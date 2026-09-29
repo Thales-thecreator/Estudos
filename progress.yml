@@ -7,15 +7,15 @@ xp: 0
 level: 0              # 0–9; sobe com XP mínimo + chefão (ver ROADMAP)
 phase: 0              # fase atual 0–8; 9 = epílogo (Círculo 9)
 finished: false       # true só no fim da saga
-started: null         # data do /mestre começar (AAAA-MM-DD)
+started: 2026-09-29   # data do /mestre começar (AAAA-MM-DD)
 
 streak:
   current: 0          # semanas seguidas batendo a meta
   best: 0
 
 quest:                # missão atual; null antes do /mestre começar
-  pt: null            # ex.: "M0.1 · Olá, GitHub — Corrente I · Ignorância"
-  en: null
+  pt: "M0.1 · Olá, GitHub — Corrente I · Ignorância"
+  en: "M0.1 · Hello, GitHub — Chain I · Ignorance"
 
 saga_latest:          # cena ou capítulo mais recente
   pt: {title: "Prólogo: As Cinzas de Aethelgard", path: saga/capitulos/00-prologo.md}

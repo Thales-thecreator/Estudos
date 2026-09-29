@@ -23,7 +23,7 @@
 
 | Real date | Event | Where |
 |---|---|---|
-| _(date of `/mestre começar`)_ | Prologue: Thales wakes on the Throne. | [Chapter 0](./capitulos/00-prologo.en.md) |
+| 2026-09-29 | Prologue: Thales wakes on the Throne. | [Chapter 0](./capitulos/00-prologo.en.md) |
 
 ## Choices made
 

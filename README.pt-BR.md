@@ -21,7 +21,7 @@
 **Aprendendo ML, MLOps e AI Engineering em público.** Cada fase termina num projeto entregue: repositório próprio, testes, métricas reais e demo pública. Os [projetos](#-projetos-em-destaque) vêm primeiro; o RPG de fantasia sombria que me mantém estudando fica [mais abaixo](#-a-saga).
 
 <!-- quest:start -->
-> - ⚔️ **Missão atual:** o jogo ainda não começou — a primeira corrente espera.
+> - ⚔️ **Missão atual:** M0.1 · Olá, GitHub — Corrente I · Ignorância
 > - 📜 **Último da saga:** [Prólogo: As Cinzas de Aethelgard](./saga/capitulos/00-prologo.md)
 > - 🔥 **Streak:** 0 semanas · **Próximo nível:** Aprendiz (faltam 150 XP)
 <!-- quest:end -->
