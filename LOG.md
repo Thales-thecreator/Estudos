@@ -31,4 +31,4 @@ XP: só o XP de missões/chefões/aulas concluídas nessa sessão. O bônus sema
 > Vale XP de missão, mas não entra na meta nem no streak. A **Semana 1** começa na segunda, 2026-10-05.
 
 | Data | Min | Tipo | O que fiz | Missão | XP |
-|---|:---:|:---:|---|---|:---:|
+| 2026-10-29 | 40 | 🟩 | Li sobre Olá, Mundo do GitHub e fiz o exercício sobre segundo minhas palavras oque é um branch e um commit | M0.1 | 15 |
