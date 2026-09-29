@@ -20,10 +20,10 @@
 <!-- sync:panel -->
 | Nível | XP total | Fase atual | Streak | Chefões vencidos |
 |:---:|:---:|:---:|:---:|:---:|
-| **0 · Recruta** | **30** / 150 | 🟢 Fase 0 — Tutorial | 🔥 0 semanas | 0 / 9 |
+| **0 · Recruta** | **50** / 150 | 🟢 Fase 0 — Tutorial | 🔥 0 semanas | 0 / 9 |
 
 ```
-XP  [████░░░░░░░░░░░░░░░░]  20%   → próximo nível: Aprendiz (150 XP)
+XP  [███████░░░░░░░░░░░░░]  33%   → próximo nível: Aprendiz (150 XP)
 ```
 
 > Gerado a partir do [`progress.yml`](./progress.yml) por `scripts/sync.py`. Não edite à mão.
@@ -186,7 +186,7 @@ O nível sobe quando **as duas** condições são atendidas (XP mínimo **e** ch
 | | Conquista | Como desbloquear | Data |
 |:---:|---|---|:---:|
 | 🌱 | Primeiro Commit | Fazer o primeiro commit neste repo | 2026-09-29 |
-| 📓 | Primeiro Notebook | Rodar e salvar um notebook do Colab no repo | |
+| 📓 | Primeiro Notebook | Rodar e salvar um notebook do Colab no repo | 2026-09-29 |
 | 🔥 | Em Chamas | 4 semanas seguidas batendo a meta | |
 | 🌋 | Imparável | 12 semanas seguidas batendo a meta | |
 | 💻 | Saí do Colab | Rodar Python localmente no VS Code | |

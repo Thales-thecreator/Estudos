@@ -23,7 +23,7 @@ Tick `[x]` when done, log it in `LOG.md`, and close the matching GitHub issue.
   Now **edit** a file that already exists: open [`LOG.md`](../../LOG.md), click the ✏️ pencil and log your session in the week's table (date, minutes, what you did, mission). Commit it. From now on, every study session ends this way.
   **Evidence:** the session row in `LOG.md`.
 
-- [ ] **M0.3 · First notebook** · ⛓️ *Chain III · Blank Page* — 20 XP · 🏅 *First Notebook*
+- [x] **M0.3 · First notebook** · ⛓️ *Chain III · Blank Page* — 20 XP · 🏅 *First Notebook*
   Open [Google Colab](https://colab.research.google.com/), create a notebook, run `print("Hello, world!")` and a few sums (`2 + 2`, `10 / 3`). Save it into the repo with **File → Save a copy in GitHub**, under `tracks/00-tutorial/exercises/`.
   **Evidence:** `exercises/01-ola-mundo.ipynb`.
 

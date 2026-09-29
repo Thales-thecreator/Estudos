@@ -23,7 +23,7 @@ Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no
   Agora **edite** um arquivo que já existe: abra o [`LOG.md`](../../LOG.md), clique no lápis ✏️ e registre sua sessão na tabela da semana (data, minutos, o que fez, missão). Faça o commit. Daqui em diante, toda sessão de estudo termina assim.
   **Evidência:** a linha da sessão no `LOG.md`.
 
-- [ ] **M0.3 · Primeiro notebook** · ⛓️ *Corrente III · Página em Branco* — 20 XP · 🏅 *Primeiro Notebook*
+- [x] **M0.3 · Primeiro notebook** · ⛓️ *Corrente III · Página em Branco* — 20 XP · 🏅 *Primeiro Notebook*
   Abra o [Google Colab](https://colab.research.google.com/), crie um notebook, rode `print("Olá, mundo!")` e algumas contas (`2 + 2`, `10 / 3`). Salve no repo com **Arquivo → Salvar uma cópia no GitHub** dentro de `tracks/00-tutorial/exercises/`.
   **Evidência:** `exercises/01-ola-mundo.ipynb`.
 
