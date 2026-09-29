@@ -18,11 +18,11 @@
 ## 👋 About me
 
 <!-- TODO: 2–3 sentences in your own words: who you are, where you're coming from, what you want to build. -->
-_I'm **&lt;Thales Gomes&gt;**, learning in public to become an AI Engineer. &lt;_
+_I'm Thales Gomes, learning in public to become an AI Engineer._
 
 - 🎯 **Goal:** land my first ML / AI Engineer role
 - 🌱 **Currently learning:** Git, GitHub and study habits (Phase 0)
-- 📫 **Reach me:** <!-- TODO: your LinkedIn handle --> [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/))
+- 📫 **Reach me:** <!-- TODO: your LinkedIn handle --> [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/)
 
 ---
 
