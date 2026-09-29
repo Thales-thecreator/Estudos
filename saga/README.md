@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/strip-saga-pt.jpg" alt="A Saga — As Cinzas de Aethelgard" width="100%"></p>
+
 # ⛓️ A Saga de Aethelgard
 
 🇧🇷 **Português** · [🇺🇸 English](./README.en.md)

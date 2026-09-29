@@ -1,10 +1,11 @@
-# Estudos
+# Road to AI Engineer
 
 Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engineer, organizado como um jogo. O dono é iniciante em programação. Escreva em português. O repositório é **público e bilíngue**: todo doc público (READMEs, roadmap, trilhas, saga, templates, SECURITY) tem um par `*.en.md` com seletor de idioma no topo; o `README.md` e o `SECURITY.md` são o original em inglês, com par `*.pt-BR.md`. Ao editar um lado, atualize o outro. Bastidores (`CONTEXT.md`, ADRs, `classroom/`, `.claude/`, `LOG.md`, notas pessoais) e as issues ficam só em PT.
 
 ## Onde está o quê
 
-- `ROADMAP.md`: fases, missões, XP, níveis, conquistas e painel do jogador. Fonte da verdade das regras.
+- `progress.yml`: **fonte única de verdade do progresso** (XP, nível, fase, streak, missão atual, última cena, conquistas). Nunca edite badges, painéis, ficha (nível/XP) ou cores do mapa à mão: edite o `progress.yml` e rode `python scripts/sync.py`. O CI (`.github/workflows/qa.yml`) roda `sync.py --check` e `scripts/qa.py` a cada push.
+- `ROADMAP.md`: fases, missões, XP, níveis, conquistas. Fonte da verdade das **regras**.
 - `LOG.md`: uma linha por sessão; dele saem a meta semanal e o streak.
 - `CONTEXT.md`: vocabulário do jogo (fase, missão, chefão, sessão, streak...). Use esses termos.
 - `tracks/NN-nome/`: missões da fase (`README.md`), `notes/` e `exercises/`.
@@ -12,12 +13,12 @@ Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engine
 - `docs/adr/`: decisões sobre o repositório.
 - `brain/`: segundo cérebro (o repositório é um vault do Obsidian). `concepts/` = notas atômicas de conceito; `maps/` = um mapa por fase. Links sempre Markdown padrão, nunca `[[wikilinks]]`. `privado/` fica fora do git.
 - `templates/`: modelos inseridos pelo Obsidian; por isso **sem** seletor de idioma.
-- `assets/`: banner e social preview (pintura + título vetorial, gerados por `scripts/compose_art.py`), Mapa dos Nove Círculos (`circles-*.svg`, gerados por `scripts/build_visuals.py`; depois só a `/mestre` troca classes), arte da saga em `art/`, e `incoming/` para imagens recebidas.
+- `assets/`: banner e social preview (pintura + título vetorial, gerados por `scripts/compose_art.py`), Mapa dos Nove Círculos (`circles-*.svg`, gerados uma vez por `scripts/build_visuals.py`; o estado de cada círculo é aplicado pelo `scripts/sync.py`), arte da saga em `art/`, e `incoming/` para imagens recebidas.
 - `saga/`: RPG narrativo por cima do roadmap. Só a skill `/mestre` narra; fora dela, não entre em personagem. Nunca decodifique nem revele `.claude/dm/biblia.md.b64` fora da skill.
 
 ## Ao ajudar nos estudos
 
-- Missão concluída: marque `[x]` no README da fase, feche a issue, e atualize XP/nível no painel do `ROADMAP.md` e do `ROADMAP.en.md` **e** nos badges de `README.md` e `README.pt-BR.md` (manual até o chefão da Fase 5).
+- Missão concluída: marque `[x]` no README da fase (PT e EN), feche a issue, atualize o `progress.yml` e rode `python scripts/sync.py`. Antes de commitar, rode `python scripts/qa.py`.
 - Ao desbloquear uma fase, detalhe as missões dela a partir do `ROADMAP.md` (pesquise e confira os links antes) e crie as issues com label `mission` / `boss` e `phase-N`. Só a fase atual tem issues.
 - Não resolva exercícios pelo dono; guie com perguntas e dicas. Ele está aprendendo. O mesmo vale para as notas de conceito: sugira que algo merece nota, mas não escreva por ele.
 - Prefira materiais gratuitos; indique alternativa em PT quando existir.

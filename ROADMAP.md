@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/strip-roadmap-pt.jpg" alt="O Roadmap — do zero a AI Engineer em nove círculos" width="100%"></p>
+
 # 🗺️ Roadmap — Do Zero a AI Engineer
 
 🇧🇷 **Português** · [🇺🇸 English](./ROADMAP.en.md)
@@ -15,6 +17,7 @@
 
 ## 🎮 Painel do jogador
 
+<!-- sync:panel -->
 | Nível | XP total | Fase atual | Streak | Chefões vencidos |
 |:---:|:---:|:---:|:---:|:---:|
 | **0 · Recruta** | **0** / 150 | 🟢 Fase 0 — Tutorial | 🔥 0 semanas | 0 / 9 |
@@ -23,7 +26,8 @@
 XP  [░░░░░░░░░░░░░░░░░░░░]  0%   → próximo nível: Aprendiz (150 XP)
 ```
 
-> Atualize este painel (nos dois idiomas, e nos badges dos READMEs) sempre que ganhar XP. Na Fase 5 você vai automatizar isso — é o chefão de MLOps.
+> Gerado a partir do [`progress.yml`](./progress.yml) por `scripts/sync.py`. Não edite à mão.
+<!-- /sync:panel -->
 
 ---
 
@@ -44,6 +48,7 @@ flowchart LR
     F3 -.-> SQ["🗡️ Side quests<br/>CV · NLP · RecSys<br/>Séries temporais · Data Eng"]
 ```
 
+<!-- sync:phases -->
 | Fase | Nome | Semanas | XP da fase | 🐉 Chefão | Status |
 |:---:|---|:---:|:---:|---|:---:|
 | 0 | [Tutorial](./tracks/00-tutorial/) | 2 | 150 | O Guardião do Hábito | 🟢 Atual |
@@ -55,6 +60,7 @@ flowchart LR
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/) | 12 | 1000 | O Arquiteto de RAG | 🔒 |
 | 7 | [Capstone & Carreira](./tracks/07-capstone-career/) | 8 | 800 | O Capstone | 🔒 |
 | 8 | [A Caçada](./tracks/08-the-hunt/) | aberta | 500 | A Primeira Proposta | 🔒 |
+<!-- /sync:phases -->
 
 Na [saga](./saga/): **F0 = Prólogo** (as correntes), **F1–F8 = Círculos 1–8**, e a **vaga assinada = Círculo 9**, o epílogo.
 
@@ -118,6 +124,7 @@ O nível sobe quando **as duas** condições são atendidas (XP mínimo **e** ch
 
 ### 🏅 Conquistas
 
+<!-- sync:achievements -->
 | | Conquista | Como desbloquear | Data |
 |:---:|---|---|:---:|
 | 🌱 | Primeiro Commit | Fazer o primeiro commit neste repo | |
@@ -131,12 +138,13 @@ O nível sobe quando **as duas** condições são atendidas (XP mínimo **e** ch
 | 🧠 | Neurônio Ativado | Treinar a primeira rede neural | |
 | 🚀 | No Ar | Primeiro modelo com URL pública (HF Spaces, Render…) | |
 | 🐳 | Containerizado | Primeiro `docker build` de um projeto seu | |
-| 🤖 | Automatizado | Primeiro workflow de GitHub Actions passando | |
+| 🤖 | Automatizado | Primeiro workflow de GitHub Actions **escrito por você** passando | |
 | 🔎 | Recuperador | Primeiro sistema RAG funcionando | |
 | ✍️ | Professor | Publicar um post/artigo explicando algo que aprendeu | |
 | 🤝 | Comunidade | Responder a dúvida de outra pessoa numa comunidade | |
 | 🕸️ | Segundo Cérebro | 25 notas de conceito interligadas em `brain/concepts/` | |
 | 🎯 | Candidato | Enviar a primeira candidatura para vaga de ML/AI | |
+<!-- /sync:achievements -->
 
 Marque a data na coluna ao desbloquear.
 
@@ -233,7 +241,7 @@ Lógica de programação e Python do zero até orientação a objetos e testes. 
 
 **🐉 Chefão — O Engenheiro de Produção (400 XP), em duas partes:**
 1. Pegar o modelo do chefão da F3 ou F4 e colocá-lo em produção: API FastAPI + Docker + MLflow + CI/CD com testes + deploy com URL pública + monitoramento básico.
-2. **Automatizar este repositório:** um GitHub Action que lê o `LOG.md` e os checklists e atualiza o painel de XP, nível e streak dos READMEs e roadmaps — e uma verificação de segredos a cada push.
+2. **Reescrever a automação deste repositório com o seu código:** hoje o progresso é sincronizado por `scripts/sync.py` (escrito pelo Claude) e verificado por `scripts/qa.py` no CI. Estude os dois e reescreva do zero, do seu jeito: módulos testados com `pytest`, um GitHub Action **seu** rodando os testes, e o sync passando a acontecer sozinho no CI a cada push.
 
 ---
 

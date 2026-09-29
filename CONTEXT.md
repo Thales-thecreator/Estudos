@@ -39,6 +39,10 @@ Os dias entre o `/mestre começar` e o primeiro domingo; sessões valem XP de mi
 Número de semanas seguidas em que a meta semanal foi batida. Quebrar o streak só zera a contagem; nunca remove XP.
 _Avoid_: Sequência diária, ofensiva
 
+**Estado do jogo**:
+O arquivo `progress.yml`, fonte única de verdade do progresso; badges, painéis, ficha e mapa são gerados a partir dele por `scripts/sync.py`.
+_Avoid_: Placar, save
+
 **XP**:
 Pontos ganhos por missões, chefões, side quests, aulas e metas semanais. Nunca diminuem.
 

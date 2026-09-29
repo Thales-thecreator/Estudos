@@ -1,0 +1,27 @@
+# QA do repositório a cada push: sincronia do progresso + links, paridade PT/EN, XP e segredos.
+name: QA
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # histórico completo para checar os e-mails dos commits
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Progresso em sincronia com progress.yml
+        run: python scripts/sync.py --check
+      - name: QA (links, paridade, XP, segredos)
+        run: python scripts/qa.py

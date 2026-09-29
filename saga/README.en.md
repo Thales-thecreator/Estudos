@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/strip-saga-en.jpg" alt="The Saga — The Ashes of Aethelgard" width="100%"></p>
+
 # ⛓️ The Saga of Aethelgard
 
 [🇧🇷 Português](./README.md) · 🇺🇸 **English**

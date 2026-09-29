@@ -10,10 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/nível-0%20·%20Recruta-6e7681?style=for-the-badge" alt="Nível">
+  <img src="https://img.shields.io/badge/n%C3%ADvel-0%20·%20Recruta-6e7681?style=for-the-badge" alt="Nível">
   <img src="https://img.shields.io/badge/XP-0%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
   <img src="https://img.shields.io/badge/fase-0%20·%20Tutorial-1f6feb?style=for-the-badge" alt="Fase">
   <img src="https://img.shields.io/badge/streak-0%20semanas-f0883e?style=for-the-badge" alt="Streak">
+  <a href="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml"><img src="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml/badge.svg" alt="QA"></a>
 </p>
 
 <!-- quest:start -->
@@ -48,6 +49,7 @@ Este roadmap é jogado como um **RPG narrativo grimdark**. Cada missão de estud
   <img src="./assets/circles-pt.svg" alt="O Mapa dos Nove Círculos — o progresso do jogador pelas fases" width="520">
 </p>
 
+<!-- sync:phases -->
 | Fase | Trilha | Semanas | Status | Chefão 🐉 |
 |:---:|---|:---:|:---:|---|
 | 0 | [Tutorial](./tracks/00-tutorial/) — Git, Colab, hábito | 2 | 🟢 Em andamento | O Guardião do Hábito |
@@ -59,6 +61,7 @@ Este roadmap é jogado como um **RPG narrativo grimdark**. Cada missão de estud
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/) — RAG, agentes, evals | 12 | 🔒 | O Arquiteto de RAG |
 | 7 | [Capstone & Carreira](./tracks/07-capstone-career/) | 8 | 🔒 | O Capstone |
 | 8 | [A Caçada](./tracks/08-the-hunt/) — candidaturas e entrevistas | aberta | 🔒 | A Primeira Proposta |
+<!-- /sync:phases -->
 
 O jogo completo — missões, XP, níveis, conquistas e todos os materiais gratuitos — está no **[ROADMAP.md](./ROADMAP.md)**.
 
@@ -89,6 +92,7 @@ Cada fase termina com um **chefão**: um projeto prático publicado em repositó
 <summary><b>🗂️ Como este repositório funciona</b></summary>
 
 ```
+├── progress.yml        # estado do jogo — fonte única de verdade (sincronizado por scripts/sync.py)
 ├── ROADMAP.md          # o jogo: fases, missões, XP, níveis, conquistas
 │                       #   (todo doc público tem um gêmeo *.en.md)
 ├── LOG.md              # uma linha por sessão → meta semanal e streak
@@ -104,6 +108,7 @@ Cada fase termina com um **chefão**: um projeto prático publicado em repositó
 ├── classroom/          # aulas interativas geradas com a skill /teach do Claude
 ├── templates/          # modelos de nota e de README de projeto
 ├── assets/             # banner, mapa dos nove círculos, arte da saga
+├── scripts/            # sync.py · qa.py (CI) · geradores de visuais
 └── docs/adr/           # decisões sobre a organização do repositório
 ```
 
@@ -121,7 +126,7 @@ Cada fase termina com um **chefão**: um projeto prático publicado em repositó
 Este roadmap foi feito para receber forks (ele também é um **repositório modelo**). Para começar a sua partida:
 
 1. **Faça um fork** deste repositório (e confira se o seu e-mail do GitHub está privado — veja o [SECURITY](./SECURITY.pt-BR.md)).
-2. **Zere o progresso:** apague as linhas de sessão do `LOG.md`, volte XP/nível para zero nos `ROADMAP*.md` e nos badges do README, desmarque os checkboxes em `tracks/`, reinicie o mapa (`assets/circles-*.svg`: todos os círculos `locked`, o círculo 0 `current`) e reinicie `saga/ficha*.md` e `saga/cronica*.md` (mantenha o prólogo). Apague `saga/cenas/*`.
+2. **Zere o progresso:** volte tudo no [`progress.yml`](./progress.yml) para zero/`null` e rode `python scripts/sync.py` (badges, painéis, ficha e mapa acompanham). Depois apague as linhas de sessão do `LOG.md`, desmarque os checkboxes em `tracks/`, reinicie `saga/cronica*.md` (mantenha o prólogo) e apague `saga/cenas/*`.
 3. **Deixe com a sua cara:** reescreva o `classroom/MISSION.md`, o *Sobre mim* e o cronograma para a sua vida.
 4. **Jogue:** abra o [Claude Code](https://claude.com/claude-code) no seu fork e rode `/mestre começar`. As skills em `.claude/skills/` já vêm junto.
 

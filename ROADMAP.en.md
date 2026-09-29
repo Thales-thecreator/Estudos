@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/strip-roadmap-en.jpg" alt="The Roadmap — from zero to AI Engineer in nine circles" width="100%"></p>
+
 # 🗺️ Roadmap — From Zero to AI Engineer
 
 [🇧🇷 Português](./ROADMAP.md) · 🇺🇸 **English**
@@ -15,6 +17,7 @@
 
 ## 🎮 Player dashboard
 
+<!-- sync:panel -->
 | Level | Total XP | Current phase | Streak | Bosses defeated |
 |:---:|:---:|:---:|:---:|:---:|
 | **0 · Recruit** | **0** / 150 | 🟢 Phase 0 — Tutorial | 🔥 0 weeks | 0 / 9 |
@@ -23,7 +26,8 @@
 XP  [░░░░░░░░░░░░░░░░░░░░]  0%   → next level: Apprentice (150 XP)
 ```
 
-> Updated by hand (in both languages) until Phase 5, when automating it becomes the MLOps boss.
+> Generated from [`progress.yml`](./progress.yml) by `scripts/sync.py`. Do not edit by hand.
+<!-- /sync:panel -->
 
 ---
 
@@ -44,6 +48,7 @@ flowchart LR
     F3 -.-> SQ["🗡️ Side quests<br/>CV · NLP · RecSys<br/>Time series · Data Eng"]
 ```
 
+<!-- sync:phases -->
 | Phase | Name | Weeks | Phase XP | 🐉 Boss | Status |
 |:---:|---|:---:|:---:|---|:---:|
 | 0 | [Tutorial](./tracks/00-tutorial/README.en.md) | 2 | 150 | The Habit Guardian | 🟢 Current |
@@ -55,6 +60,7 @@ flowchart LR
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/README.en.md) | 12 | 1000 | The RAG Architect | 🔒 |
 | 7 | [Capstone & Career](./tracks/07-capstone-career/README.en.md) | 8 | 800 | The Capstone | 🔒 |
 | 8 | [The Hunt](./tracks/08-the-hunt/README.en.md) | open | 500 | The First Offer | 🔒 |
+<!-- /sync:phases -->
 
 In the [saga](./saga/README.en.md): **F0 = Prologue** (the chains), **F1–F8 = Circles 1–8**, and **the signed job offer = Circle 9**, the epilogue.
 
@@ -118,6 +124,7 @@ A level goes up only when **both** conditions are met (min XP **and** that phase
 
 ### 🏅 Achievements
 
+<!-- sync:achievements -->
 | | Achievement | How to unlock | Date |
 |:---:|---|---|:---:|
 | 🌱 | First Commit | Make the first commit in this repo | |
@@ -131,12 +138,13 @@ A level goes up only when **both** conditions are met (min XP **and** that phase
 | 🧠 | Neuron Fired | Train the first neural network | |
 | 🚀 | Live | First model with a public URL (HF Spaces, Render…) | |
 | 🐳 | Containerized | First `docker build` of your own project | |
-| 🤖 | Automated | First passing GitHub Actions workflow | |
+| 🤖 | Automated | First passing GitHub Actions workflow **written by you** | |
 | 🔎 | Retriever | First working RAG system | |
 | ✍️ | Teacher | Publish a post explaining something you learned | |
 | 🤝 | Community | Answer someone else's question in a community | |
 | 🕸️ | Second Brain | 25 interlinked concept notes in `brain/concepts/` | |
 | 🎯 | Candidate | Send the first application for an ML/AI role | |
+<!-- /sync:achievements -->
 
 ---
 
@@ -231,7 +239,7 @@ Programming logic and Python from zero to object-oriented programming and tests.
 
 **🐉 Boss — The Production Engineer (400 XP), in two parts:**
 1. Take the F3 or F4 boss model to production: FastAPI + Docker + MLflow + CI/CD with tests + deploy with a public URL + basic monitoring.
-2. **Automate this repository:** a GitHub Action that reads `LOG.md` and the checklists and updates the XP, level and streak dashboard in the READMEs and roadmaps — plus a secret-scanning check on every push.
+2. **Rewrite this repository's automation in your own code:** today progress is synced by `scripts/sync.py` (written by Claude) and checked by `scripts/qa.py` in CI. Study both and rewrite them from scratch, your way: tested modules with `pytest`, a GitHub Action **of your own** running the tests, and the sync running automatically in CI on every push.
 
 ---
 

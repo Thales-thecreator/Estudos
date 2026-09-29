@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/XP-0%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
   <img src="https://img.shields.io/badge/phase-0%20·%20Tutorial-1f6feb?style=for-the-badge" alt="Phase">
   <img src="https://img.shields.io/badge/streak-0%20weeks-f0883e?style=for-the-badge" alt="Streak">
+  <a href="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml"><img src="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml/badge.svg" alt="QA"></a>
 </p>
 
 <!-- quest:start -->
@@ -48,6 +49,7 @@ This roadmap is played as a **grimdark narrative RPG**. Every real study mission
   <img src="./assets/circles-en.svg" alt="The Map of the Nine Circles — the player's progress through the phases" width="520">
 </p>
 
+<!-- sync:phases -->
 | Phase | Track | Weeks | Status | Boss 🐉 |
 |:---:|---|:---:|:---:|---|
 | 0 | [Tutorial](./tracks/00-tutorial/README.en.md) — Git, Colab, habit | 2 | 🟢 In progress | The Habit Guardian |
@@ -59,6 +61,7 @@ This roadmap is played as a **grimdark narrative RPG**. Every real study mission
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/README.en.md) — RAG, agents, evals | 12 | 🔒 | The RAG Architect |
 | 7 | [Capstone & Career](./tracks/07-capstone-career/README.en.md) | 8 | 🔒 | The Capstone |
 | 8 | [The Hunt](./tracks/08-the-hunt/README.en.md) — applications & interviews | open | 🔒 | The First Offer |
+<!-- /sync:phases -->
 
 The full game — missions, XP, levels, achievements and every free resource — lives in **[ROADMAP.en.md](./ROADMAP.en.md)** ([Portuguese version](./ROADMAP.md)).
 
@@ -89,6 +92,7 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 <summary><b>🗂️ How this repo works</b></summary>
 
 ```
+├── progress.yml        # game state — single source of truth (synced by scripts/sync.py)
 ├── ROADMAP.md          # the game: phases, missions, XP, levels, achievements
 │                       #   (every public doc has a *.en.md twin)
 ├── LOG.md              # one line per study session → weekly goal & streak
@@ -104,6 +108,7 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 ├── classroom/          # interactive lessons generated with Claude's /teach skill
 ├── templates/          # note & project README templates
 ├── assets/             # banner, map of the nine circles, saga art
+├── scripts/            # sync.py · qa.py (CI) · visual generators
 └── docs/adr/           # decisions about how this repo is organized
 ```
 
@@ -121,7 +126,7 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 This roadmap is meant to be forked (it is also a **template repository**). To start your own run:
 
 1. **Fork** this repository (and make sure your GitHub email is private — see [SECURITY](./SECURITY.md)).
-2. **Reset the progress:** clear the session rows in `LOG.md`, set XP/level back to zero in `ROADMAP*.md` and the README badges, untick the checkboxes in `tracks/`, reset the map (`assets/circles-*.svg`: every circle `locked`, circle 0 `current`), and reset `saga/ficha*.md` and `saga/cronica*.md` (keep the prologue). Delete `saga/cenas/*`.
+2. **Reset the progress:** set everything in [`progress.yml`](./progress.yml) back to zero/`null` and run `python scripts/sync.py` (badges, dashboards, sheet and map follow). Then clear the session rows in `LOG.md`, untick the checkboxes in `tracks/`, reset `saga/cronica*.md` (keep the prologue) and delete `saga/cenas/*`.
 3. **Make it yours:** rewrite `classroom/MISSION.md`, the *About me* section and the timeline to fit your life.
 4. **Play:** open [Claude Code](https://claude.com/claude-code) in your fork and run `/mestre começar`. The skills in `.claude/skills/` come with the repo.
 
