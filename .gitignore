@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Dados grandes / modelos (use links ou Git LFS)
+data/raw/
+*.pt
+*.pth
+*.ckpt
+mlruns/
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
