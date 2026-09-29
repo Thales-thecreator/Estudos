@@ -32,6 +32,9 @@ _Avoid_: Estudo, aula
 **Meta semanal**:
 O número de sessões a cumprir de segunda a domingo: 3 no primeiro mês, 4 depois.
 
+**Semana de aquecimento**:
+Os dias entre o `/mestre começar` e o primeiro domingo; sessões valem XP de missão, mas não entram na meta semanal nem no streak.
+
 **Streak**:
 Número de semanas seguidas em que a meta semanal foi batida. Quebrar o streak só zera a contagem; nunca remove XP.
 _Avoid_: Sequência diária, ofensiva

@@ -67,7 +67,7 @@ Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o 
 - **Sessão padrão**: ≥ 30 min de estudo focado. Registre uma linha no [`LOG.md`](./LOG.md).
 - **Sessão mínima** (dia ruim): 15 min — revisar flashcards no Obsidian, revisar uma nota, ler 1 página, refazer 1 exercício. Conta como sessão, **no máximo 1 por semana**.
 - **Meta semanal**: **3 sessões** no 1º mês → **4 sessões** a partir do 2º mês.
-- Semana = segunda a domingo.
+- Semana = segunda a domingo. A contagem começa no **`/mestre começar`**; os dias até o primeiro domingo são a **semana de aquecimento** (valem XP de missão, não entram na meta nem no streak).
 
 ### Fontes de XP
 

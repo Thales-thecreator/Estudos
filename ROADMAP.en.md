@@ -67,7 +67,7 @@ Status: 🟢 current · ✅ done · 🔒 locked (unlocks when the previous boss 
 - **Standard session**: ≥ 30 min of focused study, logged as one line in [`LOG.md`](./LOG.md) (kept in Portuguese).
 - **Minimum session** (bad day): 15 min — review flashcards in Obsidian, review a note, read one page, redo one exercise. Counts as a session, **at most once a week**.
 - **Weekly goal**: **3 sessions** in month 1 → **4 sessions** from month 2.
-- A week runs Monday to Sunday.
+- A week runs Monday to Sunday. Counting starts at **`/mestre começar`**; the days up to the first Sunday are a **warm-up week** (mission XP counts, but not the weekly goal or streak).
 
 ### XP sources
 

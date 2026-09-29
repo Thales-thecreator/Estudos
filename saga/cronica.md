@@ -23,7 +23,7 @@
 
 | Data real | Evento | Onde |
 |---|---|---|
-| 2026-09-29 | Prólogo: Thales desperta no Trono. | [Capítulo 0](./capitulos/00-prologo.md) |
+| _(data do `/mestre começar`)_ | Prólogo: Thales desperta no Trono. | [Capítulo 0](./capitulos/00-prologo.md) |
 
 ## Escolhas feitas
 

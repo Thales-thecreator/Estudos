@@ -28,12 +28,20 @@ Leia, nesta ordem:
 
 ## Ausência: a Névoa avança
 
-Em toda chamada, compare a data de hoje com o `LOG.md`. Se houver uma ou mais semanas completas desde a última meta semanal batida, narre **primeiro** uma cena curta da Névoa avançando: uma perda no mundo (vila tomada, aliado ferido, um rumor sombrio), proporcional ao tempo ausente. É uma cena por ausência, não uma por semana. Termine abrindo a porta para o retorno. **Nunca** remova XP, itens ou progresso.
+Se o **Início do jogo** no `LOG.md` ainda não estiver preenchido, o jogo não começou: pule esta verificação. Depois disso, em toda chamada, compare a data de hoje com o `LOG.md` (a semana de aquecimento nunca conta como ausência). Se houver uma ou mais semanas completas desde a última meta semanal batida, narre **primeiro** uma cena curta da Névoa avançando: uma perda no mundo (vila tomada, aliado ferido, um rumor sombrio), proporcional ao tempo ausente. É uma cena por ausência, não uma por semana. Termine abrindo a porta para o retorno. **Nunca** remova XP, itens ou progresso.
 
 ## Comandos
 
 ### `começar`
-Se `saga/cenas/` estiver vazia: apresente-se como o Mestre em 2–3 frases de atmosfera (sem reescrever o prólogo), resuma as regras em uma lista curta e entregue a primeira meta: **M0.1 · Olá, GitHub**, a Corrente I. Se o jogo já começou, trate o pedido como `status`.
+Se o **Início do jogo** no `LOG.md` estiver vazio, este é o primeiro despertar. Antes de narrar:
+1. Preencha **Início do jogo** com a data de hoje (`AAAA-MM-DD`).
+2. Substitua o aviso "_O jogo ainda não começou..._" pela primeira seção de semana, no mesmo formato de tabela do comentário do `LOG.md`:
+   - Se hoje for **segunda**: `## Semana 1 · <hoje> → <domingo> · meta: 3 sessões`.
+   - Senão: `## Semana de aquecimento · <hoje> → <próximo domingo> · sem meta` e, logo abaixo, avise que a Semana 1 começa na segunda seguinte. Crie a seção da Semana 1 só quando ela chegar.
+3. Troque a data do Prólogo na linha do tempo da crônica (PT e EN) pela data de hoje.
+4. Commit e push dessas mudanças junto com a narração.
+
+Então: apresente-se como o Mestre em 2–3 frases de atmosfera (sem reescrever o prólogo), resuma as regras em uma lista curta e entregue a primeira meta: **M0.1 · Olá, GitHub**, a Corrente I. Se o jogo já começou, trate o pedido como `status`.
 
 ### `missão cumprida <ID>` (ou relato livre)
 1. **Identifique a missão** no README da fase atual.
