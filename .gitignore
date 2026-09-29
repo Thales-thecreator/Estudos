@@ -20,3 +20,20 @@ mlruns/
 Thumbs.db
 .vscode/
 .idea/
+
+# Segredos e credenciais — NUNCA commitar (ver SECURITY.md)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+client_secret*.json
+service-account*.json
+*secret*.json
+.kaggle/
+kaggle.json
+.huggingface/
+.netrc

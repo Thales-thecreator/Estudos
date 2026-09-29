@@ -1,5 +1,7 @@
 # ⚙️ Fase 5 — MLOps
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 12 semanas · **XP da fase:** 1000 · **Chefão:** O Engenheiro de Produção
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 4](../04-deep-learning/).
 

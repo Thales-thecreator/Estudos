@@ -1,5 +1,7 @@
 # 🗺️ Roadmap — Do Zero a AI Engineer
 
+🇧🇷 **Português** · [🇺🇸 English](./ROADMAP.en.md)
+
 > ⛓️ Este roadmap é jogado como um RPG narrativo: veja a [saga](./saga/). Use `/mestre` para relatar missões.
 
 > Um jogo de ~18 meses (≈74 semanas, 8–10 h/semana) para sair do zero em programação até a primeira vaga como **ML / MLOps / AI Engineer**.
@@ -17,7 +19,7 @@
 XP  [░░░░░░░░░░░░░░░░░░░░]  0%   → próximo nível: Aprendiz (150 XP)
 ```
 
-> Atualize este painel (e o do README) sempre que ganhar XP. Na Fase 5 você vai automatizar isso — é o chefão de MLOps.
+> Atualize este painel (nos dois idiomas, e nos badges dos READMEs) sempre que ganhar XP. Na Fase 5 você vai automatizar isso — é o chefão de MLOps.
 
 ---
 
@@ -52,7 +54,7 @@ Na [saga](./saga/): **F0 = Prólogo** (as correntes), **F1–F8 = Círculos 1–
 
 Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o chefão anterior).
 
-> **Detalhe progressivo:** as fases 0 e 1 têm missões detalhadas. As fases 2–7 têm tópicos, materiais e chefão definidos; as missões são detalhadas quando você chegar nelas (materiais mudam — ver [ADR 0001](./docs/adr/0001-roadmap-gamificado-com-detalhe-progressivo.md)).
+> **Detalhe progressivo:** as fases 0 e 1 têm missões detalhadas. As fases 2–8 têm tópicos, materiais e chefão definidos; as missões são detalhadas quando você chegar nelas (materiais mudam — ver [ADR 0001](./docs/adr/0001-roadmap-gamificado-com-detalhe-progressivo.md)).
 
 ---
 
@@ -218,7 +220,7 @@ Lógica de programação e Python do zero até orientação a objetos e testes. 
 
 **🐉 Chefão — O Engenheiro de Produção (400 XP), em duas partes:**
 1. Pegar o modelo do chefão da F3 ou F4 e colocá-lo em produção: API FastAPI + Docker + MLflow + CI/CD com testes + deploy com URL pública + monitoramento básico.
-2. **Automatizar este repositório:** um GitHub Action que lê o `LOG.md` e os checklists e atualiza o painel de XP, nível e streak do README e deste roadmap.
+2. **Automatizar este repositório:** um GitHub Action que lê o `LOG.md` e os checklists e atualiza o painel de XP, nível e streak dos READMEs e roadmaps — e uma verificação de segredos a cada push.
 
 ---
 

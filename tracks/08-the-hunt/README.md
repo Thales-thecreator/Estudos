@@ -1,5 +1,7 @@
 # 🎯 Fase 8 — A Caçada
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** aberta (até a proposta) · **XP da fase:** 500 · **Chefão:** A Primeira Proposta
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 7](../07-capstone-career/).
 

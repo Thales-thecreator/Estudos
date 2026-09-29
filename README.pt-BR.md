@@ -22,7 +22,7 @@ _Sou **&lt;seu nome&gt;** e estou aprendendo em público para me tornar AI Engin
 
 - 🎯 **Objetivo:** conseguir minha primeira vaga como ML / AI Engineer
 - 🌱 **Estudando agora:** Git, GitHub e hábito de estudo (Fase 0)
-- 📫 **Contato:** <!-- TODO --> [LinkedIn](https://www.linkedin.com/in/&lt;seu-usuario&gt;) · &lt;seu-email&gt;
+- 📫 **Contato:** <!-- TODO: seu usuário do LinkedIn --> [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 
 ---
 
@@ -47,7 +47,7 @@ flowchart LR
     classDef agora fill:#2ea043,color:#fff,stroke:#2ea043
 ```
 
-⛓️ **Jogado como um RPG narrativo grimdark**: cada missão avança uma história em [`saga/`](./saga/).
+⛓️ **Jogado como um RPG narrativo grimdark**: cada missão avança uma história em [`saga/`](./saga/), publicada em português e inglês.
 
 O jogo completo — missões, XP, níveis, conquistas e todos os materiais gratuitos — está no **[ROADMAP.md](./ROADMAP.md)**.
 
@@ -82,6 +82,7 @@ Cada fase termina com um **chefão**: um projeto prático publicado em repositó
 
 ```
 ├── ROADMAP.md          # o jogo: fases, missões, XP, níveis, conquistas
+│                       #   (todo doc público tem um gêmeo *.en.md)
 ├── LOG.md              # uma linha por sessão → meta semanal e streak
 ├── CONTEXT.md          # glossário do vocabulário do jogo
 ├── tracks/             # uma pasta por fase
@@ -99,6 +100,28 @@ Cada fase termina com um **chefão**: um projeto prático publicado em repositó
 **Ciclo de estudo:** escolher a próxima missão → estudar o material gratuito → escrever a nota → resolver os exercícios → registrar a sessão → ganhar XP. Travou? Gere uma aula curta e interativa com `/teach`, ou pergunte numa comunidade.
 
 **Regras do jogo:** meta semanal (3–4 sessões de 30+ min) em vez de streak diário, XP só com evidência no repositório, e um chefão obrigatório para desbloquear cada fase. Detalhes no [ROADMAP.md](./ROADMAP.md#regras).
+
+---
+
+<a id="jogue-voce-tambem"></a>
+
+## 🎲 Jogue você também
+
+Este roadmap foi feito para receber forks. Para começar a sua partida:
+
+1. **Faça um fork** deste repositório (e confira se o seu e-mail do GitHub está privado — veja o [SECURITY](./SECURITY.pt-BR.md)).
+2. **Zere o progresso:** apague as linhas de sessão do `LOG.md`, volte XP/nível para zero nos `ROADMAP*.md` e nos badges do README, desmarque os checkboxes em `tracks/` e reinicie `saga/ficha*.md` e `saga/cronica*.md` (mantenha o prólogo). Apague `saga/cenas/*`.
+3. **Deixe com a sua cara:** reescreva o `classroom/MISSION.md`, o *Sobre mim* e o cronograma para a sua vida.
+4. **Jogue:** abra o [Claude Code](https://claude.com/claude-code) no seu fork e rode `/mestre começar`. As skills em `.claude/skills/` já vêm junto.
+
+Os pilares da trama são os mesmos para todos — as escolhas não. Dê o crédito conforme as licenças abaixo.
+
+---
+
+## 📄 Licença & segurança
+
+- **Código:** [MIT](./LICENSE) · **Roadmap e notas:** [CC BY-SA 4.0](./LICENSE-CONTENT.md) · **Saga:** [CC BY-NC-SA 4.0](./LICENSE-CONTENT.md) · detalhes em [LICENSE-CONTENT.md](./LICENSE-CONTENT.md)
+- Regras de segurança e privacidade deste repositório público: [SECURITY.pt-BR.md](./SECURITY.pt-BR.md)
 
 ---
 

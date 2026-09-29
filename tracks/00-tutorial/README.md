@@ -1,5 +1,7 @@
 # 🟢 Fase 0 — Tutorial
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 2 semanas · **XP da fase:** 150 · **Meta semanal:** 3 sessões de ≥ 30 min
 > **Objetivo:** ter o ambiente pronto e, acima de tudo, **criar o hábito de estudar**.
 

@@ -1,5 +1,7 @@
 # 🗡️ Ficha do Personagem
 
+🇧🇷 **Português** · [🇺🇸 English](./ficha.en.md)
+
 | | |
 |---|---|
 | **Nome** | Thales |

@@ -1,6 +1,6 @@
 # Estudos
 
-Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engineer, organizado como um jogo. O dono é iniciante em programação. Escreva em português, exceto `README.md` (inglês, portfólio).
+Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engineer, organizado como um jogo. O dono é iniciante em programação. Escreva em português. O repositório é **público e bilíngue**: todo doc público (READMEs, roadmap, trilhas, saga, templates, SECURITY) tem um par `*.en.md` com seletor de idioma no topo; o `README.md` e o `SECURITY.md` são o original em inglês, com par `*.pt-BR.md`. Ao editar um lado, atualize o outro. Bastidores (`CONTEXT.md`, ADRs, `classroom/`, `.claude/`, `LOG.md`, notas pessoais) e as issues ficam só em PT.
 
 ## Onde está o quê
 
@@ -14,10 +14,12 @@ Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engine
 
 ## Ao ajudar nos estudos
 
-- Missão concluída: marque `[x]` no README da fase, feche a issue, e atualize XP/nível no painel do `ROADMAP.md` **e** nos badges de `README.md` e `README.pt-BR.md` (manual até o chefão da Fase 5).
+- Missão concluída: marque `[x]` no README da fase, feche a issue, e atualize XP/nível no painel do `ROADMAP.md` e do `ROADMAP.en.md` **e** nos badges de `README.md` e `README.pt-BR.md` (manual até o chefão da Fase 5).
 - Ao desbloquear uma fase, detalhe as missões dela a partir do `ROADMAP.md` (pesquise e confira os links antes) e crie as issues com label `mission` / `boss` e `phase-N`. Só a fase atual tem issues.
 - Não resolva exercícios pelo dono; guie com perguntas e dicas. Ele está aprendendo.
 - Prefira materiais gratuitos; indique alternativa em PT quando existir.
+- Segurança: nunca commite chaves, `.env` ou dados pessoais (ver `SECURITY.pt-BR.md`). Se encontrar algo assim, pare e avise o dono.
+- Licenças: código MIT, conteúdo CC BY-SA 4.0, saga CC BY-NC-SA 4.0 (ver `LICENSE-CONTENT.md`). As skills em `.claude/skills/` são MIT do Matt Pocock, exceto `mestre/`.
 
 ## Agent skills
 

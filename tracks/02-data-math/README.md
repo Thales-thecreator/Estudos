@@ -1,5 +1,7 @@
 # 📊 Fase 2 — Dados & Matemática
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 10 semanas · **XP da fase:** 700 · **Chefão:** O Oráculo dos Dados
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 1](../01-python/).
 

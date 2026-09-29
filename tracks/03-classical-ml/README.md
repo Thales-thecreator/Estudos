@@ -1,5 +1,7 @@
 # 🌳 Fase 3 — ML Clássico
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 10 semanas · **XP da fase:** 800 · **Chefão:** O Kaggler
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 2](../02-data-math/).
 

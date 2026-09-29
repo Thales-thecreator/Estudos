@@ -1,5 +1,7 @@
 # <Nome do projeto>
 
+🇧🇷 **Português** · [🇺🇸 English](./chefao-readme.en.md)
+
 > 🐉 Chefão da **Fase N — <nome>** do meu [roadmap de estudos](https://github.com/Thales-thecreator/Estudos).
 
 <!-- badges: linguagem, licença, demo -->

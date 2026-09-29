@@ -1,5 +1,7 @@
 # <Tema>
 
+🇧🇷 **Português** · [🇺🇸 English](./nota-de-estudo.en.md)
+
 > **Fase / missão:** F? · M?.? · **Data:** AAAA-MM-DD · **Fonte:** [nome do material](link)
 
 ## Em uma frase

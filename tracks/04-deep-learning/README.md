@@ -1,5 +1,7 @@
 # 🧠 Fase 4 — Deep Learning
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 10 semanas · **XP da fase:** 800 · **Chefão:** O Olho da Máquina
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 3](../03-classical-ml/).
 

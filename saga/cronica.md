@@ -1,5 +1,7 @@
 # 📖 Crônica de Aethelgard
 
+🇧🇷 **Português** · [🇺🇸 English](./cronica.en.md)
+
 > A memória do Mestre: só **fatos canônicos já revelados**, em ordem. Nada do futuro entra aqui.
 > Atualizada pelo `/mestre` a cada cena e capítulo. Consulte-a antes de narrar para manter a continuidade.
 

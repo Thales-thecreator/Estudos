@@ -1,5 +1,7 @@
 # 🏆 Fase 7 — Capstone & Carreira
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 8 semanas · **XP da fase:** 800 · **Chefão:** O Chefão Final
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 6](../06-llms-ai-eng/).
 

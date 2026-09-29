@@ -1,5 +1,7 @@
 # 🤖 Fase 6 — LLMs & AI Engineering
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 12 semanas · **XP da fase:** 1000 · **Chefão:** O Arquiteto de RAG
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 5](../05-mlops/).
 

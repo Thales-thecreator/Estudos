@@ -1,5 +1,7 @@
 # 🐍 Fase 1 — Python
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 > **Duração:** 10 semanas · **XP da fase:** 670 · **Meta semanal:** 4 sessões de ≥ 30 min
 > **Objetivo:** programar em Python com segurança — do `print` a classes, arquivos e testes.
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 0](../00-tutorial/).
@@ -15,7 +17,7 @@
 | 🇧🇷 Livro PT | [Pense em Python, 3ª ed. (tradução)](https://rodrigocarlson.github.io/PensePython3ed/) | Consulta e releitura; roda no Colab. |
 | 🏋️ Treino extra | [Exercism — Python](https://exercism.org/tracks/python) | Exercícios curtos com mentoria gratuita. |
 
-**Como estudar cada aula do CS50P:** assista à aula (pode ser em 2 sessões) → faça a nota em `notes/` usando o [template](../../templates/nota-de-estudo.md) → resolva o *Problem Set* em `exercises/` → travou? `/teach <assunto>`.
+**Como estudar cada aula do CS50P:** assista à aula (pode ser em 2 sessões) → faça a nota em `notes/` usando o [template](../../templates/nota-de-estudo.md) ([EN](../../templates/nota-de-estudo.en.md)) → resolva o *Problem Set* em `exercises/` → travou? `/teach <assunto>`.
 
 ---
 
@@ -32,7 +34,7 @@
 - [ ] **M1.5 · Bibliotecas** — 40 XP
   CS50P **Lecture 4** + Problem Set 4.
 - [ ] **M1.6 · Saindo do Colab** — 50 XP · 🏅 *Saí do Colab*
-  Instale [VS Code](https://code.visualstudio.com/docs/python/python-tutorial) + Python, clone este repositório com Git, crie um ambiente virtual e rode um script seu localmente. Faça um commit **pelo terminal** (`git add`, `git commit`, `git push`).
+  Instale [VS Code](https://code.visualstudio.com/docs/python/python-tutorial) + Python, clone este repositório com Git, crie um ambiente virtual e rode um script seu localmente. **Antes do primeiro commit**, configure o e-mail privado do GitHub: `git config --global user.email "<id>+<usuario>@users.noreply.github.com"` (o endereço está em *GitHub → Settings → Emails*; veja o [SECURITY](../../SECURITY.pt-BR.md)). Depois faça um commit **pelo terminal** (`git add`, `git commit`, `git push`).
   **Evidência:** nota `notes/ambiente-local.md` com o passo a passo que funcionou para você.
 - [ ] **M1.7 · Testes** — 40 XP · 🏅 *Testado*
   CS50P **Lecture 5** + Problem Set 5 (`pytest`).

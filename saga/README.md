@@ -1,5 +1,7 @@
 # ⛓️ A Saga de Aethelgard
 
+🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
+
 O [roadmap](../ROADMAP.md) deste repositório é jogado como um **RPG narrativo de fantasia sombria**. Cada missão de estudo cumprida no mundo real faz a história avançar. Nada do futuro é revelado antes da hora.
 
 > Grimdark e sci-fi fantasia: Elric de Melniboné, Duna, o *Inferno* de Dante, Castlevania, Senhor dos Anéis. Decisões têm peso, aliados podem trair, o poder exige sacrifício.
@@ -38,4 +40,14 @@ O [roadmap](../ROADMAP.md) deste repositório é jogado como um **RPG narrativo 
 |:---:|---|:---:|
 | 0 | [O Prólogo: As Cinzas de Aethelgard](./capitulos/00-prologo.md) | Prólogo |
 
+## 🎲 Jogue você também
+
+Faça um fork e jogue a sua própria partida — veja [Jogue você também](../README.pt-BR.md#jogue-voce-tambem). Os pilares da trama são os mesmos para todos, mas as escolhas não.
+
+## Arquivos
+
 As cenas ficam em [`cenas/`](./cenas/). O personagem está em [`ficha.md`](./ficha.md) e a memória do mundo em [`cronica.md`](./cronica.md).
+
+---
+
+A saga está sob a licença [CC BY-NC-SA 4.0](../LICENSE-CONTENT.md).

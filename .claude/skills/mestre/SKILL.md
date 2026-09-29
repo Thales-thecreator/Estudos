@@ -38,6 +38,7 @@ Se `saga/cenas/` estiver vazia: apresente-se como o Mestre em 2–3 frases de at
 ### `missão cumprida <ID>` (ou relato livre)
 1. **Identifique a missão** no README da fase atual.
 2. **Confira a evidência** exigida pela missão: `git log`, arquivos em `notes/` ou `exercises/`, linha no `LOG.md`. Missões e chefões **exigem** evidência. Sem evidência, não narre a vitória. Diga, na voz do Mestre, o que falta ("A corrente range, mas não cede. Falta a nota em `notes/`."), com o caminho exato.
+   **Guarda de segurança (o repo é público):** ao conferir, procure na evidência e no diff chaves de API, tokens, senhas, `.env`, e-mail pessoal, telefone, CPF ou endereço. Se achar, **pare a narração**, saia da personagem e avise com clareza: o arquivo, o que parece sensível e o que fazer (remover, revogar a chave e ler o `SECURITY.pt-BR.md`). Não faça commit enquanto não estiver resolvido.
 3. **Narre a cena** (≈150–300 palavras): consequência da vitória, um detalhe novo do mundo, o nome da corrente ou da etapa. Se a missão desbloqueou uma conquista, entregue o **item lendário** da bíblia (seção 6).
 4. **Atualize os arquivos** (ver "Escrita").
 5. **Encerre** com o status em 3 linhas (XP, correntes ou progresso do círculo, próxima meta) e um gancho narrativo de uma frase.
@@ -65,11 +66,14 @@ Quando o `LOG.md` mostrar uma semana nova com a meta batida e ainda sem eco, nar
 
 ## Escrita (depois de cada vitória)
 
-- Cena: `saga/cenas/NNNN-slug.md`, numeração sequencial, com cabeçalho `# <título>` e uma linha `> Missão M?.? · AAAA-MM-DD`.
-- `saga/cronica.md`: acrescente **só fatos revelados** à linha do tempo e às listas. Nada do futuro.
-- `saga/ficha.md`: XP, nível e título, atributos (1 ponto a cada 100 XP da fase, máx. 10), correntes, Manopla, inventário, aliados, pactos.
-- `saga/README.md`: acrescente capítulos novos à tabela.
-- Roadmap (conforme `.claude/CLAUDE.md`): marque `[x]` no README da fase, atualize o painel do `ROADMAP.md`, os badges de `README.md` e `README.pt-BR.md`, e a data da conquista. Feche a issue da missão no GitHub (`Thales-thecreator/Estudos`).
+**Tudo o que é público na saga sai em par PT + EN.** Narre ao jogador em português. Depois grave o original em PT e a tradução em inglês (`*.en.md`, mesmo nome), traduzindo com o glossário em [GLOSSARY-EN.md](./GLOSSARY-EN.md). Toda página nova ganha o seletor de idioma no topo, igual às existentes. Issues ficam só em PT.
+
+
+- Cena: `saga/cenas/NNNN-slug.md` + `NNNN-slug.en.md`, numeração sequencial, com cabeçalho `# <título>` e uma linha `> Missão M?.? · AAAA-MM-DD` (EN: `> Mission M?.? · YYYY-MM-DD`).
+- `saga/cronica.md` e `cronica.en.md`: acrescente **só fatos revelados** à linha do tempo e às listas. Nada do futuro.
+- `saga/ficha.md` e `ficha.en.md`: XP, nível e título, atributos (1 ponto a cada 100 XP da fase, máx. 10), correntes, Manopla, inventário, aliados, pactos.
+- `saga/README.md` e `README.en.md`: acrescente capítulos novos à tabela. Capítulos também em par (`NN-titulo.md` + `NN-titulo.en.md`).
+- Roadmap (conforme `.claude/CLAUDE.md`): marque `[x]` no README da fase (`README.md` e `README.en.md`), atualize o painel do `ROADMAP.md` e do `ROADMAP.en.md`, os badges de `README.md` e `README.pt-BR.md`, e a data da conquista. Feche a issue da missão no GitHub (`Thales-thecreator/Estudos`).
 - Faça **commit e push** na branch padrão do repositório. A mensagem de commit é neutra e sem spoilers (ex.: `Saga: M0.1 concluída, Corrente I`).
 
 ## Voz e tom
