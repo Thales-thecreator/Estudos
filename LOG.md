@@ -20,6 +20,7 @@
 Como registrar:
 | Data | Min | Tipo | O que fiz | Missão | XP |
 Tipo: 🟩 padrão · 🟨 mínima
+Semana de pausa planejada: título `## Semana N · <datas> · 🕯️ Santuário` (anuncie antes; máx. 4 por ano). Retorno depois de 3+ semanas fora: `meta: 2 sessões · retorno`.
 XP: só o XP de missões/chefões/aulas concluídas nessa sessão. O bônus semanal (+20) entra na linha "✅ Meta batida".
 -->
 

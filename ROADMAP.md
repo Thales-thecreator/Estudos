@@ -134,7 +134,7 @@ No meio de cada fase (a partir da F1) há um **mini-chefão de elite** (~50 XP, 
 
 ### 🐉 Padrão de chefão
 
-Todo chefão é um projeto de portfólio, feito para um recrutador entender em 30 segundos. Além dos itens de cada fase, ele precisa de:
+Todo chefão de projeto (F1–F7) é uma peça de portfólio, feita para um recrutador entender em 30 segundos. Além dos itens de cada fase, ele precisa de:
 
 - **Repositório próprio** com README a partir do [template de chefão](./templates/chefao-readme.md) ([EN](./templates/chefao-readme.en.md)): problema, demo, como funciona, resultados, como rodar.
 - **Métricas reais** e honestas (inclusive o que não funcionou), comparadas com um baseline quando houver modelo.
@@ -153,7 +153,7 @@ Você não precisa de GPU nem de PC potente. As **tavernas** são onde se treina
 | [Google Colab](https://colab.research.google.com/) | Notebooks, GPU gratuita com limite de uso | grátis |
 | [Kaggle Notebooks](https://www.kaggle.com/code) | GPU gratuita com cota semanal, datasets prontos | grátis |
 | [Hugging Face Spaces](https://huggingface.co/spaces) | Demos públicas dos chefões (Gradio) | grátis (CPU) |
-| GPU alugada (ex.: RunPod) | Só se as tavernas grátis não bastarem | dentro do orçamento |
+| GPU alugada (ex.: RunPod) | Só se as tavernas grátis não bastarem, e só na F6 | dentro dos R$ 50/mês da F6 |
 
 **Orçamento:** a meta é gastar **R$ 0**. As exceções são planejadas: na **Fase 5**, a nuvem (AWS ou GCP) é usada só no free tier, com **alerta de gasto** configurado antes de criar qualquer recurso; na **Fase 6**, até **R$ 50/mês** em APIs de LLM, com alerta de gasto na conta do provedor. Chaves de API ficam em `.env` (fora do git) — veja o [SECURITY](./SECURITY.pt-BR.md).
 

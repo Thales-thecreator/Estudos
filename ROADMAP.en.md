@@ -134,7 +134,7 @@ Halfway through each phase (from F1 on) there is an **elite mini-boss** (~50 XP,
 
 ### 🐉 Boss standard
 
-Every boss is a portfolio project, built so a recruiter gets it in 30 seconds. On top of each phase's items, it needs:
+Every project boss (F1–F7) is a portfolio piece, built so a recruiter gets it in 30 seconds. On top of each phase's items, it needs:
 
 - **Its own repository** with a README from the [boss template](./templates/chefao-readme.en.md) ([PT](./templates/chefao-readme.md)): problem, demo, how it works, results, how to run.
 - **Real, honest metrics** (including what did not work), compared against a baseline whenever there is a model.
@@ -153,7 +153,7 @@ You need neither a GPU nor a powerful PC. The **taverns** are where you train fo
 | [Google Colab](https://colab.research.google.com/) | Notebooks, free GPU with usage limits | free |
 | [Kaggle Notebooks](https://www.kaggle.com/code) | Free GPU with a weekly quota, ready datasets | free |
 | [Hugging Face Spaces](https://huggingface.co/spaces) | Public demos for the bosses (Gradio) | free (CPU) |
-| Rented GPU (e.g. RunPod) | Only if the free taverns are not enough | within budget |
+| Rented GPU (e.g. RunPod) | Only if the free taverns are not enough, and only in F6 | within F6's R$ 50/month |
 
 **Budget:** the target is to spend **R$ 0**. The exceptions are planned: in **Phase 5**, the cloud (AWS or GCP) is used on the free tier only, with a **spending alert** set up before creating any resource; in **Phase 6**, up to **R$ 50/month** on LLM APIs, with a spending alert on the provider account. API keys live in `.env` (outside git) — see [SECURITY](./SECURITY.md).
 

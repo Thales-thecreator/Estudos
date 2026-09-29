@@ -51,7 +51,7 @@
 - [ ] **M1.8 · Files** — 40 XP
   CS50P **Lecture 6** + Problem Set 6 (read/write CSV).
 - [ ] **M1.8b · The spell on your own file** — 30 XP
-  Go back to the [M0.7](../00-tutorial/README.en.md) model, now **locally**, in your virtual environment (`pip install transformers torch`). Write a script that reads a file of **your own** (exported messages, reviews, notes, ~50 lines; strip names and personal data first), classifies the sentiment of each line and writes a CSV with the result and the count per sentiment.
+  Go back to the [M0.7](../00-tutorial/README.en.md) model, now **locally**, in your virtual environment (`pip install transformers torch`; it is a large download, close to 1 GB, so use a good connection). Write a script that reads a file of **your own** (exported messages, reviews, notes, ~50 lines; strip names and personal data first), classifies the sentiment of each line and writes a CSV with the result and the count per sentiment.
   **Evidence:** the script in `exercises/`, the output CSV **with no personal data**, and 3 lines on where the model failed on your kind of text.
 - [ ] **M1.9 · Regular expressions** — 20 XP
   CS50P **Lecture 7** + at least 2 exercises from Problem Set 7.

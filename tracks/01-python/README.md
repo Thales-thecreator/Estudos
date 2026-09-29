@@ -51,7 +51,7 @@
 - [ ] **M1.8 · Arquivos** — 40 XP
   CS50P **Lecture 6** + Problem Set 6 (ler/escrever CSV).
 - [ ] **M1.8b · O feitiço no seu arquivo** — 30 XP
-  Volte ao modelo da [M0.7](../00-tutorial/), agora **localmente**, no seu ambiente virtual (`pip install transformers torch`). Escreva um script que lê um arquivo **seu** (mensagens exportadas, avaliações, anotações, ~50 linhas; tire nomes e dados pessoais antes), classifica o sentimento de cada linha e grava um CSV com o resultado e a contagem por sentimento.
+  Volte ao modelo da [M0.7](../00-tutorial/), agora **localmente**, no seu ambiente virtual (`pip install transformers torch`; é um download grande, perto de 1 GB, então use uma rede boa). Escreva um script que lê um arquivo **seu** (mensagens exportadas, avaliações, anotações, ~50 linhas; tire nomes e dados pessoais antes), classifica o sentimento de cada linha e grava um CSV com o resultado e a contagem por sentimento.
   **Evidência:** o script em `exercises/`, o CSV de saída **sem dados pessoais** e 3 linhas sobre onde o modelo errou no seu tipo de texto.
 - [ ] **M1.9 · Expressões regulares** — 20 XP
   CS50P **Lecture 7** + pelo menos 2 exercícios do Problem Set 7.
