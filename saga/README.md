@@ -43,6 +43,10 @@ Todos os comandos, com exemplos e regras (desafiar o chefão, santuário, postos
 | # | Título | Círculo |
 |:---:|---|:---:|
 | 0 | [O Prólogo: As Cinzas de Aethelgard](./capitulos/00-prologo.md) | Prólogo |
+| Cena 1 | [O Primeiro Juramento](./cenas/0001-o-primeiro-juramento.md) · M0.1 | Prólogo |
+| Cena 2 | [A Voz no Ferro](./cenas/0002-a-voz-no-ferro.md) · M0.2 | Prólogo |
+| Cena 3 | [O Grimório de Folhas em Branco](./cenas/0003-o-grimorio.md) · M0.3 | Prólogo |
+| Cena 4 | [O Nó de Duas Raízes](./cenas/0004-o-labirinto.md) · M0.4 | Prólogo |
 
 ## 🎲 Jogue você também
 

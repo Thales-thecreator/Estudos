@@ -45,6 +45,10 @@ Every command, with examples and rules (challenge the boss, sanctuary, outposts,
 | # | Title | Circle |
 |:---:|---|:---:|
 | 0 | [Prologue: The Ashes of Aethelgard](./capitulos/00-prologo.en.md) | Prologue |
+| Scene 1 | [The First Oath](./cenas/0001-o-primeiro-juramento.en.md) · M0.1 | Prologue |
+| Scene 2 | [The Voice in the Iron](./cenas/0002-a-voz-no-ferro.en.md) · M0.2 | Prologue |
+| Scene 3 | [The Grimoire of Blank Pages](./cenas/0003-o-grimorio.en.md) · M0.3 | Prologue |
+| Scene 4 | [The Knot of Two Roots](./cenas/0004-o-labirinto.en.md) · M0.4 | Prologue |
 
 ## 🎲 Play it yourself
 
