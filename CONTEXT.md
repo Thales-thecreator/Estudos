@@ -46,6 +46,37 @@ Título do jogador (0 · Recruta a 8 · Lenda). Sobe quando o XP mínimo **e** o
 Marco único desbloqueado uma vez (ex.: Primeiro Commit), registrado com data no `ROADMAP.md`.
 _Avoid_: Badge, troféu
 
+## Saga
+
+**Mestre**:
+O narrador da saga, invocado pela skill `/mestre`; confere evidências e narra as consequências.
+_Avoid_: DM, narrador
+
+**Círculo**:
+Uma fase vista na saga: F1–F8 são os Círculos 1–8; a vaga assinada é o Círculo 9. A F0 é o Prólogo.
+
+**Corrente**:
+Cada uma das 6 missões da Fase 0, na saga; quebrar as seis e vencer o Trono encerra o Prólogo.
+
+**Suserano**:
+O chefão de uma fase, na saga.
+_Avoid_: Vilão, boss
+
+**Cena**:
+Narração curta de uma missão cumprida, salva em `saga/cenas/`.
+
+**Capítulo**:
+Narração longa de um chefão vencido, com revelação e dilema, salva em `saga/capitulos/`.
+
+**Eco**:
+Narração de 2–3 frases quando a meta semanal é batida.
+
+**Item lendário**:
+Uma conquista, na saga; fica no inventário da ficha.
+
+**Bíblia**:
+Os pilares secretos da trama em `.claude/dm/biblia.md.b64`; só o Mestre lê.
+
 ## Estudo
 
 **Aula**:

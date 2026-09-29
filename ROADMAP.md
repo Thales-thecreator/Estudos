@@ -1,5 +1,7 @@
 # 🗺️ Roadmap — Do Zero a AI Engineer
 
+> ⛓️ Este roadmap é jogado como um RPG narrativo: veja a [saga](./saga/). Use `/mestre` para relatar missões.
+
 > Um jogo de ~18 meses (≈74 semanas, 8–10 h/semana) para sair do zero em programação até a primeira vaga como **ML / MLOps / AI Engineer**.
 > Regras completas em [Como o jogo funciona](#regras). Vocabulário em [`CONTEXT.md`](./CONTEXT.md).
 
@@ -9,7 +11,7 @@
 
 | Nível | XP total | Fase atual | Streak | Chefões vencidos |
 |:---:|:---:|:---:|:---:|:---:|
-| **0 · Recruta** | **0** / 150 | 🟢 Fase 0 — Tutorial | 🔥 0 semanas | 0 / 8 |
+| **0 · Recruta** | **0** / 150 | 🟢 Fase 0 — Tutorial | 🔥 0 semanas | 0 / 9 |
 
 ```
 XP  [░░░░░░░░░░░░░░░░░░░░]  0%   → próximo nível: Aprendiz (150 XP)
@@ -30,6 +32,7 @@ flowchart LR
     F4 --> F5["⚙️ F5<br/>MLOps<br/>12 sem"]
     F5 --> F6["🤖 F6<br/>LLMs &<br/>AI Eng<br/>12 sem"]
     F6 --> F7["🏆 F7<br/>Capstone &<br/>Carreira<br/>8 sem"]
+    F7 --> F8["🎯 F8<br/>A Caçada<br/>até a proposta"]
     F3 -.-> SQ["🗡️ Side quests<br/>CV · NLP · RecSys<br/>Séries temporais · Data Eng"]
 ```
 
@@ -42,7 +45,10 @@ flowchart LR
 | 4 | [Deep Learning](./tracks/04-deep-learning/) | 10 | 800 | O Olho da Máquina | 🔒 |
 | 5 | [MLOps](./tracks/05-mlops/) | 12 | 1000 | O Engenheiro de Produção | 🔒 |
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/) | 12 | 1000 | O Arquiteto de RAG | 🔒 |
-| 7 | [Capstone & Carreira](./tracks/07-capstone-career/) | 8 | 800 | O Chefão Final | 🔒 |
+| 7 | [Capstone & Carreira](./tracks/07-capstone-career/) | 8 | 800 | O Capstone | 🔒 |
+| 8 | [A Caçada](./tracks/08-the-hunt/) | aberta | 500 | A Primeira Proposta | 🔒 |
+
+Na [saga](./saga/): **F0 = Prólogo** (as correntes), **F1–F8 = Círculos 1–8**, e a **vaga assinada = Círculo 9**, o epílogo.
 
 Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o chefão anterior).
 
@@ -91,7 +97,8 @@ Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o 
 | 5 | Deep Learner | 3 400 | Chefão F4 |
 | 6 | MLOps Engineer | 4 500 | Chefão F5 |
 | 7 | AI Engineer | 5 600 | Chefão F6 |
-| 8 | 🏆 Lenda — pronto para o mercado | 6 500 | Chefão F7 |
+| 8 | Veterano — portfólio completo | 6 500 | Chefão F7 |
+| 9 | 🏆 Lenda — contratado | 7 000 | Chefão F8 |
 
 O nível sobe quando **as duas** condições são atendidas (XP mínimo **e** chefão da fase).
 
@@ -245,7 +252,26 @@ Lógica de programação e Python do zero até orientação a objetos e testes. 
 | [roadmap.sh — AI Engineer](https://roadmap.sh/ai-engineer) · [MLOps](https://roadmap.sh/mlops) | Conferir lacunas antes das entrevistas |
 | [NeetCode Roadmap](https://neetcode.io/roadmap) | Algoritmos (só o básico: arrays, hashing, two pointers) |
 
-**🐉 Chefão Final (500 XP):** capstone que une ML + MLOps + LLM num problema escolhido por você, com deploy, CI/CD, avaliação e um post explicando o projeto. **Bônus:** a página interativa deste roadmap (barra de XP, árvore de habilidades, conquistas) como projeto de front-end.
+**🐉 Chefão — O Capstone (500 XP):** capstone que une ML + MLOps + LLM num problema escolhido por você, com deploy, CI/CD, avaliação e um post explicando o projeto. **Bônus:** a página interativa deste roadmap (barra de XP, árvore de habilidades, conquistas) como projeto de front-end.
+
+---
+
+<a id="fase-8"></a>
+
+## 🎯 Fase 8 — A Caçada · duração aberta · 500 XP
+
+Transformar o portfólio em entrevistas e as entrevistas em proposta. As missões são detalhadas quando a fase for desbloqueada.
+
+**Tópicos:** revisão do portfólio e dos READMEs · LinkedIn e GitHub profile · candidaturas (meta: 20) · entrevistas simuladas (técnica, ML system design, comportamental) · networking em comunidades e eventos.
+
+| Material | Uso |
+|---|---|
+| [Chip Huyen — Introduction to ML Interviews Book](https://huyenchip.com/ml-interviews-book/) | Processo seletivo e perguntas por tipo de vaga |
+| [Comunidades](#comunidades) | Indicações, feedback de currículo, vagas |
+
+**🐉 Chefão — A Primeira Proposta (300 XP):** receber uma proposta para uma vaga de ML / MLOps / AI Engineer.
+
+**🌟 Círculo 9 — Epílogo:** aceitar a vaga. Nível **9 · Lenda** e o capítulo final da saga: os céus se abrem.
 
 ---
 

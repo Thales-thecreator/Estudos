@@ -7,7 +7,7 @@
 [🇺🇸 Read in English](./README.md) · [🗺️ Roadmap](./ROADMAP.md) · [📅 Diário de estudos](./LOG.md)
 
 ![Nível](https://img.shields.io/badge/nível-0%20·%20Recruta-6e7681?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-0%20%2F%206500-2ea043?style=for-the-badge)
+![XP](https://img.shields.io/badge/XP-0%20%2F%207000-2ea043?style=for-the-badge)
 ![Fase](https://img.shields.io/badge/fase-0%20·%20Tutorial-1f6feb?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/streak-0%20semanas-f0883e?style=for-the-badge)
 
@@ -37,14 +37,17 @@ _Sou **&lt;seu nome&gt;** e estou aprendendo em público para me tornar AI Engin
 | 4 | [Deep Learning](./tracks/04-deep-learning/) — PyTorch, fast.ai | 10 | 🔒 | O Olho da Máquina |
 | 5 | [MLOps](./tracks/05-mlops/) — Docker, FastAPI, MLflow, CI/CD | 12 | 🔒 | O Engenheiro de Produção |
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/) — RAG, agentes, evals | 12 | 🔒 | O Arquiteto de RAG |
-| 7 | [Capstone & Carreira](./tracks/07-capstone-career/) | 8 | 🔒 | O Chefão Final |
+| 7 | [Capstone & Carreira](./tracks/07-capstone-career/) | 8 | 🔒 | O Capstone |
+| 8 | [A Caçada](./tracks/08-the-hunt/) — candidaturas e entrevistas | aberta | 🔒 | A Primeira Proposta |
 
 ```mermaid
 flowchart LR
     F0[F0 Tutorial]:::agora --> F1[F1 Python] --> F2[F2 Dados & Matemática] --> F3[F3 ML Clássico]
-    F3 --> F4[F4 Deep Learning] --> F5[F5 MLOps] --> F6[F6 LLMs & AI Eng] --> F7[F7 Capstone]
+    F3 --> F4[F4 Deep Learning] --> F5[F5 MLOps] --> F6[F6 LLMs & AI Eng] --> F7[F7 Capstone] --> F8[F8 A Caçada]
     classDef agora fill:#2ea043,color:#fff,stroke:#2ea043
 ```
+
+⛓️ **Jogado como um RPG narrativo grimdark**: cada missão avança uma história em [`saga/`](./saga/).
 
 O jogo completo — missões, XP, níveis, conquistas e todos os materiais gratuitos — está no **[ROADMAP.md](./ROADMAP.md)**.
 
@@ -87,6 +90,7 @@ Cada fase termina com um **chefão**: um projeto prático publicado em repositó
 │       ├── notes/      #   minhas anotações
 │       └── exercises/  #   código e notebooks
 ├── projects/           # mini-projetos (chefões ganham repositório próprio)
+├── saga/               # o RPG: capítulos, ficha do personagem, crônica
 ├── classroom/          # aulas interativas geradas com a skill /teach do Claude
 ├── templates/          # modelos de nota e de README de projeto
 └── docs/adr/           # decisões sobre a organização do repositório

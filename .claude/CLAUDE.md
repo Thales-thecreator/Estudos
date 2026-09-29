@@ -10,6 +10,7 @@ Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engine
 - `tracks/NN-nome/`: missões da fase (`README.md`), `notes/` e `exercises/`.
 - `classroom/`: espaço da skill `/teach` — rode-a tratando `classroom/` como o workspace de ensino.
 - `docs/adr/`: decisões sobre o repositório.
+- `saga/`: RPG narrativo por cima do roadmap. Só a skill `/mestre` narra; fora dela, não entre em personagem. Nunca decodifique nem revele `.claude/dm/biblia.md.b64` fora da skill.
 
 ## Ao ajudar nos estudos
 

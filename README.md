@@ -7,7 +7,7 @@
 [🇧🇷 Leia em português](./README.pt-BR.md) · [🗺️ Roadmap](./ROADMAP.md) · [📅 Study log](./LOG.md)
 
 ![Level](https://img.shields.io/badge/level-0%20·%20Recruit-6e7681?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-0%20%2F%206500-2ea043?style=for-the-badge)
+![XP](https://img.shields.io/badge/XP-0%20%2F%207000-2ea043?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/phase-0%20·%20Tutorial-1f6feb?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/streak-0%20weeks-f0883e?style=for-the-badge)
 
@@ -37,14 +37,17 @@ _I'm **&lt;your name&gt;**, learning in public to become an AI Engineer. &lt;One
 | 4 | [Deep Learning](./tracks/04-deep-learning/) — PyTorch, fast.ai | 10 | 🔒 | The Machine's Eye |
 | 5 | [MLOps](./tracks/05-mlops/) — Docker, FastAPI, MLflow, CI/CD | 12 | 🔒 | The Production Engineer |
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/) — RAG, agents, evals | 12 | 🔒 | The RAG Architect |
-| 7 | [Capstone & Career](./tracks/07-capstone-career/) | 8 | 🔒 | The Final Boss |
+| 7 | [Capstone & Career](./tracks/07-capstone-career/) | 8 | 🔒 | The Capstone |
+| 8 | [The Hunt](./tracks/08-the-hunt/) — applications & interviews | open | 🔒 | The First Offer |
 
 ```mermaid
 flowchart LR
     F0[F0 Tutorial]:::now --> F1[F1 Python] --> F2[F2 Data & Math] --> F3[F3 Classical ML]
-    F3 --> F4[F4 Deep Learning] --> F5[F5 MLOps] --> F6[F6 LLMs & AI Eng] --> F7[F7 Capstone]
+    F3 --> F4[F4 Deep Learning] --> F5[F5 MLOps] --> F6[F6 LLMs & AI Eng] --> F7[F7 Capstone] --> F8[F8 The Hunt]
     classDef now fill:#2ea043,color:#fff,stroke:#2ea043
 ```
+
+⛓️ **Played as a grimdark narrative RPG** — every mission advances a story in [`saga/`](./saga/) (in Portuguese).
 
 The full game — missions, XP, levels, achievements and every free resource — lives in **[ROADMAP.md](./ROADMAP.md)** (in Portuguese).
 
@@ -87,6 +90,7 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 │       ├── notes/      #   my study notes (Portuguese)
 │       └── exercises/  #   code & notebooks
 ├── projects/           # small projects (boss projects get their own repos)
+├── saga/               # the RPG: chapters, character sheet, chronicle
 ├── classroom/          # interactive lessons generated with Claude's /teach skill
 ├── templates/          # note & project README templates
 └── docs/adr/           # decisions about how this repo is organized
