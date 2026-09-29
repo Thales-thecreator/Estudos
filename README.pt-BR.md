@@ -18,11 +18,11 @@
 ## 👋 Sobre mim
 
 <!-- TODO: 2–3 frases com suas palavras: quem você é, de onde vem, o que quer construir. -->
-_Sou **&lt;seu nome&gt;** e estou aprendendo em público para me tornar AI Engineer. &lt;Uma frase sobre sua trajetória.&gt;_
+_Sou Thales Gomes e estou aprendendo em público para me tornar AI Engineer._
 
 - 🎯 **Objetivo:** conseguir minha primeira vaga como ML / AI Engineer
 - 🌱 **Estudando agora:** Git, GitHub e hábito de estudo (Fase 0)
-- 📫 **Contato:** <!-- TODO: seu usuário do LinkedIn --> [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📫 **Contato:** <!-- TODO: seu usuário do LinkedIn --> [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/)
 
 ---
 
