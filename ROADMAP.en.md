@@ -65,7 +65,7 @@ Status: 🟢 current · ✅ done · 🔒 locked (unlocks when the previous boss 
 ### Sessions and weekly goal
 
 - **Standard session**: ≥ 30 min of focused study, logged as one line in [`LOG.md`](./LOG.md) (kept in Portuguese).
-- **Minimum session** (bad day): 15 min — review a note, read one page, redo one exercise. Counts as a session, **at most once a week**.
+- **Minimum session** (bad day): 15 min — review flashcards in Obsidian, review a note, read one page, redo one exercise. Counts as a session, **at most once a week**.
 - **Weekly goal**: **3 sessions** in month 1 → **4 sessions** from month 2.
 - A week runs Monday to Sunday.
 
@@ -82,7 +82,7 @@ Status: 🟢 current · ✅ done · 🔒 locked (unlocks when the previous boss 
 
 **Rules:**
 
-1. A mission only earns XP with **evidence in the repo**: a note in `notes/`, code in `exercises/`, or a link in `LOG.md`.
+1. A mission only earns XP with **evidence in the repo**: a note in `notes/` (plus the `brain/` concept notes it links), code in `exercises/`, or a link in `LOG.md`.
 2. Bosses are **mandatory** to unlock the next phase. Missions may lag behind as long as the boss is defeated.
 3. Broke the streak? No penalty — the count just restarts. Earned XP is never lost.
 4. Stuck on a mission for more than 2 sessions? Open a `/teach` lesson or ask a [community](#comunidades). Asking for help is part of the game.
@@ -104,6 +104,8 @@ Status: 🟢 current · ✅ done · 🔒 locked (unlocks when the previous boss 
 
 A level goes up only when **both** conditions are met (min XP **and** that phase's boss).
 
+> **Consistency counts:** from Lv 3 on, phase XP alone is not enough — **weekly bonuses** (+20, +50 every 4 weeks) and side quests close the gap. Example: phases 0–8 give 6,420 XP; the remaining 580 for Lv 9 equal ~29 weeks of goals met, out of ~74.
+
 ### 🏅 Achievements
 
 | | Achievement | How to unlock | Date |
@@ -123,6 +125,7 @@ A level goes up only when **both** conditions are met (min XP **and** that phase
 | 🔎 | Retriever | First working RAG system | |
 | ✍️ | Teacher | Publish a post explaining something you learned | |
 | 🤝 | Community | Answer someone else's question in a community | |
+| 🕸️ | Second Brain | 25 interlinked concept notes in `brain/concepts/` | |
 | 🎯 | Candidate | Send the first application for an ML/AI role | |
 
 ---

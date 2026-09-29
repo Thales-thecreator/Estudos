@@ -2,7 +2,7 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./README.en.md)
 
-> **Duração:** 8 semanas · **XP da fase:** 800 · **Chefão:** O Chefão Final
+> **Duração:** 8 semanas · **XP da fase:** 800 · **Chefão:** O Capstone
 > **Status:** 🔒 desbloqueia ao vencer o chefão da [Fase 6](../06-llms-ai-eng/).
 
 Tópicos, materiais e chefão desta fase estão no [ROADMAP](../../ROADMAP.md#fase-7).

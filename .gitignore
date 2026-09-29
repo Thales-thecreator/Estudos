@@ -37,3 +37,12 @@ service-account*.json
 kaggle.json
 .huggingface/
 .netrc
+
+# Obsidian — versiona só a configuração essencial (ver brain/README.md)
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/plugins/
+.trash/
+
+# Rascunhos pessoais: nunca sobem (e não têm backup)
+privado/

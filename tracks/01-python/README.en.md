@@ -36,6 +36,9 @@
 - [ ] **M1.6 · Leaving Colab** — 50 XP · 🏅 *Left Colab*
   Install [VS Code](https://code.visualstudio.com/docs/python/python-tutorial) + Python, clone this repo with Git, create a virtual environment and run one of your scripts locally. **Before the first commit**, set your private GitHub email: `git config --global user.email "<id>+<username>@users.noreply.github.com"` (find it in *GitHub → Settings → Emails*; see [SECURITY](../../SECURITY.md)). Then commit **from the terminal** (`git add`, `git commit`, `git push`).
   **Evidence:** a note `notes/ambiente-local.md` with the steps that worked for you.
+- [ ] **M1.6b · Second brain** — 40 XP
+  Install [Obsidian](https://obsidian.md/) and open the cloned repository folder as a vault (*Open folder as vault*). The basic configuration ships with the repo (Markdown links, templates folder). In *Settings → Community plugins*, install and enable **Obsidian Git** (syncs with GitHub) and **Spaced Repetition** (flashcards). Read [`brain/README.en.md`](../../brain/README.en.md) and create your **first 2 concept notes** in `brain/concepts/` with the [concept template](../../templates/conceito.en.md), linked from a mission note.
+  **Evidence:** the 2 notes in `brain/concepts/` and a commit made by Obsidian Git.
 - [ ] **M1.7 · Tests** — 40 XP · 🏅 *Tested*
   CS50P **Lecture 5** + Problem Set 5 (`pytest`).
 - [ ] **M1.8 · Files** — 40 XP

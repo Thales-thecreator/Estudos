@@ -42,11 +42,13 @@ The player plays in Portuguese; every chapter and scene is also published in Eng
 |:---:|---|:---:|
 | 0 | [Prologue: The Ashes of Aethelgard](./capitulos/00-prologo.en.md) | Prologue |
 
-Scenes live in [`cenas/`](./cenas/). The character is in [`ficha.en.md`](./ficha.en.md) and the world's memory in [`cronica.en.md`](./cronica.en.md).
-
 ## 🎲 Play it yourself
 
 Fork this repo and play your own run — see [Play it yourself](../README.md#play-it-yourself). The plot pillars are the same for everyone, but your choices are not.
+
+## Files
+
+Scenes live in [`cenas/`](./cenas/). The character is in [`ficha.en.md`](./ficha.en.md) and the world's memory in [`cronica.en.md`](./cronica.en.md).
 
 ---
 

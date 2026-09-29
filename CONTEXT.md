@@ -77,11 +77,24 @@ Uma conquista, na saga; fica no inventário da ficha.
 **Bíblia**:
 Os pilares secretos da trama em `.claude/dm/biblia.md.b64`; só o Mestre lê.
 
+## Segundo cérebro
+
+**Nota de conceito**:
+Nota atômica em `brain/concepts/` sobre um único conceito, escrita pelo dono com as próprias palavras; criada quando o conceito aparece pela segunda vez.
+_Avoid_: Resumo, fichamento
+
+**Mapa**:
+Índice em `brain/maps/` que liga as notas de conceito de uma fase.
+_Avoid_: MOC, índice
+
+**Flashcard**:
+Linha `Pergunta::Resposta` numa nota com a tag `#flashcards`, revisada pelo plugin Spaced Repetition.
+
 ## Estudo
 
 **Aula**:
 Lição curta e interativa gerada pela skill `/teach`, salva em `classroom/lessons/`. Vale +10 XP com o quiz feito.
 _Avoid_: Lesson
 
-**Nota**:
+**Nota** (de missão):
 Anotação sua sobre um tema, em português, em `tracks/NN-nome/notes/`, seguindo `templates/nota-de-estudo.md`.

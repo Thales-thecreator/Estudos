@@ -6,7 +6,7 @@
 | What / O quê | Where / Onde | License / Licença |
 |---|---|---|
 | **Code** / Código — scripts, notebooks, exercises, projects, workflows | `tracks/*/exercises/`, `projects/`, `.github/`, any `*.py`, `*.ipynb`, `*.sh` | [MIT](./LICENSE) |
-| **Content** / Conteúdo — roadmap, study notes, templates, docs, the `/mestre` skill | `ROADMAP*.md`, `README*.md`, `tracks/*/README*.md`, `tracks/*/notes/`, `templates/`, `classroom/`, `docs/`, `CONTEXT.md`, `LOG.md`, `SECURITY*.md`, `.claude/skills/mestre/`, `.claude/CLAUDE.md` | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| **Content** / Conteúdo — roadmap, study notes, templates, docs, the `/mestre` skill | `ROADMAP*.md`, `README*.md`, `tracks/*/README*.md`, `tracks/*/notes/`, `brain/`, `templates/`, `.obsidian/`, `classroom/`, `docs/`, `CONTEXT.md`, `LOG.md`, `SECURITY*.md`, `.claude/skills/mestre/`, `.claude/CLAUDE.md` | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | **The saga** / A saga — world, characters, story, sealed plot | `saga/`, `.claude/dm/` | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | **Third-party skills** / Skills de terceiros | `.claude/skills/*` except `mestre/` | MIT © Matt Pocock — see [`.claude/skills/THIRD-PARTY.md`](./.claude/skills/THIRD-PARTY.md) |
 

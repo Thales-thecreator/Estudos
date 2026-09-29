@@ -17,12 +17,11 @@
 
 ## 👋 About me
 
-<!-- TODO: 2–3 sentences in your own words: who you are, where you're coming from, what you want to build. -->
 _I'm Thales Gomes, learning in public to become an AI Engineer._
 
 - 🎯 **Goal:** land my first ML / AI Engineer role
 - 🌱 **Currently learning:** Git, GitHub and study habits (Phase 0)
-- 📫 **Reach me:** <!-- TODO: your LinkedIn handle --> [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/)
 
 ---
 
@@ -92,6 +91,7 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 │       └── exercises/  #   code & notebooks
 ├── projects/           # small projects (boss projects get their own repos)
 ├── saga/               # the RPG: chapters, character sheet, chronicle
+├── brain/              # second brain (Obsidian vault): concept notes + maps
 ├── classroom/          # interactive lessons generated with Claude's /teach skill
 ├── templates/          # note & project README templates
 └── docs/adr/           # decisions about how this repo is organized

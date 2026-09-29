@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "brain/concepts",
+  "attachmentFolderPath": "brain/assets"
+}

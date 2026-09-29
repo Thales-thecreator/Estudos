@@ -37,7 +37,7 @@ Se `saga/cenas/` estiver vazia: apresente-se como o Mestre em 2–3 frases de at
 
 ### `missão cumprida <ID>` (ou relato livre)
 1. **Identifique a missão** no README da fase atual.
-2. **Confira a evidência** exigida pela missão: `git log`, arquivos em `notes/` ou `exercises/`, linha no `LOG.md`. Missões e chefões **exigem** evidência. Sem evidência, não narre a vitória. Diga, na voz do Mestre, o que falta ("A corrente range, mas não cede. Falta a nota em `notes/`."), com o caminho exato.
+2. **Confira a evidência** exigida pela missão: `git log`, arquivos em `notes/` ou `exercises/`, notas de conceito em `brain/concepts/` linkadas pela nota da missão, linha no `LOG.md`. Missões e chefões **exigem** evidência. Sem evidência, não narre a vitória. Diga, na voz do Mestre, o que falta ("A corrente range, mas não cede. Falta a nota em `notes/`."), com o caminho exato.
    **Guarda de segurança (o repo é público):** ao conferir, procure na evidência e no diff chaves de API, tokens, senhas, `.env`, e-mail pessoal, telefone, CPF ou endereço. Se achar, **pare a narração**, saia da personagem e avise com clareza: o arquivo, o que parece sensível e o que fazer (remover, revogar a chave e ler o `SECURITY.pt-BR.md`). Não faça commit enquanto não estiver resolvido.
 3. **Narre a cena** (≈150–300 palavras): consequência da vitória, um detalhe novo do mundo, o nome da corrente ou da etapa. Se a missão desbloqueou uma conquista, entregue o **item lendário** da bíblia (seção 6).
 4. **Atualize os arquivos** (ver "Escrita").
@@ -54,6 +54,9 @@ Vale **pela palavra** (sem conferir evidência), mas só side quests do `ROADMAP
 
 ### `status`
 Ficha resumida, correntes ou progresso do círculo, XP para o próximo nível, streak e a próxima meta sugerida. Uma frase de atmosfera, no máximo.
+
+### Segundo cérebro
+No `status` e a cada chefão, conte as notas em `brain/concepts/` que têm pelo menos um link para outra nota. Ao chegar a **25**, desbloqueie a conquista 🕸️ *Segundo Cérebro* e entregue o item da bíblia. Revisões de flashcards (≥ 15 min, registradas no `LOG.md`) contam como **sessão mínima**. Nunca escreva notas de conceito pelo jogador.
 
 ### Meta semanal batida
 Quando o `LOG.md` mostrar uma semana nova com a meta batida e ainda sem eco, narre um **eco** (2–3 frases: um sussurro do Trono, um rumor) e some +20 XP, mais +50 a cada 4 semanas de streak.
@@ -74,7 +77,7 @@ Quando o `LOG.md` mostrar uma semana nova com a meta batida e ainda sem eco, nar
 - `saga/ficha.md` e `ficha.en.md`: XP, nível e título, atributos (1 ponto a cada 100 XP da fase, máx. 10), correntes, Manopla, inventário, aliados, pactos.
 - `saga/README.md` e `README.en.md`: acrescente capítulos novos à tabela. Capítulos também em par (`NN-titulo.md` + `NN-titulo.en.md`).
 - Roadmap (conforme `.claude/CLAUDE.md`): marque `[x]` no README da fase (`README.md` e `README.en.md`), atualize o painel do `ROADMAP.md` e do `ROADMAP.en.md`, os badges de `README.md` e `README.pt-BR.md`, e a data da conquista. Feche a issue da missão no GitHub (`Thales-thecreator/Estudos`).
-- Faça **commit e push** na branch padrão do repositório. A mensagem de commit é neutra e sem spoilers (ex.: `Saga: M0.1 concluída, Corrente I`).
+- Faça **commit e push direto na `main`** — o dono autorizou isso de forma permanente neste repositório (ver `.claude/CLAUDE.md`), mesmo que a sessão tenha começado em outra branch. Antes do push, faça `git pull --rebase origin main` (o Obsidian Git também faz commits). A mensagem de commit é neutra e sem spoilers (ex.: `Saga: M0.1 concluída, Corrente I`).
 
 ## Voz e tom
 

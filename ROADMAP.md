@@ -65,7 +65,7 @@ Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o 
 ### Sessões e meta semanal
 
 - **Sessão padrão**: ≥ 30 min de estudo focado. Registre uma linha no [`LOG.md`](./LOG.md).
-- **Sessão mínima** (dia ruim): 15 min — revisar uma nota, ler 1 página, refazer 1 exercício. Conta como sessão, **no máximo 1 por semana**.
+- **Sessão mínima** (dia ruim): 15 min — revisar flashcards no Obsidian, revisar uma nota, ler 1 página, refazer 1 exercício. Conta como sessão, **no máximo 1 por semana**.
 - **Meta semanal**: **3 sessões** no 1º mês → **4 sessões** a partir do 2º mês.
 - Semana = segunda a domingo.
 
@@ -82,7 +82,7 @@ Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o 
 
 **Regras:**
 
-1. Missão só vale XP com **evidência no repo**: nota em `notes/`, código em `exercises/`, ou link no `LOG.md`.
+1. Missão só vale XP com **evidência no repo**: nota em `notes/` (e as notas de conceito em `brain/` que ela linka), código em `exercises/`, ou link no `LOG.md`.
 2. Chefão é **obrigatório** para desbloquear a próxima fase. Missões de uma fase podem ficar para trás, desde que o chefão seja vencido.
 3. Streak quebrou? Sem punição — só recomeça a contagem. O XP ganho nunca é perdido.
 4. Travou numa missão por mais de 2 sessões? Abra uma aula com `/teach` ou pergunte numa [comunidade](#comunidades). Pedir ajuda é parte do jogo.
@@ -104,6 +104,8 @@ Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o 
 
 O nível sobe quando **as duas** condições são atendidas (XP mínimo **e** chefão da fase).
 
+> **Constância conta:** a partir do Nv 3, o XP das fases sozinho não basta — os **bônus semanais** (+20, +50 a cada 4 semanas) e as side quests completam o caminho. Exemplo: até a Fase 8 as fases dão 6 420 XP; os 580 restantes para o Nv 9 equivalem a ~29 semanas de meta batida, de um total de ~74.
+
 ### 🏅 Conquistas
 
 | | Conquista | Como desbloquear | Data |
@@ -123,6 +125,7 @@ O nível sobe quando **as duas** condições são atendidas (XP mínimo **e** ch
 | 🔎 | Recuperador | Primeiro sistema RAG funcionando | |
 | ✍️ | Professor | Publicar um post/artigo explicando algo que aprendeu | |
 | 🤝 | Comunidade | Responder a dúvida de outra pessoa numa comunidade | |
+| 🕸️ | Segundo Cérebro | 25 notas de conceito interligadas em `brain/concepts/` | |
 | 🎯 | Candidato | Enviar a primeira candidatura para vaga de ML/AI | |
 
 Marque a data na coluna ao desbloquear.

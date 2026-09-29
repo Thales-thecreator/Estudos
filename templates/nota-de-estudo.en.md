@@ -17,9 +17,11 @@
 <!-- Doubts, mistakes I made and how I fixed them. The most valuable part when reviewing. -->
 
 ## Ask yourself (active recall)
-<!-- 2–3 questions to test yourself a week from now, without looking at the answer. -->
-1.
-2.
+<!-- 2–3 questions as Question::Answer — they become flashcards in Obsidian (#flashcards tag). -->
+#flashcards
+
+Question 1?::Answer 1
+Question 2?::Answer 2
 
 ## Links
 -
