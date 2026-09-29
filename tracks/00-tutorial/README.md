@@ -15,13 +15,13 @@ Nesta fase o conteúdo é leve de propósito. O que importa é aparecer 3 vezes 
 
 Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no GitHub.
 
-- [ ] **M0.1 · Olá, GitHub** · ⛓️ *Corrente I · Ignorância* — 15 XP
-  Siga o guia [Hello World do GitHub](https://docs.github.com/pt/get-started/start-your-journey/hello-world) (em PT) para entender repositório, branch, commit e pull request. Não precisa criar outro repo: basta entender os conceitos.
-  **Evidência:** nota curta em [`notes/`](./notes/) explicando, com suas palavras, o que é *commit* e o que é *branch*.
+- [ ] **M0.1 · Olá, GitHub** · ⛓️ *Corrente I · Ignorância* — 15 XP · 🏅 *Primeiro Commit*
+  Siga o guia [Hello World do GitHub](https://docs.github.com/pt/get-started/start-your-journey/hello-world) (em PT) para entender repositório, branch, commit e pull request. Não precisa criar outro repo: basta entender os conceitos. Depois, **crie sua primeira nota pelo site**: abra a pasta [`notes/`](./notes/), clique em **Add file → Create new file**, dê o nome `01-git-e-github.md`, escreva e clique em **Commit changes**. Pronto: esse é o seu **primeiro commit**.
+  **Evidência:** a nota `notes/01-git-e-github.md` explicando, com suas palavras, o que é *commit* e o que é *branch*.
 
-- [ ] **M0.2 · Primeiro commit** · ⛓️ *Corrente II · Silêncio* — 20 XP · 🏅 *Primeiro Commit*
-  Pelo navegador (aperte `.` na página do repo para abrir o editor web, ou clique no lápis ✏️ de um arquivo), edite o [`LOG.md`](../../LOG.md) registrando sua primeira sessão e faça o commit.
-  **Evidência:** o commit no histórico.
+- [ ] **M0.2 · Diário de bordo** · ⛓️ *Corrente II · Silêncio* — 20 XP
+  Agora **edite** um arquivo que já existe: abra o [`LOG.md`](../../LOG.md), clique no lápis ✏️ e registre sua sessão na tabela da semana (data, minutos, o que fez, missão). Faça o commit. Daqui em diante, toda sessão de estudo termina assim.
+  **Evidência:** a linha da sessão no `LOG.md`.
 
 - [ ] **M0.3 · Primeiro notebook** · ⛓️ *Corrente III · Página em Branco* — 25 XP · 🏅 *Primeiro Notebook*
   Abra o [Google Colab](https://colab.research.google.com/), crie um notebook, rode `print("Olá, mundo!")` e algumas contas (`2 + 2`, `10 / 3`). Salve no repo com **Arquivo → Salvar uma cópia no GitHub** dentro de `tracks/00-tutorial/exercises/`.
@@ -32,7 +32,7 @@ Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no
   **Evidência:** print da tela final em `notes/` ou uma linha no `LOG.md`.
 
 - [ ] **M0.5 · Minha missão e minha agenda** · ⛓️ *Corrente V · Propósito Perdido* — 15 XP
-  Preencha as seções *Por quê* e *Restrições* do [`classroom/MISSION.md`](../../classroom/MISSION.md) com suas palavras e escolha **3 horários fixos na semana** para estudar. Anote-os no topo do `LOG.md`.
+  Reescreva as seções *Why* (por quê) e *Constraints* (restrições) do [`classroom/MISSION.md`](../../classroom/MISSION.md) com suas palavras, em português (os títulos ficam em inglês porque é o formato da `/teach`), e escolha **3 horários fixos na semana** para estudar. Anote-os no topo do `LOG.md`.
   **Evidência:** `MISSION.md` e `LOG.md` atualizados.
 
 - [ ] **M0.6 · Primeira aula com o professor** · ⛓️ *Corrente VI · Solidão* — 0 XP (+10 da aula)

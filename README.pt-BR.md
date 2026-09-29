@@ -13,6 +13,12 @@
 
 </div>
 
+<!-- quest:start -->
+> - ⚔️ **Missão atual:** o jogo ainda não começou — a primeira corrente espera.
+> - 📜 **Último da saga:** [Prólogo: As Cinzas de Aethelgard](./saga/capitulos/00-prologo.md)
+> - 🔥 **Streak:** 0 semanas · **Próximo nível:** Aprendiz (faltam 150 XP)
+<!-- quest:end -->
+
 ---
 
 ## 👋 Sobre mim

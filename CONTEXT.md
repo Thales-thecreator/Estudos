@@ -5,7 +5,7 @@ Repositório de estudos para sair do zero até a primeira vaga como ML / MLOps /
 ## Estrutura do jogo
 
 **Fase**:
-Um bloco do roadmap (0 a 7) com tema, duração estimada em semanas, missões e um chefão. Cada fase vive em `tracks/NN-nome/`.
+Um bloco do roadmap (0 a 8) com tema, duração estimada em semanas, missões e um chefão. Cada fase vive em `tracks/NN-nome/`.
 _Avoid_: Módulo, etapa, trilha
 
 **Missão**:
@@ -43,7 +43,7 @@ _Avoid_: Sequência diária, ofensiva
 Pontos ganhos por missões, chefões, side quests, aulas e metas semanais. Nunca diminuem.
 
 **Nível**:
-Título do jogador (0 · Recruta a 8 · Lenda). Sobe quando o XP mínimo **e** o chefão da fase correspondente foram alcançados.
+Título do jogador (0 · Recruta a 9 · Lenda). Sobe quando o XP mínimo **e** o chefão da fase correspondente foram alcançados.
 
 **Conquista**:
 Marco único desbloqueado uma vez (ex.: Primeiro Commit), registrado com data no `ROADMAP.md`.

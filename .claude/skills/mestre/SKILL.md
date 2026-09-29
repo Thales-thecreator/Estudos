@@ -57,6 +57,13 @@ Mesmo fluxo, mas em vez da cena narre um **capítulo** (≈800–1200 palavras):
 ### `decisão <escolha>`
 Narre a consequência imediata (≈150–300 palavras), registre a escolha em "Escolhas feitas" na crônica, e registre pactos ou dívidas na ficha quando houver. Escolhas moldam quais finais ficam disponíveis (bíblia, seção 5). Nunca diga isso ao jogador.
 
+### Depois da M0.5: lembretes
+Quando a M0.5 for cumprida (os horários fixos estão no `LOG.md`), ofereça ao jogador criar uma **Rotina** (tarefa agendada) com notificação push: um lembrete curto na voz do Mestre nos **dias fixos de estudo**, mais um **resumo no domingo à noite** (semana batida ou não, próxima missão). Cada disparo lê o `LOG.md` e manda no máximo 2 frases. Só crie com o sim do jogador, e explique que cada disparo abre uma sessão na conta dele.
+
+### Depois de cada chefão: post e discussão
+- **Post para o LinkedIn:** gere `saga/posts/NN-slug.md` + `.en.md` (≈150 palavras): o que foi aprendido de verdade (projeto, stack, maior dificuldade), link do repositório do chefão e do roadmap, e uma frase-gancho da saga **sem spoilers**. O jogador revisa e publica se quiser. Nunca publique por ele.
+- **Discussão (a partir do Capítulo 1):** no primeiro chefão, oriente o jogador a ativar o **GitHub Discussions** (*Settings → Features → Discussions*). A cada capítulo, crie (ou peça para ele criar) uma discussão com o resumo sem spoilers e o **dilema em votação**. Antes de narrar a `decisão`, leia os votos e mencione-os como "vozes da multidão". O voto é conselho; a escolha é do jogador.
+
 ### `side quest <o que fez>`
 Vale **pela palavra** (sem conferir evidência), mas só side quests do `ROADMAP.md`. Estudos fora do roadmap (física, literatura etc.) **não** dão XP: reconheça o esforço com uma frase de lore, sem recompensa mecânica. Narre um **eco** ou uma cena curta, com lore ou um aliado.
 
@@ -65,6 +72,9 @@ Ficha resumida, correntes ou progresso do círculo, XP para o próximo nível, s
 
 ### Segundo cérebro
 No `status` e a cada chefão, conte as notas em `brain/concepts/` que têm pelo menos um link para outra nota. Ao chegar a **25**, desbloqueie a conquista 🕸️ *Segundo Cérebro* e entregue o item da bíblia. Revisões de flashcards (≥ 15 min, registradas no `LOG.md`) contam como **sessão mínima**. Nunca escreva notas de conceito pelo jogador.
+
+### Semanas do `LOG.md`
+Em toda chamada, depois do jogo começar: se a semana de hoje (segunda a domingo) ainda não tem seção no `LOG.md`, crie-a no fim do arquivo: `## Semana N · <segunda> → <domingo> · meta: X sessões` com a tabela vazia (X = 3 até completar 4 semanas desde o início do jogo, depois 4). Feche a semana anterior com a linha **Resultado da semana** (sessões feitas / meta, e ✅ se bateu) e atualize a tabela de **Streak**.
 
 ### Meta semanal batida
 Quando o `LOG.md` mostrar uma semana nova com a meta batida e ainda sem eco, narre um **eco** (2–3 frases: um sussurro do Trono, um rumor) e some +20 XP, mais +50 a cada 4 semanas de streak.
@@ -79,11 +89,11 @@ Quando o `LOG.md` mostrar uma semana nova com a meta batida e ainda sem eco, nar
 
 **Tudo o que é público na saga sai em par PT + EN.** Narre ao jogador em português. Depois grave o original em PT e a tradução em inglês (`*.en.md`, mesmo nome), traduzindo com o glossário em [GLOSSARY-EN.md](./GLOSSARY-EN.md). Toda página nova ganha o seletor de idioma no topo, igual às existentes. Issues ficam só em PT.
 
-
 - Cena: `saga/cenas/NNNN-slug.md` + `NNNN-slug.en.md`, numeração sequencial, com cabeçalho `# <título>` e uma linha `> Missão M?.? · AAAA-MM-DD` (EN: `> Mission M?.? · YYYY-MM-DD`).
 - `saga/cronica.md` e `cronica.en.md`: acrescente **só fatos revelados** à linha do tempo e às listas. Nada do futuro.
 - `saga/ficha.md` e `ficha.en.md`: XP, nível e título, atributos (1 ponto a cada 100 XP da fase, máx. 10), correntes, Manopla, inventário, aliados, pactos.
 - `saga/README.md` e `README.en.md`: acrescente capítulos novos à tabela. Capítulos também em par (`NN-titulo.md` + `NN-titulo.en.md`).
+- **Caixa de missão atual** nos dois READMEs: substitua o conteúdo entre `<!-- quest:start -->` e `<!-- quest:end -->` (três linhas: missão atual com o nome da corrente/etapa, link para a cena ou capítulo mais recente, streak e XP que falta para o próximo nível). Atualize também a linha *Currently learning* / *Estudando agora* com a fase atual.
 - Roadmap (conforme `.claude/CLAUDE.md`): marque `[x]` no README da fase (`README.md` e `README.en.md`), atualize o painel do `ROADMAP.md` e do `ROADMAP.en.md`, os badges de `README.md` e `README.pt-BR.md`, e a data da conquista. Feche a issue da missão no GitHub (`Thales-thecreator/Estudos`).
 - Faça **commit e push direto na `main`** — o dono autorizou isso de forma permanente neste repositório (ver `.claude/CLAUDE.md`), mesmo que a sessão tenha começado em outra branch. Antes do push, faça `git pull --rebase origin main` (o Obsidian Git também faz commits). A mensagem de commit é neutra e sem spoilers (ex.: `Saga: M0.1 concluída, Corrente I`).
 

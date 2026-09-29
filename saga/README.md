@@ -46,7 +46,7 @@ Faça um fork e jogue a sua própria partida — veja [Jogue você também](../R
 
 ## Arquivos
 
-As cenas ficam em [`cenas/`](./cenas/). O personagem está em [`ficha.md`](./ficha.md) e a memória do mundo em [`cronica.md`](./cronica.md).
+As cenas ficam em [`cenas/`](./cenas/); a cada chefão, um rascunho de post para o LinkedIn fica em `posts/`. O personagem está em [`ficha.md`](./ficha.md) e a memória do mundo em [`cronica.md`](./cronica.md).
 
 ---
 

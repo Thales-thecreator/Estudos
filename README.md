@@ -13,6 +13,12 @@
 
 </div>
 
+<!-- quest:start -->
+> - ⚔️ **Current quest:** the game has not started yet — the first chain awaits.
+> - 📜 **Latest from the saga:** [Prologue: The Ashes of Aethelgard](./saga/capitulos/00-prologo.en.md)
+> - 🔥 **Streak:** 0 weeks · **Next level:** Apprentice (150 XP to go)
+<!-- quest:end -->
+
 ---
 
 ## 👋 About me

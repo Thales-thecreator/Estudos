@@ -48,7 +48,7 @@ Fork this repo and play your own run — see [Play it yourself](../README.md#pla
 
 ## Files
 
-Scenes live in [`cenas/`](./cenas/). The character is in [`ficha.en.md`](./ficha.en.md) and the world's memory in [`cronica.en.md`](./cronica.en.md).
+Scenes live in [`cenas/`](./cenas/); after each boss, a LinkedIn post draft goes to `posts/`. The character is in [`ficha.en.md`](./ficha.en.md) and the world's memory in [`cronica.en.md`](./cronica.en.md).
 
 ---
 

@@ -14,6 +14,7 @@ labels: mission
 - [ ] <o que precisa existir no repo>
 
 ## Ao concluir
-- [ ] Marcar `[x]` no README da fase
+- [ ] Marcar `[x]` no README da fase (`README.md` e `README.en.md`)
 - [ ] Registrar no `LOG.md`
-- [ ] Atualizar o XP no painel do ROADMAP
+- [ ] Atualizar o XP no painel do `ROADMAP.md` e do `ROADMAP.en.md`
+- [ ] Ou simplesmente: `/mestre missão cumprida M?.?`
