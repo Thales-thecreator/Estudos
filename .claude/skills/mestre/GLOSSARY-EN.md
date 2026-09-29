@@ -32,6 +32,9 @@ Use sempre estas traduções. Nomes próprios (Aethelgard, Thales e nomes de per
 ## Correntes da Fase 0
 I Ignorância → Ignorance · II Silêncio → Silence · III Página em Branco → Blank Page · IV Labirinto → Labyrinth · V Propósito Perdido → Lost Purpose · VI Solidão → Solitude
 
+## Itens lendários entregues
+Selo do Primeiro Juramento → Seal of the First Oath
+
 ## Atributos
 Vontade → Will · Verbo → Word · Visão → Sight · Presságio → Omen · Sinapse → Synapse · Forja → Forge · Voz dos Mortos → Voice of the Dead · Domínio → Mastery · Renome → Renown
 

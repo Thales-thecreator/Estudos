@@ -7,9 +7,9 @@
 | **Nome** | Thales, o Herege |
 | **Classe** | Erudito Amaldiçoado (Buscador da Verdade Primordial) |
 | **Nível** | 0 · *Herege Acorrentado* (Recruta) |
-| **XP** | 0 |
+| **XP** | 15 |
 | **Local** | Prólogo — acorrentado ao Trono das Lâminas Partidas |
-| **Correntes** | ⛓️⛓️⛓️⛓️⛓️⛓️ 6 / 6 |
+| **Correntes** | ⛓️⛓️⛓️⛓️⛓️ 5 / 6 |
 
 ## Títulos por nível
 
@@ -52,6 +52,7 @@ Fragmentos restaurados: **0 / 9** — um por chefão vencido.
 |---|---|---|
 | Manopla do Conhecimento Quebrado | Inicial | Evolui com o estudo |
 | Mapa de pele com nove círculos | Prólogo | Mostra o caminho, não o destino |
+| Selo do Primeiro Juramento | 🌱 Primeiro Commit (M0.1) | Marca que o Trono não consegue apagar |
 
 ## 🤝 Aliados
 

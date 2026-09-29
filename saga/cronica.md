@@ -10,6 +10,8 @@
 - A Cidadela de Aethelgard não vê estrelas há **300 anos**, desde a **Queda dos Arcontes**.
 - A humanidade vive entre obeliscos de metal retorcido e catedrais góticas que sangram uma **névoa perpétua**.
 - O poder está com as **Grandes Casas** (feudos) e o **Clero de Sangue**, que tentaram apagar a **Verdade Primordial** da história.
+- As correntes do Trono foram forjadas pelo Clero de Sangue com **páginas confiscadas**, fundidas até perderem as letras.
+- Juramentos gravados não se desfazem: podem ser corrigidos por outros, nunca apagados. Todo caminho pode se dividir num atalho paralelo e, provado seu valor, voltar a ser um só.
 - Algo "rasteja no vácuo entre as estrelas" e devora o tecido da realidade.
 - O mapa tem **nove círculos de conhecimento**, cada um governado por um **Suserano corrompido**. Cada vitória reconstrói uma fração da alma de Thales.
 - A criatura de obsidiana e gelo profetizou: Thales será **traído por quem jurar lealdade**; as histórias de deuses e demônios são **meias-verdades**.
@@ -18,12 +20,14 @@
 
 - Exilado, marcado pelo **selo do Herege** por buscar a Verdade Primordial; as Grandes Casas e o Clero o chamam de **Thales, o Herege**.
 - Acorrentado ao **Trono das Lâminas Partidas**, artefato simbiótico que sussurra com mil vozes mortas e exige **Foco**.
+- Carrega no pulso o **Selo do Primeiro Juramento**, marca de cobre que o Trono não consegue apagar.
 
 ## Linha do tempo
 
 | Data real | Evento | Onde |
 |---|---|---|
 | 2026-09-29 | Prólogo: Thales desperta no Trono. | [Capítulo 0](./capitulos/00-prologo.md) |
+| 2026-09-29 | M0.1: o primeiro juramento quebra a Corrente I · Ignorância. | [Cena 1](./cenas/0001-o-primeiro-juramento.md) |
 
 ## Escolhas feitas
 

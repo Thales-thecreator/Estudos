@@ -20,10 +20,10 @@
 <!-- sync:panel -->
 | Level | Total XP | Current phase | Streak | Bosses defeated |
 |:---:|:---:|:---:|:---:|:---:|
-| **0 · Recruit** | **0** / 150 | 🟢 Phase 0 — Tutorial | 🔥 0 weeks | 0 / 9 |
+| **0 · Recruit** | **15** / 150 | 🟢 Phase 0 — Tutorial | 🔥 0 weeks | 0 / 9 |
 
 ```
-XP  [░░░░░░░░░░░░░░░░░░░░]  0%   → next level: Apprentice (150 XP)
+XP  [██░░░░░░░░░░░░░░░░░░]  10%   → next level: Apprentice (150 XP)
 ```
 
 > Generated from [`progress.yml`](./progress.yml) by `scripts/sync.py`. Do not edit by hand.
@@ -185,7 +185,7 @@ A level goes up only when **both** conditions are met (min XP **and** that phase
 <!-- sync:achievements -->
 | | Achievement | How to unlock | Date |
 |:---:|---|---|:---:|
-| 🌱 | First Commit | Make the first commit in this repo | |
+| 🌱 | First Commit | Make the first commit in this repo | 2026-09-29 |
 | 📓 | First Notebook | Run and save a Colab notebook in the repo | |
 | 🔥 | On Fire | 4 weeks in a row meeting the goal | |
 | 🌋 | Unstoppable | 12 weeks in a row meeting the goal | |

@@ -7,9 +7,9 @@
 | **Name** | Thales the Heretic |
 | **Class** | Cursed Scholar (Seeker of the Primordial Truth) |
 | **Level** | 0 · *Chained Heretic* (Recruit) |
-| **XP** | 0 |
+| **XP** | 15 |
 | **Location** | Prologue — chained to the Throne of Broken Blades |
-| **Chains** | ⛓️⛓️⛓️⛓️⛓️⛓️ 6 / 6 |
+| **Chains** | ⛓️⛓️⛓️⛓️⛓️ 5 / 6 |
 
 ## Titles by level
 
@@ -52,6 +52,7 @@ Fragments restored: **0 / 9** — one per boss defeated.
 |---|---|---|
 | Gauntlet of Shattered Knowledge | Starting | Evolves with study |
 | Skin map of nine circles | Prologue | Shows the path, not the destination |
+| Seal of the First Oath | 🌱 First Commit (M0.1) | A mark the Throne cannot erase |
 
 ## 🤝 Allies
 

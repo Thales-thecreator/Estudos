@@ -15,7 +15,7 @@ Nesta fase o conteúdo é leve de propósito. O que importa é aparecer 3 vezes 
 
 Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no GitHub.
 
-- [ ] **M0.1 · Olá, GitHub** · ⛓️ *Corrente I · Ignorância* — 15 XP · 🏅 *Primeiro Commit*
+- [x] **M0.1 · Olá, GitHub** · ⛓️ *Corrente I · Ignorância* — 15 XP · 🏅 *Primeiro Commit*
   Siga o guia [Hello World do GitHub](https://docs.github.com/pt/get-started/start-your-journey/hello-world) (em PT) para entender repositório, branch, commit e pull request. Não precisa criar outro repo: basta entender os conceitos. Depois, **crie sua primeira nota pelo site**: abra a pasta [`notes/`](./notes/), clique em **Add file → Create new file**, dê o nome `01-git-e-github.md`, escreva e clique em **Commit changes**. Pronto: esse é o seu **primeiro commit**.
   **Evidência:** a nota `notes/01-git-e-github.md` explicando, com suas palavras, o que é *commit* e o que é *branch*.
 

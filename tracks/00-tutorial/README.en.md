@@ -15,7 +15,7 @@ Content is deliberately light in this phase. What matters is showing up 3 times 
 
 Tick `[x]` when done, log it in `LOG.md`, and close the matching GitHub issue.
 
-- [ ] **M0.1 · Hello, GitHub** · ⛓️ *Chain I · Ignorance* — 15 XP · 🏅 *First Commit*
+- [x] **M0.1 · Hello, GitHub** · ⛓️ *Chain I · Ignorance* — 15 XP · 🏅 *First Commit*
   Follow GitHub's [Hello World guide](https://docs.github.com/en/get-started/start-your-journey/hello-world) to understand repository, branch, commit and pull request. No need to create another repo — understanding the concepts is enough. Then **create your first note on the website**: open the [`notes/`](./notes/) folder, click **Add file → Create new file**, name it `01-git-e-github.md`, write it and click **Commit changes**. That's it: your **first commit**.
   **Evidence:** the note `notes/01-git-e-github.md` explaining, in your own words, what a *commit* and a *branch* are.
 
