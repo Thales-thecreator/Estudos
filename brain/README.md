@@ -20,12 +20,12 @@ Este repositório inteiro é um **vault do [Obsidian](https://obsidian.md/)**. A
 4. **Flashcards:** a seção *Pergunte-se* usa o formato `Pergunta::Resposta` e a tag `#flashcards`. O plugin **Spaced Repetition** agenda as revisões; uma revisão de ≥ 15 min conta como **sessão mínima** no [`LOG.md`](../LOG.md).
 5. Rascunhos pessoais vão em `privado/`, que **não** vai para o GitHub (e não tem backup — nada importante lá).
 
-## Configuração (missão M1.6b)
+## Configuração (missão M1.6d)
 
 1. Instale o Obsidian → *Open folder as vault* → escolha a pasta do repositório clonado.
 2. *Settings → Core plugins*: ative **Templates** (a pasta `templates/` já está configurada).
 3. *Settings → Community plugins*: instale e ative **Obsidian Git** e **Spaced Repetition**.
-4. No Obsidian Git, ative o *auto commit-and-sync* (ex.: a cada 10 min) — o e-mail `noreply` configurado na M1.6 é usado nos commits.
+4. No Obsidian Git, ative o *auto commit-and-sync* (ex.: a cada 10 min) — o e-mail `noreply` configurado na M1.6b é usado nos commits.
 
 ## Conquista
 

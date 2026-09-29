@@ -20,12 +20,12 @@ This whole repository is an **[Obsidian](https://obsidian.md/) vault**. This is 
 4. **Flashcards:** the *Ask yourself* section uses the `Question::Answer` format and the `#flashcards` tag. The **Spaced Repetition** plugin schedules reviews; a review of ≥ 15 min counts as a **minimum session** in [`LOG.md`](../LOG.md).
 5. Personal drafts go in `privado/`, which is **not** pushed to GitHub (and has no backup — nothing important there).
 
-## Setup (mission M1.6b)
+## Setup (mission M1.6d)
 
 1. Install Obsidian → *Open folder as vault* → pick the cloned repository folder.
 2. *Settings → Core plugins*: enable **Templates** (the `templates/` folder is already configured).
 3. *Settings → Community plugins*: install and enable **Obsidian Git** and **Spaced Repetition**.
-4. In Obsidian Git, enable *auto commit-and-sync* (e.g. every 10 min) — commits use the `noreply` email set in M1.6.
+4. In Obsidian Git, enable *auto commit-and-sync* (e.g. every 10 min) — commits use the `noreply` email set in M1.6b.
 
 ## Achievement
 

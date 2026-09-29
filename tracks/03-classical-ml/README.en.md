@@ -2,7 +2,7 @@
 
 [🇧🇷 Português](./README.md) · 🇺🇸 **English**
 
-> **Duration:** 10 weeks · **Phase XP:** 800 · **Boss:** The Kaggler
+> **Duration:** 12 weeks (2 of [Bridge](../../ROADMAP.en.md#fase-3) + 10 of ML) · **Phase XP:** 800 · **Boss:** The Kaggler
 > **Status:** 🔒 unlocks when the [Phase 2](../02-data-math/README.en.md) boss is defeated.
 
 Topics, resources and boss for this phase are in the [ROADMAP](../../ROADMAP.en.md#fase-3).

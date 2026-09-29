@@ -17,6 +17,8 @@
   <a href="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml"><img src="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml/badge.svg" alt="QA"></a>
 </p>
 
+**Aprendendo ML, MLOps e AI Engineering em público.** Cada fase termina num projeto entregue: repositório próprio, testes, métricas reais e demo pública. Os [projetos](#-projetos-em-destaque) vêm primeiro; o RPG de fantasia sombria que me mantém estudando fica [mais abaixo](#-a-saga).
+
 <!-- quest:start -->
 > - ⚔️ **Missão atual:** o jogo ainda não começou — a primeira corrente espera.
 > - 📜 **Último da saga:** [Prólogo: As Cinzas de Aethelgard](./saga/capitulos/00-prologo.md)
@@ -30,6 +32,14 @@ _Sou Thales Gomes e estou aprendendo em público para me tornar AI Engineer._
 - 🎯 **Objetivo:** conseguir minha primeira vaga como ML / AI Engineer
 - 🌱 **Estudando agora:** Git, GitHub e hábito de estudo (Fase 0)
 - 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/)
+
+## 🏆 Projetos em destaque
+
+Cada fase termina com um **chefão**: um projeto prático publicado em repositório próprio, com testes, métricas reais e demo pública.
+
+| Projeto | Fase | Stack | Demo |
+|---|:---:|---|:---:|
+| _Em breve — o primeiro chefão é na Fase 1_ | | | |
 
 ## 📜 A Saga
 
@@ -55,7 +65,7 @@ Este roadmap é jogado como um **RPG narrativo grimdark**. Cada missão de estud
 | 0 | [Tutorial](./tracks/00-tutorial/) — Git, Colab, hábito | 2 | 🟢 Em andamento | O Guardião do Hábito |
 | 1 | [Python](./tracks/01-python/) | 10 | 🔒 | O Construtor de Ferramentas |
 | 2 | [Dados & Matemática](./tracks/02-data-math/) — pandas, SQL, estatística, álgebra linear | 10 | 🔒 | O Oráculo dos Dados |
-| 3 | [ML Clássico](./tracks/03-classical-ml/) — scikit-learn, Kaggle | 10 | 🔒 | O Kaggler |
+| 3 | [ML Clássico](./tracks/03-classical-ml/) — ponte de ferramentas, scikit-learn | 12 | 🔒 | O Kaggler |
 | 4 | [Deep Learning](./tracks/04-deep-learning/) — PyTorch, fast.ai | 10 | 🔒 | O Olho da Máquina |
 | 5 | [MLOps](./tracks/05-mlops/) — Docker, FastAPI, MLflow, CI/CD | 12 | 🔒 | O Engenheiro de Produção |
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/) — RAG, agentes, evals | 12 | 🔒 | O Arquiteto de RAG |
@@ -64,14 +74,6 @@ Este roadmap é jogado como um **RPG narrativo grimdark**. Cada missão de estud
 <!-- /sync:phases -->
 
 O jogo completo — missões, XP, níveis, conquistas e todos os materiais gratuitos — está no **[ROADMAP.md](./ROADMAP.md)**.
-
-## 🏆 Projetos em destaque
-
-Cada fase termina com um **chefão**: um projeto prático publicado em repositório próprio.
-
-| Projeto | Fase | Stack | Demo |
-|---|:---:|---|:---:|
-| _Em breve — o primeiro chefão é na Fase 1_ | | | |
 
 ## 🧰 Stack que estou aprendendo
 

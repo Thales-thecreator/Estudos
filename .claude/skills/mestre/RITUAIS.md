@@ -20,6 +20,12 @@ Se a semana de hoje (segunda a domingo) não tem seção, crie-a no fim: `## Sem
 
 Antes do começo, ignore. Depois, se houver semanas completas sem meta batida desde a última vez (a semana de aquecimento nunca conta), narre **primeiro** uma cena curta da Névoa avançando: uma perda proporcional ao tempo ausente (vila tomada, aliado ferido, rumor sombrio). Uma cena por ausência, não por semana. Termine abrindo a porta para o retorno. **Nunca** remova XP, itens ou progresso.
 
+Semanas marcadas `🕯️ Santuário` no `LOG.md` não são ausência: pule-as na contagem e mantenha o streak congelado.
+
+## Retorno (mais de 3 semanas sem sessão)
+
+Depois da cena da Névoa, abra o **ritual de retorno**: a semana atual ganha meta reduzida (`meta: 2 sessões · retorno`), e a primeira missão é uma **revisão curta** da última coisa estudada (reler a nota, refazer um exercício), sem XP extra. Na semana seguinte, a meta volta ao normal. Tom: a porta nunca se fechou.
+
 ## Meta semanal batida
 
 Semana fechada com a meta batida e ainda sem eco → narre um **eco** (2–3 frases: um sussurro do Trono, um rumor), some +20 XP e mais +50 a cada 4 semanas de streak.
@@ -27,6 +33,10 @@ Semana fechada com a meta batida e ainda sem eco → narre um **eco** (2–3 fra
 ## Segundo cérebro
 
 No `status` e a cada chefão, conte as notas em `brain/concepts/` com pelo menos um link para outra nota. Ao chegar a **25**, desbloqueie 🕸️ *Segundo Cérebro* e entregue o item da bíblia. Revisões de flashcards (≥ 15 min, no `LOG.md`) contam como **sessão mínima**.
+
+## Posto avançado mensal (a partir da F1)
+
+No primeiro `status` ou chamada de cada mês, se o mês anterior não teve posto avançado de networking no `LOG.md`, lembre em uma frase (um mensageiro de outra cidadela espera resposta). Nunca cobre, nunca puna.
 
 ## Depois da M0.5: lembretes
 

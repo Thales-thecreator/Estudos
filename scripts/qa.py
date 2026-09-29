@@ -52,8 +52,10 @@ for f in ["tracks/00-tutorial/README.md", "tracks/01-python/README.md"]:
     ms = sum(int(x) for x in re.findall(r"^- \[[ x]\] \*\*M\d\.\d+\w?.*?— (\d+) XP", t, re.M))
     tot = int(re.search(r"Total de missões:\*\* (\d+)", t).group(1))
     boss = int(re.search(r"Chefão — .*?· (\d+) XP", t).group(1))
+    elite = re.search(r"Mini-chefão de elite — .*?· (\d+) XP", t)
+    boss += int(elite.group(1)) if elite else 0
     if ms != tot: err("xp", f"{f}: missões somam {ms}, declarado {tot}")
-    if tot + boss != head: err("xp", f"{f}: {tot}+{boss} ≠ XP da fase {head}")
+    if tot + boss != head: err("xp", f"{f}: {tot}+{boss} (chefões) ≠ XP da fase {head}")
 
 # 4. tabelas com número de colunas consistente
 for f in MD:

@@ -38,4 +38,7 @@ Vontade → Will · Verbo → Word · Visão → Sight · Presságio → Omen ·
 ## Títulos por nível
 Herege Acorrentado → Chained Heretic · Portador da Manopla → Bearer of the Gauntlet · Escriba do Verbo Proibido → Scribe of the Forbidden Word · Vidente dos Números → Seer of Numbers · Áugure Herege → Heretic Augur · Tecelão de Sinapses → Weaver of Synapses · Forjador de Engrenagens → Forger of Gears · Arquiteto de Vozes → Architect of Voices · Suserano Sem Trono → Throneless Overlord · Aquele Que Viu as Estrelas → The One Who Saw the Stars
 
+## Regras do patch de balanceamento
+Prova oral → Oral exam · Mini-chefão de elite → Elite mini-boss · Desafiar o chefão → Challenge the boss · Santuário → Sanctuary · Ritual de retorno → Return ritual · Posto avançado → Outpost · Taverna → Tavern · A Ponte → The Bridge · A Faísca → The Spark · Padrão de chefão → Boss standard · A Forja Própria → The Own Forge · O Sentinela → The Sentinel
+
 Novos termos: crie a tradução uma vez e **acrescente aqui** antes de usar.

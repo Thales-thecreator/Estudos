@@ -17,6 +17,8 @@
   <a href="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml"><img src="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml/badge.svg" alt="QA"></a>
 </p>
 
+**Learning ML, MLOps and AI Engineering in public.** Every phase ends in a shipped project: its own repository, tests, real metrics and a public demo. The [projects](#-featured-projects) come first; the dark-fantasy RPG that keeps me studying is [further down](#-the-saga).
+
 <!-- quest:start -->
 > - ⚔️ **Current quest:** the game has not started yet — the first chain awaits.
 > - 📜 **Latest from the saga:** [Prologue: The Ashes of Aethelgard](./saga/capitulos/00-prologo.en.md)
@@ -30,6 +32,14 @@ _I'm Thales Gomes, learning in public to become an AI Engineer._
 - 🎯 **Goal:** land my first ML / AI Engineer role
 - 🌱 **Currently learning:** Git, GitHub and study habits (Phase 0)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/)
+
+## 🏆 Featured projects
+
+Each phase ends with a **boss fight**: a hands-on project published as its own repository, with tests, real metrics and a public demo.
+
+| Project | Phase | Stack | Demo |
+|---|:---:|---|:---:|
+| _Coming soon — first boss unlocks in Phase 1_ | | | |
 
 ## 📜 The Saga
 
@@ -55,7 +65,7 @@ This roadmap is played as a **grimdark narrative RPG**. Every real study mission
 | 0 | [Tutorial](./tracks/00-tutorial/README.en.md) — Git, Colab, habit | 2 | 🟢 In progress | The Habit Guardian |
 | 1 | [Python](./tracks/01-python/README.en.md) | 10 | 🔒 | The Toolmaker |
 | 2 | [Data & Math](./tracks/02-data-math/README.en.md) — pandas, SQL, stats, linear algebra | 10 | 🔒 | The Data Oracle |
-| 3 | [Classical ML](./tracks/03-classical-ml/README.en.md) — scikit-learn, Kaggle | 10 | 🔒 | The Kaggler |
+| 3 | [Classical ML](./tracks/03-classical-ml/README.en.md) — dev tooling bridge, scikit-learn | 12 | 🔒 | The Kaggler |
 | 4 | [Deep Learning](./tracks/04-deep-learning/README.en.md) — PyTorch, fast.ai | 10 | 🔒 | The Machine's Eye |
 | 5 | [MLOps](./tracks/05-mlops/README.en.md) — Docker, FastAPI, MLflow, CI/CD | 12 | 🔒 | The Production Engineer |
 | 6 | [LLMs & AI Engineering](./tracks/06-llms-ai-eng/README.en.md) — RAG, agents, evals | 12 | 🔒 | The RAG Architect |
@@ -64,14 +74,6 @@ This roadmap is played as a **grimdark narrative RPG**. Every real study mission
 <!-- /sync:phases -->
 
 The full game — missions, XP, levels, achievements and every free resource — lives in **[ROADMAP.en.md](./ROADMAP.en.md)** ([Portuguese version](./ROADMAP.md)).
-
-## 🏆 Featured projects
-
-Each phase ends with a **boss fight**: a hands-on project published as its own repository.
-
-| Project | Phase | Stack | Demo |
-|---|:---:|---|:---:|
-| _Coming soon — first boss unlocks in Phase 1_ | | | |
 
 ## 🧰 Stack I'm learning
 
