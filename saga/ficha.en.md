@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Name** | Thales |
+| **Name** | Thales the Heretic |
 | **Class** | Cursed Scholar (Seeker of the Primordial Truth) |
 | **Level** | 0 · *Chained Heretic* (Recruit) |
 | **XP** | 0 |

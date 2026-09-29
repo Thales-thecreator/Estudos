@@ -16,7 +16,7 @@
 
 ## Thales
 
-- An exile, branded with the **seal of the Heretic** for seeking the Primordial Truth.
+- An exile, branded with the **seal of the Heretic** for seeking the Primordial Truth; the Great Houses and the Clergy call him **Thales the Heretic**.
 - Chained to the **Throne of Broken Blades**, a symbiotic artifact that whispers with a thousand dead voices and demands **Focus**.
 
 ## Timeline

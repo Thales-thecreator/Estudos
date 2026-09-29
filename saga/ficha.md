@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Nome** | Thales |
+| **Nome** | Thales, o Herege |
 | **Classe** | Erudito Amaldiçoado (Buscador da Verdade Primordial) |
 | **Nível** | 0 · *Herege Acorrentado* (Recruta) |
 | **XP** | 0 |

@@ -16,7 +16,7 @@
 
 ## Thales
 
-- Exilado, marcado pelo **selo do Herege** por buscar a Verdade Primordial.
+- Exilado, marcado pelo **selo do Herege** por buscar a Verdade Primordial; as Grandes Casas e o Clero o chamam de **Thales, o Herege**.
 - Acorrentado ao **Trono das Lâminas Partidas**, artefato simbiótico que sussurra com mil vozes mortas e exige **Foco**.
 
 ## Linha do tempo

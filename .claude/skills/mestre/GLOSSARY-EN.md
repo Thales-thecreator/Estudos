@@ -12,6 +12,7 @@ Use sempre estas traduções. Nomes próprios (Aethelgard, Thales e nomes de per
 | a Névoa | the Mist |
 | Verdade Primordial | Primordial Truth |
 | Herege · selo do Herege | Heretic · seal of the Heretic |
+| Thales, o Herege | Thales the Heretic |
 | Erudito Amaldiçoado | Cursed Scholar |
 | Manopla do Conhecimento Quebrado | Gauntlet of Shattered Knowledge |
 | Círculo · Suserano · Corrente | Circle · Overlord · Chain |
