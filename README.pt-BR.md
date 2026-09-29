@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/n%C3%ADvel-0%20·%20Recruta-6e7681?style=for-the-badge" alt="Nível">
-  <img src="https://img.shields.io/badge/XP-15%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
+  <img src="https://img.shields.io/badge/XP-30%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
   <img src="https://img.shields.io/badge/fase-0%20·%20Tutorial-1f6feb?style=for-the-badge" alt="Fase">
   <img src="https://img.shields.io/badge/streak-0%20semanas-f0883e?style=for-the-badge" alt="Streak">
   <a href="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml"><img src="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml/badge.svg" alt="QA"></a>
@@ -21,9 +21,9 @@
 **Aprendendo ML, MLOps e AI Engineering em público.** Cada fase termina num projeto entregue: repositório próprio, testes, métricas reais e demo pública. Os [projetos](#-projetos-em-destaque) vêm primeiro; o RPG de fantasia sombria que me mantém estudando fica [mais abaixo](#-a-saga).
 
 <!-- quest:start -->
-> - ⚔️ **Missão atual:** M0.2 · Diário de bordo — Corrente II · Silêncio
-> - 📜 **Último da saga:** [O Primeiro Juramento](./saga/cenas/0001-o-primeiro-juramento.md)
-> - 🔥 **Streak:** 0 semanas · **Próximo nível:** Aprendiz (faltam 135 XP)
+> - ⚔️ **Missão atual:** M0.3 · Primeiro notebook — Corrente III · Página em Branco
+> - 📜 **Último da saga:** [A Voz no Ferro](./saga/cenas/0002-a-voz-no-ferro.md)
+> - 🔥 **Streak:** 0 semanas · **Próximo nível:** Aprendiz (faltam 120 XP)
 <!-- quest:end -->
 
 ## 👋 Sobre mim

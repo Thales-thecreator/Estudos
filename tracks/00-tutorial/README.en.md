@@ -19,7 +19,7 @@ Tick `[x]` when done, log it in `LOG.md`, and close the matching GitHub issue.
   Follow GitHub's [Hello World guide](https://docs.github.com/en/get-started/start-your-journey/hello-world) to understand repository, branch, commit and pull request. No need to create another repo — understanding the concepts is enough. Then **create your first note on the website**: open the [`notes/`](./notes/) folder, click **Add file → Create new file**, name it `01-git-e-github.md`, write it and click **Commit changes**. That's it: your **first commit**.
   **Evidence:** the note `notes/01-git-e-github.md` explaining, in your own words, what a *commit* and a *branch* are.
 
-- [ ] **M0.2 · Logbook** · ⛓️ *Chain II · Silence* — 15 XP
+- [x] **M0.2 · Logbook** · ⛓️ *Chain II · Silence* — 15 XP
   Now **edit** a file that already exists: open [`LOG.md`](../../LOG.md), click the ✏️ pencil and log your session in the week's table (date, minutes, what you did, mission). Commit it. From now on, every study session ends this way.
   **Evidence:** the session row in `LOG.md`.
 

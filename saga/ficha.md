@@ -7,9 +7,9 @@
 | **Nome** | Thales, o Herege |
 | **Classe** | Erudito Amaldiçoado (Buscador da Verdade Primordial) |
 | **Nível** | 0 · *Herege Acorrentado* (Recruta) |
-| **XP** | 15 |
+| **XP** | 30 |
 | **Local** | Prólogo — acorrentado ao Trono das Lâminas Partidas |
-| **Correntes** | ⛓️⛓️⛓️⛓️⛓️ 5 / 6 |
+| **Correntes** | ⛓️⛓️⛓️⛓️ 4 / 6 |
 
 ## Títulos por nível
 
