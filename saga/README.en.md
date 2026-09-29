@@ -24,6 +24,8 @@ The player plays in Portuguese; every chapter and scene is also published in Eng
 | `/mestre side quest <what you did>` | Roadmap side quest (taken on your word) |
 | `/mestre decisão <choice>` | Answers the end-of-chapter dilemma |
 
+Every command, with examples and rules (challenge the boss, sanctuary, outposts, `/teach`…): **[COMANDOS.en.md](../COMANDOS.en.md)** · or `/mestre ajuda`.
+
 ## Rhythm
 
 | Real-world event | In the story |

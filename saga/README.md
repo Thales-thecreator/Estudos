@@ -22,6 +22,8 @@ O [roadmap](../ROADMAP.md) deste repositório é jogado como um **RPG narrativo 
 | `/mestre side quest <o que fez>` | Side quest do roadmap (vale pela palavra) |
 | `/mestre decisão <escolha>` | Responde ao dilema do fim do capítulo |
 
+Todos os comandos, com exemplos e regras (desafiar o chefão, santuário, postos avançados, `/teach`…): **[COMANDOS.md](../COMANDOS.md)** · ou `/mestre ajuda`.
+
 ## Ritmo
 
 | Evento real | Na história |

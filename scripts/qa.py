@@ -57,6 +57,13 @@ for f in ["tracks/00-tutorial/README.md", "tracks/01-python/README.md"]:
     if ms != tot: err("xp", f"{f}: missões somam {ms}, declarado {tot}")
     if tot + boss != head: err("xp", f"{f}: {tot}+{boss} (chefões) ≠ XP da fase {head}")
 
+# 3b. todo comando do /mestre (argument-hint) aparece na página de comandos
+hint = re.search(r'argument-hint: "(.*)"', open(".claude/skills/mestre/SKILL.md").read()).group(1)
+for part in hint.split("|"):
+    cmd = re.sub(r"\s+(<.*|M\d\.\d+\w?)$", "", part.strip())
+    for f in ["COMANDOS.md", "COMANDOS.en.md"]:
+        if f"/mestre {cmd}" not in open(f).read(): err("comandos", f"{f} não documenta `/mestre {cmd}`")
+
 # 4. tabelas com número de colunas consistente
 for f in MD:
     lines = open(f).read().split("\n"); code = False

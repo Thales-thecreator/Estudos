@@ -6,6 +6,7 @@
   <a href="./README.pt-BR.md">🇧🇷 Leia em português</a> ·
   <a href="./ROADMAP.en.md">🗺️ Roadmap</a> ·
   <a href="./saga/README.en.md">📜 The Saga</a> ·
+  <a href="./COMANDOS.en.md">⌨️ Commands</a> ·
   <a href="./LOG.md">📅 Study log</a>
 </p>
 
@@ -97,6 +98,7 @@ The full game — missions, XP, levels, achievements and every free resource —
 ├── progress.yml        # game state — single source of truth (synced by scripts/sync.py)
 ├── ROADMAP.md          # the game: phases, missions, XP, levels, achievements
 │                       #   (every public doc has a *.en.md twin)
+├── COMANDOS.md         # every command: the Master, study skills, Obsidian, scripts
 ├── LOG.md              # one line per study session → weekly goal & streak
 ├── CONTEXT.md          # glossary of the game's vocabulary
 ├── tracks/             # one folder per phase
@@ -114,7 +116,7 @@ The full game — missions, XP, levels, achievements and every free resource —
 └── docs/adr/           # decisions about how this repo is organized
 ```
 
-**Study loop:** pick the next mission → study the free resource → write a note → solve the exercises → log the session → earn XP. Stuck? Generate a short interactive lesson with `/teach`, or ask a community.
+**Study loop:** pick the next mission → study the free resource → write a note → solve the exercises → log the session → earn XP. Stuck? Generate a short interactive lesson with `/teach`, or ask a community. Every command is in [COMANDOS.en.md](./COMANDOS.en.md).
 
 **Rules of the game:** a weekly goal (3–4 sessions of 30+ min) instead of a fragile daily streak, XP only with evidence in the repo, and a mandatory boss project to unlock each phase. Details in [ROADMAP.en.md](./ROADMAP.en.md#regras).
 

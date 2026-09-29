@@ -6,6 +6,7 @@
   <a href="./README.md">🇺🇸 Read in English</a> ·
   <a href="./ROADMAP.md">🗺️ Roadmap</a> ·
   <a href="./saga/README.md">📜 A Saga</a> ·
+  <a href="./COMANDOS.md">⌨️ Comandos</a> ·
   <a href="./LOG.md">📅 Diário de estudos</a>
 </p>
 
@@ -97,6 +98,7 @@ O jogo completo — missões, XP, níveis, conquistas e todos os materiais gratu
 ├── progress.yml        # estado do jogo — fonte única de verdade (sincronizado por scripts/sync.py)
 ├── ROADMAP.md          # o jogo: fases, missões, XP, níveis, conquistas
 │                       #   (todo doc público tem um gêmeo *.en.md)
+├── COMANDOS.md         # todos os comandos: Mestre, skills de estudo, Obsidian, scripts
 ├── LOG.md              # uma linha por sessão → meta semanal e streak
 ├── CONTEXT.md          # glossário do vocabulário do jogo
 ├── tracks/             # uma pasta por fase
@@ -114,7 +116,7 @@ O jogo completo — missões, XP, níveis, conquistas e todos os materiais gratu
 └── docs/adr/           # decisões sobre a organização do repositório
 ```
 
-**Ciclo de estudo:** escolher a próxima missão → estudar o material gratuito → escrever a nota → resolver os exercícios → registrar a sessão → ganhar XP. Travou? Gere uma aula curta e interativa com `/teach`, ou pergunte numa comunidade.
+**Ciclo de estudo:** escolher a próxima missão → estudar o material gratuito → escrever a nota → resolver os exercícios → registrar a sessão → ganhar XP. Travou? Gere uma aula curta e interativa com `/teach`, ou pergunte numa comunidade. Todos os comandos estão em [COMANDOS.md](./COMANDOS.md).
 
 **Regras do jogo:** meta semanal (3–4 sessões de 30+ min) em vez de streak diário, XP só com evidência no repositório, e um chefão obrigatório para desbloquear cada fase. Detalhes no [ROADMAP.md](./ROADMAP.md#regras).
 

@@ -65,6 +65,8 @@ if __name__ == "__main__":
     for name, title, sub in [("roadmap-pt", "O ROADMAP", "Do zero a AI Engineer em nove círculos"),
                              ("roadmap-en", "THE ROADMAP", "From zero to AI Engineer in nine circles"),
                              ("saga-pt", "A SAGA", "As Cinzas de Aethelgard"),
-                             ("saga-en", "THE SAGA", "The Ashes of Aethelgard")]:
+                             ("saga-en", "THE SAGA", "The Ashes of Aethelgard"),
+                             ("comandos-pt", "OS COMANDOS", "Palavras que o Trono obedece"),
+                             ("comandos-en", "THE COMMANDS", "Words the Throne obeys")]:
         asyncio.run(render(strip(land, title, sub), 1280, 200, f"{outdir}/strip-{name}.jpg", 2))
     print("ok")

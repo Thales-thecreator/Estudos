@@ -6,6 +6,7 @@ Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engine
 
 - `progress.yml`: **fonte única de verdade do progresso** (XP, nível, fase, streak, missão atual, última cena, conquistas). Nunca edite badges, painéis, ficha (nível/XP) ou cores do mapa à mão: edite o `progress.yml` e rode `python scripts/sync.py`. O CI (`.github/workflows/qa.yml`) roda `sync.py --check` e `scripts/qa.py` a cada push.
 - `ROADMAP.md`: fases, missões, XP, níveis, conquistas. Fonte da verdade das **regras**.
+- `COMANDOS.md`: página de todos os comandos (Mestre, skills de estudo, Obsidian, scripts). Comando novo no `/mestre` → atualize o `argument-hint` e esta página (PT e EN); o `qa.py` confere.
 - `LOG.md`: uma linha por sessão; dele saem a meta semanal e o streak.
 - `CONTEXT.md`: vocabulário do jogo (fase, missão, chefão, sessão, streak...). Use esses termos.
 - `tracks/NN-nome/`: missões da fase (`README.md`), `notes/` e `exercises/`.

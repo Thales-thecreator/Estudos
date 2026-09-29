@@ -4,7 +4,7 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./ROADMAP.en.md)
 
-> ⛓️ Este roadmap é jogado como um RPG narrativo: veja a [saga](./saga/). Use `/mestre` para relatar missões.
+> ⛓️ Este roadmap é jogado como um RPG narrativo: veja a [saga](./saga/). Use `/mestre` para relatar missões; todos os comandos estão em [COMANDOS.md](./COMANDOS.md).
 
 > Um jogo de ~18 meses (≈76 semanas, 8–10 h/semana) para sair do zero em programação até a primeira vaga como **ML / MLOps / AI Engineer**.
 > Regras completas em [Como o jogo funciona](#regras). Vocabulário em [`CONTEXT.md`](./CONTEXT.md).
