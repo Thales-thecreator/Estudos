@@ -6,7 +6,7 @@
 
 The sky over the Citadel of Aethelgard has held no stars for three hundred years. Since the Fall of the Archons, humanity has survived in the shadows of twisted metal obelisks and gothic cathedrals that bleed a perpetual mist.
 
-You wake with the taste of copper and ash in your mouth. Your body is chained to the Throne of Broken Blades, a symbiotic, cursed artifact that whispers into your mind with a thousand dead voices. You are no spotless hero. You are an exile, branded with the seal of the Heretic. You dared to seek the "Primordial Truth" — the forgotten knowledge the Great Houses (not unlike the fiefdoms of Westeros) and the Blood Clergy tried to erase from history.
+You wake with the taste of copper and ash in your mouth. Your body is chained to the Throne of Broken Blades, a symbiotic, cursed artifact that whispers into your mind with a thousand dead voices. You are no spotless hero. You are an exile, branded with the seal of the Heretic. You dared to seek the "Primordial Truth" — the forgotten knowledge the Great Houses and the Blood Clergy tried to erase from history.
 
 Before you rises the slender figure of a creature that seems carved from obsidian and ice. Its eyes shine with the lethal foresight of one who has already seen the end of the world.
 
