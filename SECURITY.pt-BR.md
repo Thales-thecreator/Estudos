@@ -25,7 +25,7 @@ Chaves ficam num arquivo `.env` (já ignorado pelo `.gitignore`) ou em **GitHub 
 
 - `git diff --staged` — leia o que está prestes a ficar público.
 - **Notebooks do Colab/Jupyter:** limpe saídas que imprimam chaves ou dados pessoais (*Editar → Limpar todas as saídas*); nunca cole uma chave numa célula — use os *Secrets* do Colab (ícone 🔑).
-- **Prints:** recorte só o que importa.
+- **Prints e fotos:** recorte só o que importa. Fotos de celular podem levar a sua **localização GPS** nos metadados EXIF — rode `python scripts/clean_images.py` antes de commitar (o CI bloqueia imagens com metadados).
 
 ## Se um segredo vazar
 
@@ -35,4 +35,4 @@ Chaves ficam num arquivo `.env` (já ignorado pelo `.gitignore`) ou em **GitHub 
 
 ## Reportar
 
-Achou algo sensível neste repositório? Abra uma issue **sem** colar o conteúdo sensível, ou fale comigo pelo LinkedIn (veja o README).
+Achou algo sensível neste repositório? Reporte **em privado** pela aba **Security** → **Report a vulnerability** (canal privado de vulnerabilidades). Por favor, não abra uma issue pública.

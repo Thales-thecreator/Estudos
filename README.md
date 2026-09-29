@@ -108,7 +108,7 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 ├── classroom/          # interactive lessons generated with Claude's /teach skill
 ├── templates/          # note & project README templates
 ├── assets/             # banner, map of the nine circles, saga art
-├── scripts/            # sync.py · qa.py (CI) · visual generators
+├── scripts/            # sync.py · qa.py (CI) · clean_images.py · visual generators
 └── docs/adr/           # decisions about how this repo is organized
 ```
 

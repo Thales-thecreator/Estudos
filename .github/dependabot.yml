@@ -1,0 +1,9 @@
+# Mantém as GitHub Actions (presas por hash) atualizadas com PRs automáticos.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    commit-message:
+      prefix: "ci"

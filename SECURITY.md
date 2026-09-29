@@ -25,7 +25,7 @@ Keys go in a `.env` file (already ignored by `.gitignore`) or in **GitHub → Se
 
 - `git diff --staged` — read what is about to go public.
 - **Colab/Jupyter notebooks:** clear outputs that print keys or personal data (*Edit → Clear all outputs*); never paste a key into a cell — use Colab *Secrets* (🔑 icon) instead.
-- **Screenshots:** crop to what matters.
+- **Screenshots and photos:** crop to what matters. Phone photos can carry your **GPS location** in EXIF metadata — run `python scripts/clean_images.py` before committing (CI blocks images with metadata).
 
 ## If a secret leaks
 
@@ -35,4 +35,4 @@ Keys go in a `.env` file (already ignored by `.gitignore`) or in **GitHub → Se
 
 ## Reporting
 
-Found something sensitive in this repo? Please open an issue **without** pasting the sensitive content, or contact me via LinkedIn (see the README).
+Found something sensitive in this repo? Please report it **privately** via the **Security** tab → **Report a vulnerability** (private vulnerability reporting). Please don't open a public issue.

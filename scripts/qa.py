@@ -1,7 +1,7 @@
 """QA do repositório: roda no CI a cada push (ver .github/workflows/qa.yml).
 
 Verifica links e âncoras internas, pares PT/EN, contas de XP das fases detalhadas,
-tabelas, JSON do Obsidian, .gitignore, segredos/dados pessoais e e-mails dos commits.
+tabelas, JSON do Obsidian, .gitignore, segredos/dados pessoais, metadados de imagens e e-mails dos commits.
 Sai com código 1 se encontrar erro.
 """
 import re, glob, os, json, subprocess, sys
@@ -82,7 +82,11 @@ pat = r"(sk-[A-Za-z0-9_-]{20,}|ghp_[A-Za-z0-9]{20,}|AKIA[0-9A-Z]{16}|AIza[0-9A-Z
 out = subprocess.run(["git", "grep", "-nIE", pat, "--", ".", ":!.claude/skills"], capture_output=True, text=True).stdout
 if out.strip(): err("segredo", out.strip())
 
-# 8. e-mails dos commits (privacidade)
+# 8. metadados de imagens (GPS, câmera)
+r = subprocess.run([sys.executable, "scripts/clean_images.py", "--check"], capture_output=True, text=True)
+if r.returncode != 0: err("metadados", (r.stderr or r.stdout).strip())
+
+# 9. e-mails dos commits (privacidade)
 for mail in set(subprocess.run(["git", "log", "--format=%ae"], capture_output=True, text=True).stdout.split()):
     if not mail.endswith(("noreply.github.com", "noreply@anthropic.com", "noreply@github.com")):
         err("privacidade", f"commit com e-mail público: {mail}")

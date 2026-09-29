@@ -108,7 +108,7 @@ Cada fase termina com um **chefão**: um projeto prático publicado em repositó
 ├── classroom/          # aulas interativas geradas com a skill /teach do Claude
 ├── templates/          # modelos de nota e de README de projeto
 ├── assets/             # banner, mapa dos nove círculos, arte da saga
-├── scripts/            # sync.py · qa.py (CI) · geradores de visuais
+├── scripts/            # sync.py · qa.py (CI) · clean_images.py · geradores de visuais
 └── docs/adr/           # decisões sobre a organização do repositório
 ```
 

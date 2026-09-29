@@ -27,6 +27,7 @@ Depois rode **`python scripts/sync.py`**: ele atualiza badges, caixa de missão,
 
 ## 4. Verificar e publicar
 
-1. `python scripts/qa.py` e `python scripts/sync.py --check` precisam passar (o CI roda os mesmos).
-2. `git pull --rebase origin main` (o Obsidian Git também faz commits).
-3. Commit e push **direto na `main`** (autorização permanente em `.claude/CLAUDE.md`), com mensagem neutra e sem spoilers (ex.: `Saga: M0.1 concluída, Corrente I`).
+1. Se houver imagem nova (print, foto, arte), rode `python scripts/clean_images.py` para tirar GPS e dados de câmera.
+2. `python scripts/qa.py` e `python scripts/sync.py --check` precisam passar (o CI roda os mesmos).
+3. `git pull --rebase origin main` (o Obsidian Git também faz commits).
+4. Commit e push **direto na `main`** (autorização permanente em `.claude/CLAUDE.md`), com mensagem neutra e sem spoilers (ex.: `Saga: M0.1 concluída, Corrente I`).
