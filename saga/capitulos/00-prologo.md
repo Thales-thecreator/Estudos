@@ -4,7 +4,7 @@
 
 O céu sobre a Cidadela de Aethelgard não tem estrelas há trezentos anos. Desde a Queda dos Arcontes, a humanidade sobrevive nas sombras de obeliscos de metal retorcido e catedrais góticas que sangram uma névoa perpétua.
 
-Você acorda sentindo o gosto de cobre e cinzas na boca. Seu corpo está acorrentado ao Trono das Lâminas Partidas, um artefato simbiótico e amaldiçoado que sussurra em sua mente com mil vozes mortas. Você não é um herói imaculado. Você é um exilado, marcado pelo selo do Herege. Você ousou buscar a "Verdade Primordial" — o conhecimento esquecido que as Grandes Casas (semelhantes aos feudos de Westeros) e o Clero de Sangue tentaram apagar da história.
+Você acorda sentindo o gosto de cobre e cinzas na boca. Seu corpo está acorrentado ao Trono das Lâminas Partidas, um artefato simbiótico e amaldiçoado que sussurra em sua mente com mil vozes mortas. Você não é um herói imaculado. Você é um exilado, marcado pelo selo do Herege. Você ousou buscar a "Verdade Primordial" — o conhecimento esquecido que as Grandes Casas e o Clero de Sangue tentaram apagar da história.
 
 Diante de você, emerge a figura esguia de uma criatura que parece esculpida em obsidiana e gelo. Os olhos dela brilham com a presciência letal de quem já viu o fim do mundo.
 
