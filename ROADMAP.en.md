@@ -7,7 +7,11 @@
 > A ~18-month game (≈74 weeks, 8–10 h/week) to go from zero programming to a first job as an **ML / MLOps / AI Engineer**.
 > Full rules in [How the game works](#regras).
 
+> **Contents:** [Dashboard](#painel) · [Map](#mapa) · [Rules](#regras) · [Levels](#niveis) · [Achievements](#conquistas) · [P0](#fase-0) · [P1](#fase-1) · [P2](#fase-2) · [P3](#fase-3) · [P4](#fase-4) · [P5](#fase-5) · [P6](#fase-6) · [P7](#fase-7) · [P8](#fase-8) · [Side quests](#side-quests) · [Communities](#comunidades)
+
 ---
+
+<a id="painel"></a>
 
 ## 🎮 Player dashboard
 
@@ -22,6 +26,8 @@ XP  [░░░░░░░░░░░░░░░░░░░░]  0%   → nex
 > Updated by hand (in both languages) until Phase 5, when automating it becomes the MLOps boss.
 
 ---
+
+<a id="mapa"></a>
 
 ## 🧭 Map
 
@@ -87,6 +93,8 @@ Status: 🟢 current · ✅ done · 🔒 locked (unlocks when the previous boss 
 3. Broke the streak? No penalty — the count just restarts. Earned XP is never lost.
 4. Stuck on a mission for more than 2 sessions? Open a `/teach` lesson or ask a [community](#comunidades). Asking for help is part of the game.
 
+<a id="niveis"></a>
+
 ### Levels
 
 | Lv | Title | Min XP | Extra requirement |
@@ -105,6 +113,8 @@ Status: 🟢 current · ✅ done · 🔒 locked (unlocks when the previous boss 
 A level goes up only when **both** conditions are met (min XP **and** that phase's boss).
 
 > **Consistency counts:** from Lv 3 on, phase XP alone is not enough — **weekly bonuses** (+20, +50 every 4 weeks) and side quests close the gap. Example: phases 0–8 give 6,420 XP; the remaining 580 for Lv 9 equal ~29 weeks of goals met, out of ~74.
+
+<a id="conquistas"></a>
 
 ### 🏅 Achievements
 

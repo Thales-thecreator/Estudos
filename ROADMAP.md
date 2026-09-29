@@ -7,7 +7,11 @@
 > Um jogo de ~18 meses (≈74 semanas, 8–10 h/semana) para sair do zero em programação até a primeira vaga como **ML / MLOps / AI Engineer**.
 > Regras completas em [Como o jogo funciona](#regras). Vocabulário em [`CONTEXT.md`](./CONTEXT.md).
 
+> **Índice:** [Painel](#painel) · [Mapa](#mapa) · [Regras](#regras) · [Níveis](#niveis) · [Conquistas](#conquistas) · [F0](#fase-0) · [F1](#fase-1) · [F2](#fase-2) · [F3](#fase-3) · [F4](#fase-4) · [F5](#fase-5) · [F6](#fase-6) · [F7](#fase-7) · [F8](#fase-8) · [Side quests](#side-quests) · [Comunidades](#comunidades)
+
 ---
+
+<a id="painel"></a>
 
 ## 🎮 Painel do jogador
 
@@ -22,6 +26,8 @@ XP  [░░░░░░░░░░░░░░░░░░░░]  0%   → pr�
 > Atualize este painel (nos dois idiomas, e nos badges dos READMEs) sempre que ganhar XP. Na Fase 5 você vai automatizar isso — é o chefão de MLOps.
 
 ---
+
+<a id="mapa"></a>
 
 ## 🧭 Mapa
 
@@ -87,6 +93,8 @@ Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o 
 3. Streak quebrou? Sem punição — só recomeça a contagem. O XP ganho nunca é perdido.
 4. Travou numa missão por mais de 2 sessões? Abra uma aula com `/teach` ou pergunte numa [comunidade](#comunidades). Pedir ajuda é parte do jogo.
 
+<a id="niveis"></a>
+
 ### Níveis
 
 | Nv | Título | XP mínimo | Requisito extra |
@@ -105,6 +113,8 @@ Status: 🟢 atual · ✅ concluída · 🔒 bloqueada (desbloqueia ao vencer o 
 O nível sobe quando **as duas** condições são atendidas (XP mínimo **e** chefão da fase).
 
 > **Constância conta:** a partir do Nv 3, o XP das fases sozinho não basta — os **bônus semanais** (+20, +50 a cada 4 semanas) e as side quests completam o caminho. Exemplo: até a Fase 8 as fases dão 6 420 XP; os 580 restantes para o Nv 9 equivalem a ~29 semanas de meta batida, de um total de ~74.
+
+<a id="conquistas"></a>
 
 ### 🏅 Conquistas
 

@@ -54,6 +54,9 @@ Então: apresente-se como o Mestre em 2–3 frases de atmosfera (sem reescrever 
 ### Chefão vencido
 Mesmo fluxo, mas em vez da cena narre um **capítulo** (≈800–1200 palavras): a queda do Suserano, a revelação do círculo (bíblia, seção 4), um fragmento da Manopla e um **dilema** com 2–3 opções de peso real (lealdade × sobrevivência, poder × custo). Salve em `saga/capitulos/NN-titulo.md`. Não avance para o próximo círculo até o jogador responder com `decisão`. Depois do chefão, a próxima fase precisa de missões detalhadas e issues (ver `.claude/CLAUDE.md`): ofereça fazer isso.
 
+### Ilustração do capítulo
+Depois de narrar um capítulo, escreva um **prompt de imagem** para o jogador gerar numa IA de imagem (Gemini, ChatGPT etc.): em inglês, a cena central do capítulo, **sem spoilers do futuro**, com a base de estilo *"Dark fantasy oil painting, cold obsidian, crimson and old gold palette, dramatic chiaroscuro, painterly texture, Castlevania and Dark Souls concept art mood. 16:9. No text, no letters."* e sem nomes de artistas vivos. Peça que ele suba a imagem em `assets/incoming/`. Quando ela chegar: converta para JPG (qualidade ~88, largura máx. 1672), salve em `assets/art/NN-slug.jpg`, apague o original de `incoming/`, coloque a imagem no topo do capítulo (PT e EN, com `alt` descritivo) e atualize a seção da saga nos READMEs se for o capítulo mais recente.
+
 ### `decisão <escolha>`
 Narre a consequência imediata (≈150–300 palavras), registre a escolha em "Escolhas feitas" na crônica, e registre pactos ou dívidas na ficha quando houver. Escolhas moldam quais finais ficam disponíveis (bíblia, seção 5). Nunca diga isso ao jogador.
 
@@ -94,7 +97,8 @@ Quando o `LOG.md` mostrar uma semana nova com a meta batida e ainda sem eco, nar
 - `saga/ficha.md` e `ficha.en.md`: XP, nível e título, atributos (1 ponto a cada 100 XP da fase, máx. 10), correntes, Manopla, inventário, aliados, pactos.
 - `saga/README.md` e `README.en.md`: acrescente capítulos novos à tabela. Capítulos também em par (`NN-titulo.md` + `NN-titulo.en.md`).
 - **Caixa de missão atual** nos dois READMEs: substitua o conteúdo entre `<!-- quest:start -->` e `<!-- quest:end -->` (três linhas: missão atual com o nome da corrente/etapa, link para a cena ou capítulo mais recente, streak e XP que falta para o próximo nível). Atualize também a linha *Currently learning* / *Estudando agora* com a fase atual.
-- Roadmap (conforme `.claude/CLAUDE.md`): marque `[x]` no README da fase (`README.md` e `README.en.md`), atualize o painel do `ROADMAP.md` e do `ROADMAP.en.md`, os badges de `README.md` e `README.pt-BR.md`, e a data da conquista. Feche a issue da missão no GitHub (`Thales-thecreator/Estudos`).
+- **Mapa dos Nove Círculos** (`assets/circles-pt.svg` e `circles-en.svg`), só a cada chefão: troque o atributo `class` do `<g id="circle-N">` (N = 0 para o Trono/Prólogo, 1–9 para os círculos): o vencido vira `done`, o próximo vira `current`. O círculo 9 tem duas classes: troque `hidden` por `revealed` só quando ele virar `current`. Não regenere nem edite mais nada no SVG.
+- Roadmap (conforme `.claude/CLAUDE.md`): marque `[x]` no README da fase (`README.md` e `README.en.md`), atualize o painel do `ROADMAP.md` e do `ROADMAP.en.md`, os badges de `README.md` e `README.pt-BR.md`, e a data da conquista. Feche a issue da missão no GitHub (`Thales-thecreator/road-to-ai-engineer`).
 - Faça **commit e push direto na `main`** — o dono autorizou isso de forma permanente neste repositório (ver `.claude/CLAUDE.md`), mesmo que a sessão tenha começado em outra branch. Antes do push, faça `git pull --rebase origin main` (o Obsidian Git também faz commits). A mensagem de commit é neutra e sem spoilers (ex.: `Saga: M0.1 concluída, Corrente I`).
 
 ## Voz e tom

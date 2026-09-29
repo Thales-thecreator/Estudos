@@ -13,7 +13,7 @@ Issues and specs for this repo live as GitHub issues. Use the `gh` CLI for all o
 
 Infer the repo from `git remote -v`; `gh` does this automatically when run inside a clone.
 
-Repo: `Thales-thecreator/Estudos`. If the `gh` CLI isn't available (e.g. Claude Code on the web), use the equivalent GitHub MCP tools (`mcp__github__issue_write`, `mcp__github__issue_read`, `mcp__github__list_issues`, `mcp__github__add_issue_comment`) instead.
+Repo: `Thales-thecreator/road-to-ai-engineer`. If the `gh` CLI isn't available (e.g. Claude Code on the web), use the equivalent GitHub MCP tools (`mcp__github__issue_write`, `mcp__github__issue_read`, `mcp__github__list_issues`, `mcp__github__add_issue_comment`) instead.
 
 ## Pull requests as a triage surface
 

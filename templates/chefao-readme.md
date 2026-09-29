@@ -1,6 +1,6 @@
 # <Nome do projeto>
 
-> 🐉 Chefão da **Fase N — <nome>** do meu [roadmap de estudos](https://github.com/Thales-thecreator/Estudos).
+> 🐉 Chefão da **Fase N — <nome>** do meu [roadmap de estudos](https://github.com/Thales-thecreator/road-to-ai-engineer).
 
 <!-- badges: linguagem, licença, demo -->
 

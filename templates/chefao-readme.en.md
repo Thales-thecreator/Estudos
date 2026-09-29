@@ -1,6 +1,6 @@
 # <Project name>
 
-> 🐉 Boss project for **Phase N — <name>** of my [study roadmap](https://github.com/Thales-thecreator/Estudos).
+> 🐉 Boss project for **Phase N — <name>** of my [study roadmap](https://github.com/Thales-thecreator/road-to-ai-engineer).
 
 <!-- badges: language, license, demo -->
 

@@ -2,6 +2,8 @@
 
 [🇧🇷 Português](./00-prologo.md) · 🇺🇸 **English**
 
+![A chained exile on a throne of broken blades faces a creature of obsidian and ice](../../assets/art/00-prologo.jpg)
+
 > Translated from the Portuguese original.
 
 The sky over the Citadel of Aethelgard has held no stars for three hundred years. Since the Fall of the Archons, humanity has survived in the shadows of twisted metal obelisks and gothic cathedrals that bleed a perpetual mist.

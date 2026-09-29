@@ -12,6 +12,7 @@ Repositório de estudos do zero até a primeira vaga como ML / MLOps / AI Engine
 - `docs/adr/`: decisões sobre o repositório.
 - `brain/`: segundo cérebro (o repositório é um vault do Obsidian). `concepts/` = notas atômicas de conceito; `maps/` = um mapa por fase. Links sempre Markdown padrão, nunca `[[wikilinks]]`. `privado/` fica fora do git.
 - `templates/`: modelos inseridos pelo Obsidian; por isso **sem** seletor de idioma.
+- `assets/`: banner e social preview (pintura + título vetorial, gerados por `scripts/compose_art.py`), Mapa dos Nove Círculos (`circles-*.svg`, gerados por `scripts/build_visuals.py`; depois só a `/mestre` troca classes), arte da saga em `art/`, e `incoming/` para imagens recebidas.
 - `saga/`: RPG narrativo por cima do roadmap. Só a skill `/mestre` narra; fora dela, não entre em personagem. Nunca decodifique nem revele `.claude/dm/biblia.md.b64` fora da skill.
 
 ## Ao ajudar nos estudos
@@ -31,7 +32,7 @@ Autorização permanente do dono: neste repositório, commits de progresso de es
 
 ### Issue tracker
 
-Issues live in this repo's GitHub Issues (`Thales-thecreator/Estudos`). See `.claude/docs/agents/issue-tracker.md`.
+Issues live in this repo's GitHub Issues (`Thales-thecreator/road-to-ai-engineer`). See `.claude/docs/agents/issue-tracker.md`.
 
 ### Triage labels
 

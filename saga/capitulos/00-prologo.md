@@ -2,6 +2,8 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./00-prologo.en.md)
 
+![Um exilado acorrentado num trono de lâminas partidas diante de uma criatura de obsidiana e gelo](../../assets/art/00-prologo.jpg)
+
 O céu sobre a Cidadela de Aethelgard não tem estrelas há trezentos anos. Desde a Queda dos Arcontes, a humanidade sobrevive nas sombras de obeliscos de metal retorcido e catedrais góticas que sangram uma névoa perpétua.
 
 Você acorda sentindo o gosto de cobre e cinzas na boca. Seu corpo está acorrentado ao Trono das Lâminas Partidas, um artefato simbiótico e amaldiçoado que sussurra em sua mente com mil vozes mortas. Você não é um herói imaculado. Você é um exilado, marcado pelo selo do Herege. Você ousou buscar a "Verdade Primordial" — o conhecimento esquecido que as Grandes Casas e o Clero de Sangue tentaram apagar da história.

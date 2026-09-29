@@ -1,25 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Road to AI Engineer — from zero to ML, MLOps and LLMs, played as a dark-fantasy RPG" width="100%">
+</p>
 
-# 🧠 Road to AI Engineer
+<p align="center">
+  <a href="./README.pt-BR.md">🇧🇷 Leia em português</a> ·
+  <a href="./ROADMAP.en.md">🗺️ Roadmap</a> ·
+  <a href="./saga/README.en.md">📜 The Saga</a> ·
+  <a href="./LOG.md">📅 Study log</a>
+</p>
 
-**My public learning journey — from zero programming to Machine Learning, MLOps, LLMs and AI Engineering.**
-
-[🇧🇷 Leia em português](./README.pt-BR.md) · [🗺️ Roadmap](./ROADMAP.en.md) · [📅 Study log](./LOG.md)
-
-![Level](https://img.shields.io/badge/level-0%20·%20Recruit-6e7681?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-0%20%2F%207000-2ea043?style=for-the-badge)
-![Phase](https://img.shields.io/badge/phase-0%20·%20Tutorial-1f6feb?style=for-the-badge)
-![Streak](https://img.shields.io/badge/streak-0%20weeks-f0883e?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/level-0%20·%20Recruit-6e7681?style=for-the-badge" alt="Level">
+  <img src="https://img.shields.io/badge/XP-0%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
+  <img src="https://img.shields.io/badge/phase-0%20·%20Tutorial-1f6feb?style=for-the-badge" alt="Phase">
+  <img src="https://img.shields.io/badge/streak-0%20weeks-f0883e?style=for-the-badge" alt="Streak">
+</p>
 
 <!-- quest:start -->
 > - ⚔️ **Current quest:** the game has not started yet — the first chain awaits.
 > - 📜 **Latest from the saga:** [Prologue: The Ashes of Aethelgard](./saga/capitulos/00-prologo.en.md)
 > - 🔥 **Streak:** 0 weeks · **Next level:** Apprentice (150 XP to go)
 <!-- quest:end -->
-
----
 
 ## 👋 About me
 
@@ -29,9 +30,23 @@ _I'm Thales Gomes, learning in public to become an AI Engineer._
 - 🌱 **Currently learning:** Git, GitHub and study habits (Phase 0)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/thales-gomes-2a6a12163/)
 
----
+## 📜 The Saga
+
+<p align="center">
+  <a href="./saga/capitulos/00-prologo.en.md"><img src="./assets/art/00-prologo.jpg" alt="A chained exile on a throne of broken blades faces a creature of obsidian and ice" width="720"></a>
+</p>
+
+> _The sky over the Citadel of Aethelgard has held no stars for three hundred years._
+>
+> _"The Throne you are bound to demands a sacrifice the flesh cannot pay. It demands Focus. It demands the forging of your own intellect."_
+
+This roadmap is played as a **grimdark narrative RPG**. Every real study mission breaks a chain, every phase boss is an Overlord, and nothing from the future is revealed before its time. Published in Portuguese and English. **[Read the prologue →](./saga/capitulos/00-prologo.en.md)**
 
 ## 🎮 Progress
+
+<p align="center">
+  <img src="./assets/circles-en.svg" alt="The Map of the Nine Circles — the player's progress through the phases" width="520">
+</p>
 
 | Phase | Track | Weeks | Status | Boss 🐉 |
 |:---:|---|:---:|:---:|---|
@@ -45,18 +60,7 @@ _I'm Thales Gomes, learning in public to become an AI Engineer._
 | 7 | [Capstone & Career](./tracks/07-capstone-career/README.en.md) | 8 | 🔒 | The Capstone |
 | 8 | [The Hunt](./tracks/08-the-hunt/README.en.md) — applications & interviews | open | 🔒 | The First Offer |
 
-```mermaid
-flowchart LR
-    F0[F0 Tutorial]:::now --> F1[F1 Python] --> F2[F2 Data & Math] --> F3[F3 Classical ML]
-    F3 --> F4[F4 Deep Learning] --> F5[F5 MLOps] --> F6[F6 LLMs & AI Eng] --> F7[F7 Capstone] --> F8[F8 The Hunt]
-    classDef now fill:#2ea043,color:#fff,stroke:#2ea043
-```
-
-⛓️ **Played as a grimdark narrative RPG** — every mission advances a story in [`saga/`](./saga/README.en.md), published in Portuguese and English.
-
 The full game — missions, XP, levels, achievements and every free resource — lives in **[ROADMAP.en.md](./ROADMAP.en.md)** ([Portuguese version](./ROADMAP.md)).
-
----
 
 ## 🏆 Featured projects
 
@@ -65,8 +69,6 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 | Project | Phase | Stack | Demo |
 |---|:---:|---|:---:|
 | _Coming soon — first boss unlocks in Phase 1_ | | | |
-
----
 
 ## 🧰 Stack I'm learning
 
@@ -83,7 +85,8 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 
 ---
 
-## 🗂️ How this repo works
+<details>
+<summary><b>🗂️ How this repo works</b></summary>
 
 ```
 ├── ROADMAP.md          # the game: phases, missions, XP, levels, achievements
@@ -100,6 +103,7 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 ├── brain/              # second brain (Obsidian vault): concept notes + maps
 ├── classroom/          # interactive lessons generated with Claude's /teach skill
 ├── templates/          # note & project README templates
+├── assets/             # banner, map of the nine circles, saga art
 └── docs/adr/           # decisions about how this repo is organized
 ```
 
@@ -107,31 +111,35 @@ Each phase ends with a **boss fight**: a hands-on project published as its own r
 
 **Rules of the game:** a weekly goal (3–4 sessions of 30+ min) instead of a fragile daily streak, XP only with evidence in the repo, and a mandatory boss project to unlock each phase. Details in [ROADMAP.en.md](./ROADMAP.en.md#regras).
 
----
+</details>
 
 <a id="play-it-yourself"></a>
 
-## 🎲 Play it yourself
+<details>
+<summary><b>🎲 Play it yourself</b></summary>
 
-This roadmap is meant to be forked. To start your own run:
+This roadmap is meant to be forked (it is also a **template repository**). To start your own run:
 
 1. **Fork** this repository (and make sure your GitHub email is private — see [SECURITY](./SECURITY.md)).
-2. **Reset the progress:** clear the session rows in `LOG.md`, set XP/level back to zero in `ROADMAP*.md` and the README badges, untick the checkboxes in `tracks/`, and reset `saga/ficha*.md` and `saga/cronica*.md` (keep the prologue). Delete `saga/cenas/*`.
+2. **Reset the progress:** clear the session rows in `LOG.md`, set XP/level back to zero in `ROADMAP*.md` and the README badges, untick the checkboxes in `tracks/`, reset the map (`assets/circles-*.svg`: every circle `locked`, circle 0 `current`), and reset `saga/ficha*.md` and `saga/cronica*.md` (keep the prologue). Delete `saga/cenas/*`.
 3. **Make it yours:** rewrite `classroom/MISSION.md`, the *About me* section and the timeline to fit your life.
 4. **Play:** open [Claude Code](https://claude.com/claude-code) in your fork and run `/mestre começar`. The skills in `.claude/skills/` come with the repo.
 
 The plot pillars are the same for everyone — your choices are not. Credit this repo as described in the licenses below.
 
----
+</details>
 
-## 📄 License & security
+<details>
+<summary><b>📄 License, credits & security</b></summary>
 
 - **Code:** [MIT](./LICENSE) · **Roadmap & notes:** [CC BY-SA 4.0](./LICENSE-CONTENT.md) · **Saga:** [CC BY-NC-SA 4.0](./LICENSE-CONTENT.md) · details in [LICENSE-CONTENT.md](./LICENSE-CONTENT.md)
+- **Credits:** icons by [Game-Icons.net](https://game-icons.net/) (CC BY 3.0) · fonts Cinzel & Cormorant Garamond (SIL OFL) · saga art AI-generated and composited for this repo
 - Security & privacy rules for this public repo: [SECURITY.md](./SECURITY.md)
 
----
+</details>
 
-## 📚 Highlights of the curriculum
+<details>
+<summary><b>📚 Highlights of the curriculum</b></summary>
 
 All resources are **free**. A few favourites:
 
@@ -146,10 +154,8 @@ All resources are **free**. A few favourites:
 [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) ·
 [Anthropic Courses](https://github.com/anthropics/courses)
 
+</details>
+
 ---
 
-<div align="center">
-
-_Learning in public, one session at a time._ 🌱
-
-</div>
+<p align="center"><i>Learning in public, one session at a time.</i> 🌱</p>
