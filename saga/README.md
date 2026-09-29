@@ -47,6 +47,7 @@ Todos os comandos, com exemplos e regras (desafiar o chefão, santuário, postos
 | Cena 2 | [A Voz no Ferro](./cenas/0002-a-voz-no-ferro.md) · M0.2 | Prólogo |
 | Cena 3 | [O Grimório de Folhas em Branco](./cenas/0003-o-grimorio.md) · M0.3 | Prólogo |
 | Cena 4 | [O Nó de Duas Raízes](./cenas/0004-o-labirinto.md) · M0.4 | Prólogo |
+| Cena 5 | [Três Tochas na Névoa](./cenas/0005-tres-tochas.md) · M0.5 | Prólogo |
 
 ## 🎲 Jogue você também
 

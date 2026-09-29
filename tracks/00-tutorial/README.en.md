@@ -31,7 +31,7 @@ Tick `[x]` when done, log it in `LOG.md`, and close the matching GitHub issue.
   Complete the **"Introduction Sequence"** (4 levels) of [Learn Git Branching](https://learngitbranching.js.org/).
   **Evidence:** a screenshot of the final screen in `notes/` or one line in `LOG.md`.
 
-- [ ] **M0.5 · My mission and my schedule** · ⛓️ *Chain V · Lost Purpose* — 15 XP
+- [x] **M0.5 · My mission and my schedule** · ⛓️ *Chain V · Lost Purpose* — 15 XP
   Rewrite the *Why* and *Constraints* sections of [`classroom/MISSION.md`](../../classroom/MISSION.md) in your own words (in Portuguese; the headings stay in English because that is the `/teach` format), and pick **3 fixed weekly slots** to study. Write them at the top of `LOG.md`.
   **Evidence:** updated `MISSION.md` and `LOG.md`.
 

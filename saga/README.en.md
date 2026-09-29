@@ -49,6 +49,7 @@ Every command, with examples and rules (challenge the boss, sanctuary, outposts,
 | Scene 2 | [The Voice in the Iron](./cenas/0002-a-voz-no-ferro.en.md) · M0.2 | Prologue |
 | Scene 3 | [The Grimoire of Blank Pages](./cenas/0003-o-grimorio.en.md) · M0.3 | Prologue |
 | Scene 4 | [The Knot of Two Roots](./cenas/0004-o-labirinto.en.md) · M0.4 | Prologue |
+| Scene 5 | [Three Torches in the Mist](./cenas/0005-tres-tochas.en.md) · M0.5 | Prologue |
 
 ## 🎲 Play it yourself
 

@@ -20,10 +20,10 @@
 <!-- sync:panel -->
 | Nível | XP total | Fase atual | Streak | Chefões vencidos |
 |:---:|:---:|:---:|:---:|:---:|
-| **0 · Recruta** | **65** / 150 | 🟢 Fase 0 — Tutorial | 🔥 0 semanas | 0 / 9 |
+| **0 · Recruta** | **80** / 150 | 🟢 Fase 0 — Tutorial | 🔥 0 semanas | 0 / 9 |
 
 ```
-XP  [█████████░░░░░░░░░░░]  43%   → próximo nível: Aprendiz (150 XP)
+XP  [███████████░░░░░░░░░]  53%   → próximo nível: Aprendiz (150 XP)
 ```
 
 > Gerado a partir do [`progress.yml`](./progress.yml) por `scripts/sync.py`. Não edite à mão.

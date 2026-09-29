@@ -31,7 +31,7 @@ Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no
   Complete a sequência **"Introdução"** (4 níveis) do [Learn Git Branching em PT](https://learngitbranching.js.org/?locale=pt_BR).
   **Evidência:** print da tela final em `notes/` ou uma linha no `LOG.md`.
 
-- [ ] **M0.5 · Minha missão e minha agenda** · ⛓️ *Corrente V · Propósito Perdido* — 15 XP
+- [x] **M0.5 · Minha missão e minha agenda** · ⛓️ *Corrente V · Propósito Perdido* — 15 XP
   Reescreva as seções *Why* (por quê) e *Constraints* (restrições) do [`classroom/MISSION.md`](../../classroom/MISSION.md) com suas palavras, em português (os títulos ficam em inglês porque é o formato da `/teach`), e escolha **3 horários fixos na semana** para estudar. Anote-os no topo do `LOG.md`.
   **Evidência:** `MISSION.md` e `LOG.md` atualizados.
 
