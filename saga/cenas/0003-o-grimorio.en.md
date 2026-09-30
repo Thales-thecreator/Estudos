@@ -2,6 +2,8 @@
 
 [🇧🇷 Português](./0003-o-grimorio.md) · 🇺🇸 **English**
 
+<p align="center"><img src="../../assets/art/cenas/0003-o-grimorio.jpg" alt="The heretic on the Throne holds a grimoire of glowing white pages caught in silver threads like cobweb, the creature beside him" width="480"></p>
+
 > Mission M0.3 · 2026-09-29
 
 The creature of obsidian and ice lays a nameless book in your lap, its leather cover cracked and its pages so white they hurt the eyes. "Write," she says. "But write it right. This tongue does not forgive."

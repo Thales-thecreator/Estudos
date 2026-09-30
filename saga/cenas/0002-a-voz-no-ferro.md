@@ -2,6 +2,8 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./0002-a-voz-no-ferro.en.md)
 
+<p align="center"><img src="../../assets/art/cenas/0002-a-voz-no-ferro.jpg" alt="Uma placa de ferro com duas linhas gravadas diante do herege acorrentado; atrás, a criatura e o fantasma de um erudito lendo um diário à luz de vela" width="480"></p>
+
 > Missão M0.2 · 2026-09-29
 
 Você escreve no ferro o que viveu hoje: a hora, o tempo, o que aprendeu. A primeira tentativa sai torta, com uma data que ainda não chegou e as linhas desalinhadas como costelas quebradas. A segunda sai reta.

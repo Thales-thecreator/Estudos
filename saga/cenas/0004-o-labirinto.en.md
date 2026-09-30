@@ -2,6 +2,8 @@
 
 [🇧🇷 Português](./0004-o-labirinto.md) · 🇺🇸 **English**
 
+<p align="center"><img src="../../assets/art/cenas/0004-o-labirinto.jpg" alt="A labyrinth carved into the floor at the foot of the Throne, where two glowing trails tie into a two-rooted knot, between the heretic and the creature" width="480"></p>
+
 > Mission M0.4 · 2026-09-29
 
 At the foot of the Throne, the stone floor is a carved labyrinth: paths that split, run side by side and sometimes never meet again. In the dead ends there are nail marks and chalk scratches, left by guests who lost themselves there before you.

@@ -2,6 +2,8 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./0005-tres-tochas.en.md)
 
+<p align="center"><img src="../../assets/art/cenas/0005-tres-tochas.jpg" alt="Três tochas cravadas na pedra à beira da plataforma do Trono, a última mais fraca, com as luzes da Cidadela surgindo na névoa carmesim" width="480"></p>
+
 > Missão M0.5 · 2026-09-29
 
 A quinta corrente não pesa nos pulsos nem nos tornozelos. Ela aperta o peito, e a voz dela é a sua própria voz, cansada: *para quê?*

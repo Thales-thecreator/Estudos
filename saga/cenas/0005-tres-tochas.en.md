@@ -2,6 +2,8 @@
 
 [🇧🇷 Português](./0005-tres-tochas.md) · 🇺🇸 **English**
 
+<p align="center"><img src="../../assets/art/cenas/0005-tres-tochas.jpg" alt="Three torches driven into the stone at the edge of the Throne's platform, the last one weaker, with the Citadel's lights emerging from the crimson mist" width="480"></p>
+
 > Mission M0.5 · 2026-09-29
 
 The fifth chain does not weigh on wrists or ankles. It tightens around the chest, and its voice is your own voice, tired: *what for?*

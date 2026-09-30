@@ -2,6 +2,8 @@
 
 [🇧🇷 Português](./0002-a-voz-no-ferro.md) · 🇺🇸 **English**
 
+<p align="center"><img src="../../assets/art/cenas/0002-a-voz-no-ferro.jpg" alt="An iron plate with two engraved lines before the chained heretic; behind, the creature and the ghost of a scholar reading a diary by candlelight" width="480"></p>
+
 > Mission M0.2 · 2026-09-29
 
 You write into the iron what you lived today: the hour, the time, what you learned. The first attempt comes out crooked, with a date that has not yet arrived and lines misaligned like broken ribs. The second comes out straight.

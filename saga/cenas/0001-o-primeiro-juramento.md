@@ -2,6 +2,8 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./0001-o-primeiro-juramento.en.md)
 
+<p align="center"><img src="../../assets/art/cenas/0001-o-primeiro-juramento.jpg" alt="A mão acorrentada do herege grava letras em brasa no braço de pedra do Trono, com um selo de cobre no pulso, enquanto a criatura de obsidiana e gelo aponta trilhas na névoa" width="480"></p>
+
 > Missão M0.1 · 2026-09-29
 
 Você grava o juramento na pedra fria do braço do Trono, letra por letra, e ele não se apaga. A criatura de obsidiana e gelo sussurra o segredo enquanto a tinta ainda fumega: *o que é gravado assim não se desfaz. Pode vir outro juramento depois, que o corrija ou o contradiga, mas este nunca será apagado. Cada um guarda a hora em que nasceu e a razão pela qual foi feito.*

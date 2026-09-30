@@ -2,6 +2,8 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./0004-o-labirinto.en.md)
 
+<p align="center"><img src="../../assets/art/cenas/0004-o-labirinto.jpg" alt="Um labirinto entalhado no chão aos pés do Trono, onde duas trilhas luminosas se amarram num nó de duas raízes, entre o herege e a criatura" width="480"></p>
+
 > Missão M0.4 · 2026-09-29
 
 Aos pés do Trono, o chão de pedra é um labirinto entalhado: trilhas que se dividem, correm lado a lado e às vezes nunca mais se encontram. Nos becos sem saída há marcas de unhas e riscos de giz, deixados por hóspedes que se perderam ali antes de você.

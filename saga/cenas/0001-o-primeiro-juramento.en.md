@@ -2,6 +2,8 @@
 
 [🇧🇷 Português](./0001-o-primeiro-juramento.md) · 🇺🇸 **English**
 
+<p align="center"><img src="../../assets/art/cenas/0001-o-primeiro-juramento.jpg" alt="The heretic's chained hand carves glowing letters into the Throne's stone armrest, a copper seal on his wrist, while the obsidian-and-ice creature points at paths in the mist" width="480"></p>
+
 > Mission M0.1 · 2026-09-29
 
 You carve the oath into the cold stone of the Throne's arm, letter by letter, and it does not fade. The creature of obsidian and ice whispers the secret while the ink still smokes: *what is carved this way cannot be undone. Another oath may come after, correcting it or contradicting it, but this one will never be erased. Each one keeps the hour it was born and the reason it was made.*

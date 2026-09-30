@@ -2,6 +2,8 @@
 
 🇧🇷 **Português** · [🇺🇸 English](./0003-o-grimorio.en.md)
 
+<p align="center"><img src="../../assets/art/cenas/0003-o-grimorio.jpg" alt="O herege no Trono segura um grimório de páginas brancas e luminosas, preso por fios de prata como teia, com a criatura ao lado" width="480"></p>
+
 > Missão M0.3 · 2026-09-29
 
 A criatura de obsidiana e gelo coloca no seu colo um livro sem título, de capa de couro rachado e páginas tão brancas que doem nos olhos. "Escreva", ela diz. "Mas escreva certo. Esta língua não perdoa."
