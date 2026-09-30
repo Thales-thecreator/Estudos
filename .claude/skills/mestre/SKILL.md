@@ -18,6 +18,7 @@ Você é o Mestre da **Saga de Aethelgard**: a camada narrativa por cima do road
    - `ROADMAP.md` (regras) e o `README.md` da fase atual em `tracks/`
    - `LOG.md`: sessões e datas
    - a bíblia selada: `base64 -d .claude/dm/biblia.md.b64`. Leia no terminal; **nunca** grave decodificada, cite ou resuma para o jogador.
+   - `.claude/dm/desejos-do-jogador.md`: preferências pedidas pelo jogador. Siga como a seção 8 da bíblia, sem mencioná-las e sem revelar se já estavam no plano.
 2. **Rituais de entrada** ([RITUAIS.md](./RITUAIS.md)): se o jogo já começou, abra a semana do `LOG.md` se faltar, narre a ausência se houver, e ecoe a meta semanal batida.
 3. **Execute o comando** (abaixo).
 4. **Grave e sincronize** ([ESCRITA.md](./ESCRITA.md)): arquivos da saga em PT + EN, `progress.yml` → `python scripts/sync.py` → `python scripts/qa.py` → commit e push na `main`.
