@@ -21,3 +21,14 @@ For the first time, the Gauntlet on your arm pulses, a faint warmth across the k
 The creature does not answer. But she scuffs out the second path with her foot and leaves the knot alight.
 
 Two chains remain. The next one asks, without a voice, **why** you are here.
+
+<details>
+<summary>🎨 Illustration prompt</summary>
+
+Generate the image with [`assets/art/00-prologo.jpg`](../../assets/art/00-prologo.jpg) attached as a reference, and upload the result to `assets/incoming/`.
+
+```text
+A labyrinth carved into the stone floor at the foot of the throne, seen from above; two glowing trails meeting and tying into a knot with two roots; claw marks and chalk scratches in the dead ends; a chain unwinding by itself from the heretic's ankle; a faint copper pulse in the knuckles of his cracked gauntlet. Thales the Heretic: gaunt, scarred man in his thirties, dark matted shoulder-length hair, stubble, bare scarred torso, tattered dark cloth, worn leather boots, bound by crimson-glowing iron chains; on his right hand a cracked, blackened-bronze gauntlet with faint copper light in the cracks. The creature: tall, slender feminine figure sculpted from obsidian and ice, crown of jagged black shards, pale glowing eyes, flowing robe of cracked translucent ice. The Throne of Broken Blades: a throne built from hundreds of shattered swords, inside ruined gothic cathedrals bleeding crimson mist under a starless sky. Dark fantasy oil painting, cold obsidian, crimson and old gold palette, dramatic chiaroscuro, painterly texture, Castlevania and Dark Souls concept art mood. Close, intimate framing on a single detail. 3:2. No text, no letters.
+```
+
+</details>

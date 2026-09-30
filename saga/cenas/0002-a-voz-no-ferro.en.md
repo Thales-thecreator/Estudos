@@ -17,3 +17,14 @@ That is why your diary matters, even on days without victory. Every line tells t
 *"Forty minutes. The Clergy's monks pray longer than that just to warm their knees."*
 
 Four chains remain. The next is a blank page, and it waits for you to write the first spell.
+
+<details>
+<summary>🎨 Illustration prompt</summary>
+
+Generate the image with [`assets/art/00-prologo.jpg`](../../assets/art/00-prologo.jpg) attached as a reference, and upload the result to `assets/incoming/`.
+
+```text
+An iron plate with two engraved lines, the first crooked and scarred, still visible beneath the straight corrected one; a fallen chain lying silent on the floor; behind, the faint ghost of a long-dead scholar reading a diary by candlelight, its page torn mid-sentence. Thales the Heretic: gaunt, scarred man in his thirties, dark matted shoulder-length hair, stubble, bare scarred torso, tattered dark cloth, worn leather boots, bound by crimson-glowing iron chains; on his right hand a cracked, blackened-bronze gauntlet with faint copper light in the cracks. The creature: tall, slender feminine figure sculpted from obsidian and ice, crown of jagged black shards, pale glowing eyes, flowing robe of cracked translucent ice. The Throne of Broken Blades: a throne built from hundreds of shattered swords, inside ruined gothic cathedrals bleeding crimson mist under a starless sky. Dark fantasy oil painting, cold obsidian, crimson and old gold palette, dramatic chiaroscuro, painterly texture, Castlevania and Dark Souls concept art mood. Close, intimate framing on a single detail. 3:2. No text, no letters.
+```
+
+</details>

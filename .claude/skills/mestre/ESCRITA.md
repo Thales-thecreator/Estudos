@@ -4,7 +4,7 @@
 
 ## 1. Saga (à mão, PT + EN)
 
-- **Cena:** `saga/cenas/NNNN-slug.md` + `.en.md`, numeração sequencial, `# <título>` e `> Missão M?.? · AAAA-MM-DD` (EN: `> Mission M?.? · YYYY-MM-DD`); acrescente uma linha `| Cena N | [título](./cenas/…) · M?.? | <círculo> |` à tabela de `saga/README.md` e `README.en.md`.
+- **Cena:** `saga/cenas/NNNN-slug.md` + `.en.md`, numeração sequencial, `# <título>` e `> Missão M?.? · AAAA-MM-DD` (EN: `> Mission M?.? · YYYY-MM-DD`); termine com o bloco `🎨 Prompt da ilustração` ([VISUAIS.md](./VISUAIS.md#vinheta-de-cada-cena-opcional-para-o-jogador)); acrescente uma linha `| Cena N | [título](./cenas/…) · M?.? | <círculo> |` à tabela de `saga/README.md` e `README.en.md`.
 - **Capítulo:** `saga/capitulos/NN-slug.md` + `.en.md`; acrescente à tabela de `saga/README.md` e `README.en.md`.
 - **Crônica** (`cronica.md` + `.en.md`): só fatos revelados na linha do tempo e nas listas.
 - **Ficha** (`ficha.md` + `.en.md`): local, correntes, atributos (1 ponto a cada 100 XP da fase, máx. 10), Manopla, inventário, aliados, pactos. **Nível e XP não**: vêm do sync.

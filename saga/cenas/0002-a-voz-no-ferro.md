@@ -17,3 +17,14 @@ Por isso o seu diário importa, mesmo nos dias sem vitória. Cada linha diz à N
 *"Quarenta minutos. Os monges do Clero rezam mais do que isso só para aquecer os joelhos."*
 
 Restam quatro correntes. A próxima é uma página em branco, e ela espera que você escreva o primeiro feitiço.
+
+<details>
+<summary>🎨 Prompt da ilustração</summary>
+
+Gere a imagem anexando [`assets/art/00-prologo.jpg`](../../assets/art/00-prologo.jpg) como referência e suba o resultado em `assets/incoming/`.
+
+```text
+An iron plate with two engraved lines, the first crooked and scarred, still visible beneath the straight corrected one; a fallen chain lying silent on the floor; behind, the faint ghost of a long-dead scholar reading a diary by candlelight, its page torn mid-sentence. Thales the Heretic: gaunt, scarred man in his thirties, dark matted shoulder-length hair, stubble, bare scarred torso, tattered dark cloth, worn leather boots, bound by crimson-glowing iron chains; on his right hand a cracked, blackened-bronze gauntlet with faint copper light in the cracks. The creature: tall, slender feminine figure sculpted from obsidian and ice, crown of jagged black shards, pale glowing eyes, flowing robe of cracked translucent ice. The Throne of Broken Blades: a throne built from hundreds of shattered swords, inside ruined gothic cathedrals bleeding crimson mist under a starless sky. Dark fantasy oil painting, cold obsidian, crimson and old gold palette, dramatic chiaroscuro, painterly texture, Castlevania and Dark Souls concept art mood. Close, intimate framing on a single detail. 3:2. No text, no letters.
+```
+
+</details>

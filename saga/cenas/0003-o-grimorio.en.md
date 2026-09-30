@@ -17,3 +17,14 @@ The third chain, the chain of the **Blank Page**, crumbles into fine ash, and th
 The creature does not laugh. At the name of the Archons, her eyes turn away from the Throne as if from a flame.
 
 Three chains remain. The next is a labyrinth of paths that split and meet again.
+
+<details>
+<summary>🎨 Illustration prompt</summary>
+
+Generate the image with [`assets/art/00-prologo.jpg`](../../assets/art/00-prologo.jpg) attached as a reference, and upload the result to `assets/incoming/`.
+
+```text
+A book with cracked leather covers resting on the heretic's lap, pages so white they glow, trembling ink answering his handwriting line by line; finest silver threads like cobweb caught between the oldest pages; fine ash drifting where a chain used to be; the creature's face turned away from the throne. Thales the Heretic: gaunt, scarred man in his thirties, dark matted shoulder-length hair, stubble, bare scarred torso, tattered dark cloth, worn leather boots, bound by crimson-glowing iron chains; on his right hand a cracked, blackened-bronze gauntlet with faint copper light in the cracks. The creature: tall, slender feminine figure sculpted from obsidian and ice, crown of jagged black shards, pale glowing eyes, flowing robe of cracked translucent ice. The Throne of Broken Blades: a throne built from hundreds of shattered swords, inside ruined gothic cathedrals bleeding crimson mist under a starless sky. Dark fantasy oil painting, cold obsidian, crimson and old gold palette, dramatic chiaroscuro, painterly texture, Castlevania and Dark Souls concept art mood. Close, intimate framing on a single detail. 3:2. No text, no letters.
+```
+
+</details>

@@ -17,3 +17,14 @@ No lugar onde o elo caiu, fica uma marca no seu pulso: um círculo de cobre, que
 *"Um juramento, herege. Um só. Meus hóspedes anteriores fizeram milhares antes de apodrecer."*
 
 Restam cinco correntes. A próxima é a do **Silêncio**, e ela pesa sobre a sua boca.
+
+<details>
+<summary>🎨 Prompt da ilustração</summary>
+
+Gere a imagem anexando [`assets/art/00-prologo.jpg`](../../assets/art/00-prologo.jpg) como referência e suba o resultado em `assets/incoming/`.
+
+```text
+Close-up of the chained heretic's hand carving glowing letters into the cold stone armrest of the throne, the ink still smoking; a chain link dissolving into pale, dry flakes of old parchment; a warm copper circular seal freshly marked on his wrist; in the blurred background, an ice claw points at paths forking into the mist. Thales the Heretic: gaunt, scarred man in his thirties, dark matted shoulder-length hair, stubble, bare scarred torso, tattered dark cloth, worn leather boots, bound by crimson-glowing iron chains; on his right hand a cracked, blackened-bronze gauntlet with faint copper light in the cracks. The creature: tall, slender feminine figure sculpted from obsidian and ice, crown of jagged black shards, pale glowing eyes, flowing robe of cracked translucent ice. The Throne of Broken Blades: a throne built from hundreds of shattered swords, inside ruined gothic cathedrals bleeding crimson mist under a starless sky. Dark fantasy oil painting, cold obsidian, crimson and old gold palette, dramatic chiaroscuro, painterly texture, Castlevania and Dark Souls concept art mood. Close, intimate framing on a single detail. 3:2. No text, no letters.
+```
+
+</details>
