@@ -12,12 +12,13 @@
 
 ## Vinheta de cada cena (opcional para o jogador)
 
-Toda cena nova termina com um bloco recolhível `🎨 Prompt da ilustração` (EN: `🎨 Illustration prompt`), com o **mesmo prompt em inglês** nos dois arquivos e a instrução de anexar `assets/art/00-prologo.jpg` como referência (copie o formato das cenas 0001–0005). O prompt tem três partes, nesta ordem:
+Toda cena nova termina com um bloco recolhível `🎨 Prompt da ilustração` (EN: `🎨 Illustration prompt`), com o **mesmo prompt em inglês** nos dois arquivos e a instrução de anexar como referência `assets/art/00-prologo.jpg` **e a imagem da cena anterior**, se ela já existir em `assets/art/cenas/` (copie o formato das cenas 0001–0005). O prompt tem quatro partes, nesta ordem. **A consistência visual de uma cena para a outra é obrigatória**: a imagem nova tem de parecer o quadro seguinte da mesma história.
 
 1. **A cena:** um detalhe central e concreto do que foi narrado (a mão, o objeto, a corrente que cai), só com o que a cena revelou. Sem spoilers, sem nomes de artistas vivos.
-2. **O cânone visual**, sempre igual:
+2. **A continuidade** (`Continuity: …`): o estado visível **depois** da cena, herdado da anterior e atualizado. Quantas correntes ainda prendem o herege, os itens conquistados e onde ficam (o selo de cobre no pulso esquerdo, o grimório ao lado), ferimentos, o estado da Manopla, o lugar, e a frase fixa *same … crimson mist and light as the previous scenes*. Antes de escrever, releia o `Continuity:` da cena anterior e só mude o que a nova cena mudou.
+3. **O cânone visual**, sempre igual:
    > Thales the Heretic: gaunt, scarred man in his thirties, dark matted shoulder-length hair, stubble, bare scarred torso, tattered dark cloth, worn leather boots, bound by crimson-glowing iron chains; on his right hand a cracked, blackened-bronze gauntlet with faint copper light in the cracks. The creature: tall, slender feminine figure sculpted from obsidian and ice, crown of jagged black shards, pale glowing eyes, flowing robe of cracked translucent ice. The Throne of Broken Blades: a throne built from hundreds of shattered swords, inside ruined gothic cathedrals bleeding crimson mist under a starless sky.
-3. **O estilo**, sempre igual:
+4. **O estilo**, sempre igual:
    > *Dark fantasy oil painting, cold obsidian, crimson and old gold palette, dramatic chiaroscuro, painterly texture, Castlevania and Dark Souls concept art mood. Close, intimate framing on a single detail. 3:2. No text, no letters.*
 
 Se algo do cânone mudar na história (a Manopla restaurada, o Trono deixado para trás), atualize o cânone aqui **antes** do próximo prompt.
