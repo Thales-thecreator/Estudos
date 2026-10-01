@@ -15,18 +15,18 @@
 <header>
   <p class="eyebrow">Aula 1 · O que é Machine Learning · ~15 min</p>
   <h1>Aprender com exemplos</h1>
-  <p class="lede">Hoje você vai entender a ideia que está por trás de tudo o que vai estudar nos próximos 18 meses. Sem código, sem matemática.</p>
+  <p class="lede">Hoje você vai entender a ideia por trás de tudo o que vai estudar nos próximos 18 meses. Sem código e sem matemática.</p>
 </header>
 
 <section>
   <h2>Você já usa isso todo dia</h2>
-  <p>O filtro de spam do seu e-mail, a sugestão de palavra do teclado do celular, o “talvez você goste” da Netflix. Ninguém escreveu à mão uma regra para cada mensagem, cada palavra ou cada filme. Esses programas <em>aprenderam</em> olhando muitos exemplos.</p>
+  <p>O filtro de spam do seu e-mail, as palavras que o teclado do celular sugere, as recomendações da Netflix. Ninguém escreveu à mão uma regra para cada mensagem, cada palavra ou cada filme. Esses programas <em>aprenderam</em> olhando muitos exemplos.</p>
   <p>Isso é Machine Learning (em português, <em>aprendizado de máquina</em>).</p>
 </section>
 
 <section>
   <h2>A ideia numa frase</h2>
-  <blockquote class="def">Machine Learning é treinar um programa, chamado <span class="t-model">modelo</span>, para fazer previsões úteis a partir de dados.</blockquote>
+  <blockquote class="def">Machine Learning é treinar um programa, chamado <span class="t-model">modelo</span>, para fazer previsões úteis ou criar conteúdo (textos, imagens) a partir de dados.</blockquote>
   <p class="cite">Tradução livre da definição do <a href="https://developers.google.com/machine-learning/intro-to-ml/what-is-ml" target="_blank" rel="noopener">curso de ML do Google</a>.</p>
 
   <p>A diferença para a programação comum está em <strong>quem escreve as regras</strong>:</p>
@@ -50,16 +50,16 @@
     </div>
   </div>
 
-  <p>Em vez de alguém escrever as regras, você dá ao computador exemplos com a resposta certa, e ele descobre sozinho o padrão. Quem marca as respostas certas funciona como um “supervisor”. <span class="cite">(<a href="https://course.elementsofai.com/pt/4/1/" target="_blank" rel="noopener">Elements of AI, cap. 4.1</a>)</span></p>
+  <p>Em vez de alguém escrever as regras, você dá ao computador exemplos com a resposta certa, e ele descobre o padrão sozinho. Como alguém precisa marcar as respostas certas, como um supervisor, esse tipo de ML se chama <em>aprendizado supervisionado</em>. <span class="cite">(<a href="https://course.elementsofai.com/pt/4/1/" target="_blank" rel="noopener">Elements of AI, cap. 4.1</a>)</span></p>
 </section>
 
 <section>
   <h2>Experimente: seja o modelo</h2>
-  <p>Abaixo estão 6 mensagens que já vieram com a resposta marcada. Ninguém vai te dizer a regra. Olhe os exemplos e descubra o padrão.</p>
+  <p>Abaixo há 6 mensagens, cada uma já com a resposta marcada. Ninguém vai te dizer a regra: olhe os exemplos e descubra o padrão.</p>
 
   <div class="table-wrap">
     <table>
-      <thead><tr><th>Mensagem (dado)</th><th>Resposta (rótulo)</th></tr></thead>
+      <thead><tr><th>Mensagem (exemplo)</th><th>Resposta (rótulo)</th></tr></thead>
       <tbody>
         <tr><td class="msg">Parabéns! Você ganhou um iPhone. Clique aqui.</td><td class="lbl"><span class="t-label">spam</span></td></tr>
         <tr><td class="msg">Oi, a reunião de amanhã mudou para as 10h.</td><td class="lbl"><span class="t-label">não spam</span></td></tr>
@@ -71,22 +71,22 @@
     </table>
   </div>
 
-  <p>Agora chegaram 3 mensagens novas, <strong>sem</strong> resposta. Você decide:</p>
+  <p>Agora chegaram 3 mensagens novas, <strong>sem</strong> resposta. Decida você:</p>
   <div class="quiz" data-quiz="seja-o-modelo"></div>
   <script type="application/json" id="seja-o-modelo">
   {"score": false, "questions": [
     {"q": "“Você foi sorteado! Retire seu prêmio de R$ 2.000.”", "options": ["Spam", "Não spam"], "answer": 0,
-     "explain": "Promete dinheiro ou prêmio, igual aos três exemplos marcados como spam."},
+     "explain": "Promete dinheiro ou prêmio, como os três exemplos marcados como spam."},
     {"q": "“Pode me mandar o arquivo da aula de ontem?”", "options": ["Spam", "Não spam"], "answer": 1,
-     "explain": "Parece conversa do dia a dia, igual aos exemplos marcados como não spam."},
+     "explain": "É conversa do dia a dia, como os exemplos marcados como não spam."},
     {"q": "“O RH avisou: seu salário de R$ 3.000 já caiu.”", "options": ["Spam", "Não spam"], "answer": 1,
-     "explain": "Na vida real, é uma mensagem legítima. Mas se você marcou spam, fez exatamente o que um modelo treinado só com esses 6 exemplos faria: nos exemplos, todo valor em reais era spam. A regra que você aprendeu tem um buraco porque os exemplos tinham um buraco."}
+     "explain": "Na vida real, essa mensagem é verdadeira. Mas, se você marcou spam, fez exatamente o que um modelo treinado só com esses 6 exemplos faria: nos exemplos, toda mensagem com valor em reais era spam. A regra aprendida falha porque faltou nos exemplos uma mensagem verdadeira que falasse de dinheiro."}
   ]}
   </script>
 
   <div class="callout">
     <h3>O que acabou de acontecer</h3>
-    <p>Você não recebeu nenhuma regra. Olhou exemplos com resposta e montou uma regra na cabeça, algo como “promete dinheiro → spam”. Depois usou essa regra em mensagens que nunca tinha visto. Foi isso que você fez, com os nomes que vai usar daqui em diante:</p>
+    <p>Você não recebeu nenhuma regra. Olhou exemplos com resposta e montou uma regra na cabeça, algo como “promete dinheiro → spam”. Depois usou essa regra em mensagens que nunca tinha visto. Estes são os nomes de cada parte, que vamos usar daqui em diante:</p>
     <dl class="terms">
       <dt>Dados</dt><dd>os exemplos (as 6 mensagens).</dd>
       <dt>Rótulo</dt><dd>a <span class="t-label">resposta certa</span> de cada exemplo (spam ou não spam).</dd>
@@ -94,27 +94,27 @@
       <dt>Modelo</dt><dd>a <span class="t-model">regra descoberta</span> no treino.</dd>
       <dt>Previsão</dt><dd>a resposta do modelo para um caso novo.</dd>
     </dl>
-    <p class="cite">Nomes usados também no <a href="https://developers.google.com/machine-learning/intro-to-ml/supervised" target="_blank" rel="noopener">curso do Google</a> (em inglês: <em>dataset, label, training, model, prediction</em>).</p>
+    <p class="cite">Em inglês, que você vai ler muito: <em>dataset, label, training, model, prediction</em> (como no <a href="https://developers.google.com/machine-learning/intro-to-ml/supervised" target="_blank" rel="noopener">curso do Google</a>).</p>
   </div>
 </section>
 
 <section>
   <h2>Duas coisas para guardar</h2>
   <ol>
-    <li><strong>ML vale a pena quando a regra é difícil de escrever.</strong> Prever chuva com equações da física é dificílimo; dar ao modelo muitos dados de clima e deixar que ele aprenda a relação é mais viável. <span class="cite">(<a href="https://developers.google.com/machine-learning/intro-to-ml/what-is-ml" target="_blank" rel="noopener">Google</a>)</span> Se a regra é simples e conhecida, como uma tabela de imposto, é só escrever a regra.</li>
-    <li><strong>O modelo só sabe o que os exemplos mostraram.</strong> Exemplos ruins ou incompletos geram um modelo que erra, como a mensagem do salário mostrou. Por isso, boa parte do trabalho de um ML Engineer é cuidar dos dados e medir onde o modelo erra.</li>
+    <li><strong>ML vale a pena quando a regra é difícil de escrever.</strong> Prever chuva escrevendo equações de física é dificílimo; é mais viável dar ao modelo muitos dados de clima e deixar que ele aprenda a relação. <span class="cite">(<a href="https://developers.google.com/machine-learning/intro-to-ml/what-is-ml" target="_blank" rel="noopener">Google</a>)</span> Se a regra é simples e conhecida, como uma tabela de imposto, é só escrever a regra.</li>
+    <li><strong>O modelo só sabe o que os exemplos mostraram.</strong> Exemplos ruins ou incompletos geram um modelo que erra, como você viu na mensagem do salário. Por isso, boa parte do trabalho de um ML Engineer é cuidar dos dados e medir onde o modelo erra.</li>
   </ol>
 </section>
 
 <section>
-  <h2>Onde isso encontra a sua missão</h2>
-  <p>Na próxima missão (M0.7) você vai usar um modelo <strong>pronto</strong>, que alguém já treinou com muitas frases rotuladas como positivas, negativas ou neutras. Você não vai treinar nada: só vai pedir <strong>previsões</strong> para frases suas e anotar onde ele erra. Quando ele errar, lembre da mensagem do salário.</p>
-  <p>Em 18 meses, o seu trabalho vai ser o caminho inteiro: juntar os dados, treinar, medir os erros e colocar o modelo no ar para outras pessoas usarem.</p>
+  <h2>O que isso tem a ver com a sua missão</h2>
+  <p>Na próxima missão (M0.7) você vai usar um modelo <strong>pronto</strong>, que outra pessoa já treinou com muitas frases rotuladas como positivas, negativas ou neutras. Você não vai treinar nada: só vai pedir <strong>previsões</strong> para frases suas e anotar onde ele erra. Quando ele errar, lembre-se da mensagem do salário.</p>
+  <p>Daqui a 18 meses, o seu trabalho vai ser fazer o caminho inteiro: juntar os dados, treinar, medir os erros e colocar o modelo no ar para outras pessoas usarem.</p>
 </section>
 
 <section>
-  <h2>Quiz: puxe da memória</h2>
-  <p class="muted">Responda sem rolar a página para cima. Lembrar com esforço é o que faz o conteúdo ficar.</p>
+  <h2>Quiz: responda de memória</h2>
+  <p class="muted">Responda sem voltar a página. É o esforço de lembrar que fixa o conteúdo.</p>
   <div class="quiz" data-quiz="quiz-final"></div>
   <script type="application/json" id="quiz-final">
   {"score": true, "questions": [
@@ -134,23 +134,23 @@
      "options": ["Ele reconhece o cavalo porque já é inteligente.", "Ele recusa a foto e pede outro exemplo.", "Ele chuta gato ou cachorro: só conhece isso."],
      "answer": 2,
      "explain": "O modelo só sabe o que os exemplos mostraram. Ele nunca viu um cavalo, então responde com o que conhece."},
-    {"q": "Na M0.7 você vai dar frases novas a um modelo pronto, e ele vai dizer se são positivas ou negativas. Isso é…",
+    {"q": "Na M0.7 você vai dar frases novas a um modelo pronto, e ele vai dizer se são positivas, negativas ou neutras. Isso é…",
      "options": ["Treinar o modelo", "Escrever um rótulo", "Fazer uma previsão"],
      "answer": 2,
-     "explain": "O modelo já foi treinado por outra pessoa. Você só usa: entrega um caso novo e recebe a previsão."}
+     "explain": "O modelo já foi treinado por outra pessoa. Você só o usa: entrega um caso novo e recebe a previsão."}
   ]}
   </script>
 </section>
 
 <section class="callout">
   <h3>Para ler depois (fonte principal)</h3>
-  <p><a href="https://course.elementsofai.com/pt/4/1/" target="_blank" rel="noopener"><strong>Elements of AI, capítulo 4.1 · Tipos de aprendizagem automática</strong></a>, da Universidade de Helsinque. Gratuito, em português (de Portugal: lá “machine learning” é “aprendizagem automática”), sem matemática nem programação. Leia só a seção 4.1; o resto do capítulo fica para quando quiser ir além.</p>
+  <p><a href="https://course.elementsofai.com/pt/4/1/" target="_blank" rel="noopener"><strong>Elements of AI, capítulo 4.1 · Tipos de aprendizagem automática</strong></a>, da Universidade de Helsinque. É gratuito, sem matemática e sem programação, e está em português de Portugal (por isso lá machine learning se chama “aprendizagem automática”). Leia só a seção 4.1; o resto do capítulo fica para quando quiser ir além.</p>
   <p>Prefere em inglês? <a href="https://developers.google.com/machine-learning/intro-to-ml/what-is-ml" target="_blank" rel="noopener">Google · What is Machine Learning?</a></p>
 </section>
 
 <section class="callout">
   <h3>Ficou alguma dúvida?</h3>
-  <p>Pergunte ao professor no Claude Code, do jeito que vier: “não entendi a diferença entre modelo e treino”, “por que o salário virou spam?”. Não existe pergunta boba aqui.</p>
+  <p>Pergunte ao professor no Claude Code, do jeito que sair: “não entendi a diferença entre modelo e treino”, “por que o salário virou spam?”. Não existe pergunta boba aqui.</p>
 </section>
 
 <nav class="lesson-nav">

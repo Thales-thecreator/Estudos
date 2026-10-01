@@ -44,7 +44,7 @@
           buttons[item.answer].classList.add("is-right");
           if (!ok) btn.classList.add("is-wrong");
           feedback.textContent = "";
-          feedback.appendChild(el("span", "q-verdict", ok ? "Isso. " : "Ainda não. "));
+          feedback.appendChild(el("span", "q-verdict", ok ? "Certo. " : "Errado. "));
           feedback.appendChild(document.createTextNode(item.explain));
           feedback.className = "q-feedback " + (ok ? "is-right" : "is-wrong");
           feedback.hidden = false;
