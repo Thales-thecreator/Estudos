@@ -17,6 +17,7 @@ Use sempre estas traduções. Nomes próprios (Aethelgard, Thales e nomes de per
 | Manopla do Conhecimento Quebrado | Gauntlet of Shattered Knowledge |
 | Círculo · Suserano · Corrente | Circle · Overlord · Chain |
 | a criatura de obsidiana e gelo | the creature of obsidian and ice |
+| Vael-Ithra (nome revelado na M0.6) | Vael-Ithra |
 | o Mestre | the Master |
 
 ## Jogo

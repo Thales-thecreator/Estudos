@@ -50,6 +50,7 @@ Every command, with examples and rules (challenge the boss, sanctuary, outposts,
 | Scene 3 | [The Grimoire of Blank Pages](./cenas/0003-o-grimorio.en.md) · M0.3 | Prologue |
 | Scene 4 | [The Knot of Two Roots](./cenas/0004-o-labirinto.en.md) · M0.4 | Prologue |
 | Scene 5 | [Three Torches in the Mist](./cenas/0005-tres-tochas.en.md) · M0.5 | Prologue |
+| Scene 6 | [The Name in the Ice](./cenas/0006-o-nome-no-gelo.en.md) · M0.6 | Prologue |
 
 ## 🎲 Play it yourself
 

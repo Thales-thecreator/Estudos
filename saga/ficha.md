@@ -7,9 +7,9 @@
 | **Nome** | Thales, o Herege |
 | **Classe** | Erudito Amaldiçoado (Buscador da Verdade Primordial) |
 | **Nível** | 0 · *Herege Acorrentado* (Recruta) |
-| **XP** | 80 |
-| **Local** | Prólogo — acorrentado ao Trono das Lâminas Partidas |
-| **Correntes** | ⛓️ 5 / 6 |
+| **XP** | 90 |
+| **Local** | Prólogo — sentado no Trono das Lâminas Partidas, já sem correntes |
+| **Correntes** | ⛓️ 6 / 6 quebradas |
 
 ## Títulos por nível
 
@@ -57,7 +57,7 @@ Fragmentos restaurados: **0 / 9** — um por chefão vencido.
 
 ## 🤝 Aliados
 
-- **A criatura de obsidiana e gelo** — guia (nome desconhecido)
+- **Vael-Ithra**, a criatura de obsidiana e gelo — guia e professora
 
 ## ⚖️ Pactos e dívidas
 

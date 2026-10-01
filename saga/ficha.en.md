@@ -7,9 +7,9 @@
 | **Name** | Thales the Heretic |
 | **Class** | Cursed Scholar (Seeker of the Primordial Truth) |
 | **Level** | 0 · *Chained Heretic* (Recruit) |
-| **XP** | 80 |
-| **Location** | Prologue — chained to the Throne of Broken Blades |
-| **Chains** | ⛓️ 5 / 6 |
+| **XP** | 90 |
+| **Location** | Prologue — seated on the Throne of Broken Blades, no longer chained |
+| **Chains** | ⛓️ 6 / 6 broken |
 
 ## Titles by level
 
@@ -57,7 +57,7 @@ Fragments restored: **0 / 9** — one per boss defeated.
 
 ## 🤝 Allies
 
-- **The creature of obsidian and ice** — guide (name unknown)
+- **Vael-Ithra**, the creature of obsidian and ice — guide and teacher
 
 ## ⚖️ Pacts and debts
 

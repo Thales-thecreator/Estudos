@@ -35,7 +35,7 @@ Marque `[x]` ao concluir, registre no `LOG.md` e feche a issue correspondente no
   Reescreva as seções *Why* (por quê) e *Constraints* (restrições) do [`classroom/MISSION.md`](../../classroom/MISSION.md) com suas palavras, em português (os títulos ficam em inglês porque é o formato da `/teach`), e escolha **3 horários fixos na semana** para estudar. Anote-os no topo do `LOG.md`.
   **Evidência:** `MISSION.md` e `LOG.md` atualizados.
 
-- [ ] **M0.6 · Primeira aula com o professor** · ⛓️ *Corrente VI · Solidão* — 0 XP (+10 da aula)
+- [x] **M0.6 · Primeira aula com o professor** · ⛓️ *Corrente VI · Solidão* — 0 XP (+10 da aula)
   Abra o Claude Code neste repo e rode `/teach O que é Machine Learning, em linguagem simples, para quem nunca programou`. Faça o quiz da aula.
   **Evidência:** a aula salva em `classroom/lessons/`.
 

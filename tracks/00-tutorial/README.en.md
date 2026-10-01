@@ -35,7 +35,7 @@ Tick `[x]` when done, log it in `LOG.md`, and close the matching GitHub issue.
   Rewrite the *Why* and *Constraints* sections of [`classroom/MISSION.md`](../../classroom/MISSION.md) in your own words (in Portuguese; the headings stay in English because that is the `/teach` format), and pick **3 fixed weekly slots** to study. Write them at the top of `LOG.md`.
   **Evidence:** updated `MISSION.md` and `LOG.md`.
 
-- [ ] **M0.6 · First lesson with the teacher** · ⛓️ *Chain VI · Solitude* — 0 XP (+10 from the lesson)
+- [x] **M0.6 · First lesson with the teacher** · ⛓️ *Chain VI · Solitude* — 0 XP (+10 from the lesson)
   Open Claude Code in this repo and run `/teach What is Machine Learning, in plain language, for someone who has never programmed`. Take the lesson's quiz.
   **Evidence:** the lesson saved in `classroom/lessons/`.
 

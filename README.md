@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/level-0%20·%20Recruit-6e7681?style=for-the-badge" alt="Level">
-  <img src="https://img.shields.io/badge/XP-80%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
+  <img src="https://img.shields.io/badge/XP-90%20%2F%207000-2ea043?style=for-the-badge" alt="XP">
   <img src="https://img.shields.io/badge/phase-0%20·%20Tutorial-1f6feb?style=for-the-badge" alt="Phase">
   <img src="https://img.shields.io/badge/streak-0%20weeks-f0883e?style=for-the-badge" alt="Streak">
   <a href="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml"><img src="https://github.com/Thales-thecreator/road-to-ai-engineer/actions/workflows/qa.yml/badge.svg" alt="QA"></a>
@@ -21,9 +21,9 @@
 **Learning ML, MLOps and AI Engineering in public.** Every phase ends in a shipped project: its own repository, tests, real metrics and a public demo. The [projects](#-featured-projects) come first; the dark-fantasy RPG that keeps me studying is [further down](#-the-saga).
 
 <!-- quest:start -->
-> - ⚔️ **Current quest:** M0.6 · First lesson with the teacher — Chain VI · Solitude
-> - 📜 **Latest from the saga:** [Three Torches in the Mist](./saga/cenas/0005-tres-tochas.en.md)
-> - 🔥 **Streak:** 0 weeks · **Next level:** Apprentice (70 XP to go)
+> - ⚔️ **Current quest:** M0.7 · First spell — The Spark
+> - 📜 **Latest from the saga:** [The Name in the Ice](./saga/cenas/0006-o-nome-no-gelo.en.md)
+> - 🔥 **Streak:** 0 weeks · **Next level:** Apprentice (60 XP to go)
 <!-- quest:end -->
 
 ## 👋 About me
