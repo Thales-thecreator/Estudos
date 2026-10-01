@@ -9,7 +9,7 @@
 | **Level** | 0 · *Chained Heretic* (Recruit) |
 | **XP** | 80 |
 | **Location** | Prologue — chained to the Throne of Broken Blades |
-| **Chains** | ⛓️ 1 / 6 |
+| **Chains** | ⛓️ 5 / 6 |
 
 ## Titles by level
 

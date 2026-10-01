@@ -9,7 +9,7 @@
 | **Nível** | 0 · *Herege Acorrentado* (Recruta) |
 | **XP** | 80 |
 | **Local** | Prólogo — acorrentado ao Trono das Lâminas Partidas |
-| **Correntes** | ⛓️ 1 / 6 |
+| **Correntes** | ⛓️ 5 / 6 |
 
 ## Títulos por nível
 
