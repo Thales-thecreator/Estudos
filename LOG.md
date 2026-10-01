@@ -37,3 +37,4 @@ XP: só o XP de missões/chefões/aulas concluídas nessa sessão. O bônus sema
 |2026-09-29| 15 | 🟨 | Aprendi a criar meu primeiro Google Colab e rodar alguns comandos em python como: print("Olá, mundo!"). | M0.3 | 20 |
 |2026-09-29| 40 | 🟩 | Completei a introdução do [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) sobre Commits, branches, merge e rebase. | M0.4 | 15 |
 |2026-09-29| 5 | 🟨 | Escrevi o Porque de estar estudando e objetivos e também os desafios e a rotina e por fim defini 3 horários fixos para estudo. | M0.5 | 15 |
+|2026-09-30| 20 | 🟩 | Aula sobre oque é Machine Learning, oque é um modelo, treino e rótulos. | M0.6 | 10 |
