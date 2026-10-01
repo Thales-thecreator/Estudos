@@ -4,6 +4,10 @@ Fontes de alta confiança para as aulas da `/teach`. O mapa completo por fase es
 
 ## Knowledge
 
+- [Elements of AI — Universidade de Helsinque (versão em PT)](https://course.elementsofai.com/pt/)
+  Curso gratuito sobre o que é IA, sem matemática nem programação; o capítulo 4 cobre machine learning (PT de Portugal: "aprendizagem automática"). Use para: conceitos de ML para quem ainda não programa.
+- [Google — Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml)
+  Curso curto do Google com definições claras (modelo, rótulo, treino, previsão) e tipos de ML. Use para: vocabulário de ML em inglês.
 - [CS50P — Harvard](https://cs50.harvard.edu/python/)
   Curso introdutório de Python com exercícios corrigidos. Use para: tudo da Fase 1.
 - [Pense em Python, 3ª ed. (tradução)](https://rodrigocarlson.github.io/PensePython3ed/)

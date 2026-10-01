@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ML numa Página</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,650;1,8..60,400&family=Spectral:wght@600&display=swap">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<main class="page">
+
+<header>
+  <p class="eyebrow">Folha de consulta · aula 1</p>
+  <h1>ML numa página</h1>
+</header>
+
+<section>
+  <blockquote class="def">Machine Learning é treinar um programa, chamado <span class="t-model">modelo</span>, para fazer previsões úteis a partir de dados.</blockquote>
+  <p class="cite"><a href="https://developers.google.com/machine-learning/intro-to-ml/what-is-ml" target="_blank" rel="noopener">Google · What is ML?</a></p>
+</section>
+
+<section>
+  <h2>Quem escreve as regras</h2>
+  <div class="flow">
+    <div class="flow-row">
+      <span class="flow-tag">Programação comum</span>
+      <span class="box">Regras + dados</span>
+      <span class="arrow" aria-hidden="true">→</span>
+      <span class="box">Programa</span>
+      <span class="arrow" aria-hidden="true">→</span>
+      <span class="box">Respostas</span>
+    </div>
+    <div class="flow-row">
+      <span class="flow-tag">Machine Learning</span>
+      <span class="box">Dados + <span class="t-label">respostas</span></span>
+      <span class="arrow" aria-hidden="true">→</span>
+      <span class="box">Treino</span>
+      <span class="arrow" aria-hidden="true">→</span>
+      <span class="box is-model">Modelo</span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Vocabulário</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Termo</th><th>O que é</th><th>No filtro de spam</th><th>Em inglês</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Dados</strong></td><td>os exemplos</td><td>as mensagens</td><td class="msg">data, dataset</td></tr>
+        <tr><td><strong>Rótulo</strong></td><td>a <span class="t-label">resposta certa</span> de cada exemplo</td><td>spam / não spam</td><td class="msg">label</td></tr>
+        <tr><td><strong>Treino</strong></td><td>descobrir o padrão nos exemplos</td><td>ver que “promete dinheiro” aparece no spam</td><td class="msg">training</td></tr>
+        <tr><td><strong>Modelo</strong></td><td>a <span class="t-model">regra descoberta</span></td><td>“promete dinheiro → spam”</td><td class="msg">model</td></tr>
+        <tr><td><strong>Previsão</strong></td><td>a resposta do modelo para um caso novo</td><td>dizer se uma mensagem nova é spam</td><td class="msg">prediction</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2>Regras de bolso</h2>
+  <ul>
+    <li><strong>Use ML</strong> quando a regra é difícil de escrever e há muitos exemplos (chuva, spam, sentimento de frases).</li>
+    <li><strong>Não use ML</strong> quando a regra é simples e conhecida (tabela de imposto): escreva a regra.</li>
+    <li><strong>O modelo só sabe o que os exemplos mostraram.</strong> Exemplos com buraco geram um modelo com buraco.</li>
+    <li><strong>Modelo pré-treinado</strong> = alguém já fez o treino; você só pede previsões (M0.7).</li>
+  </ul>
+</section>
+
+<nav class="lesson-nav">
+  <a href="../lessons/0001-aprender-com-exemplos.html">Aula 1 · Aprender com exemplos</a>
+  <a href="https://course.elementsofai.com/pt/4/1/" target="_blank" rel="noopener">Elements of AI · cap. 4.1 (PT)</a>
+</nav>
+
+</main>
+</body>
+</html>
