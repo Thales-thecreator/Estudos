@@ -1,8 +1,7 @@
 /* Quiz reutilizável das aulas da /teach.
-   Uso: <div class="quiz" data-quiz="id-do-json"></div>
-        <script type="application/json" id="id-do-json">
-          {"score": true, "questions": [{"q": "...", "options": ["...", "..."], "answer": 0, "explain": "..."}]}
-        </script>
+   Uso: um elemento com data-quiz="ID" e, na mesma página, um script do tipo
+   application/json com id="ID" contendo:
+   {"score": true, "questions": [{"q": "...", "options": ["...", "..."], "answer": 0, "explain": "..."}]}
    Cada pergunta trava depois da primeira resposta e mostra o porquê na hora. */
 (function () {
   function el(tag, cls, text) {
